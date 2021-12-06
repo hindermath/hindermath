@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hindermath!
-- 👀 I’m interested in .Net Framework programming with Visual Studio and JetBrains IDEs
-- 🌱 I’m currently learning puppet and Docker
+- 👀 I’m interested in .Net Framework programming with Visual Studio and JetBrains IDEs, PowerShell scripts with PowerShell Studio from Sapien Technologies and programming DELPHI.
+- 🌱 I’m currently programming example programs for our trainees Fachinformatiker/Anwendungsentwicklung and support the trainee programm and teach them my example programms.
 - 💞️ I’m looking to collaborate not now
 - 📫 How to reach me here on github
 

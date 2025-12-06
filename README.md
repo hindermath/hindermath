@@ -1,10 +1,74 @@
-- 👋 Hi, I’m @hindermath!
-- 👀 I’m interested in .Net Framework/C# programming with JetBrains Rider (main IDE), Visual Studio and VS Code, PowerShell scripts with PowerShell Studio from Sapien Technologies and VS Code and (new) web programming with minimal REST APIs in C# and UI/Frontend with React. I'm also using DevExpress Universal Access as my primary 3rd party library for components support in my projects
-- 🌱 I’m currently programming example programs for our trainees Fachinformatiker/Anwendungsentwicklung and support the trainee programm and teach them my example programms.
-- 💞️ I’m loosely looking for collaboration.
-- 📫 How to reach me here on github is [https://github.com/hindermath](https://github.com/hindermath/).
-- 📫 How to reach me on LinkedIn to see my [public profile](https://de.linkedin.com/in/thorsten-hindermann-799b72244?trk=profile-badge).
-             
+# 👤 Thorsten Hindermann – Personal Dashboard
+
+## Personal
+- **Name:** Thorsten Hindermann (addressed as Thorsten, informal)
+- **Favorite color:** Blue
+
+---
+
+## 💻 Tech & Programming
+- **Favorite language:** C# with the .NET Framework
+- **Databases:** Sqlite, PostgreSQL, MongoDB
+- **Retro computing:** Commodore C64 Ultimate, vintage programmable calculators from HP and TI
+
+---
+
+## 🎮 Gaming
+- **Console:** Xbox Series S  
+- **Favorite game:** MSFS2020 (Microsoft Flight Simulator)  
+- **New acquisition:** Commodore C64 Ultimate as computer & gaming console  
+
+---
+
+## 📚📸 Hobbies
+- **Reading:** Amazon Kindle  
+- **Photography:** Canon cameras  
+- **Interest:** US Navy – especially aircraft carriers from 1950 onwards  
+
+---
+
+## 🎹 Music – HTMAN (How To Make A Noise)
+- **DAWs:** Garageband, Logic Pro, Ableton Live, FL Studio  
+- **Software:** Nearly all Native Instruments programs & libraries  
+- **Hardware:** AKAI PRO MPK mini IV MIDI controller (used with FL Studio & Ableton Live)  
+
+--------------------------------------------------------------
+
+# 👤 Thorsten Hindermann – Persönliches Dashboard
+
+## Persönliches
+- **Name:** Thorsten Hindermann (Ansprache: Thorsten, duzen)
+- **Lieblingsfarbe:** Blau
+
+---
+
+## 💻 Technik & Programmieren
+- **Lieblingssprache:** C# mit dem .NET Framework
+- **Datenbanken:** Sqlite, PostgreSQL, MongoDB
+- **Retro-Computing:** Commodore C64 Ultimate, alte programmierbare Taschenrechner von HP und TI
+
+---
+
+## 🎮 Gaming
+- **Konsole:** Xbox Series S  
+- **Lieblingsspiel:** MSFS2020 (Microsoft Flight Simulator)  
+- **Neuanschaffung:** Commodore C64 Ultimate als Computer & Spielekonsole  
+
+---
+
+## 📚📸 Hobbys
+- **Lesen:** Amazon Kindle  
+- **Fotografie:** Canon Kameras  
+- **Interesse:** US Navy – speziell Flugzeugträger ab 1950  
+
+---
+
+## 🎹 Musik – HTMAN (How To Make A Noise)
+- **DAWs:** Garageband, Logic Pro, Ableton Live, FL Studio  
+- **Software:** Nahezu alle Native Instruments Programme & Bibliotheken  
+- **Hardware:** AKAI PRO MPK mini IV MIDI-Controller (für FL Studio & Ableton Live)  
+
+---             
 
 <!---
 hindermath/hindermath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

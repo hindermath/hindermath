@@ -1,5 +1,11 @@
 # 👤 Thorsten Hindermann – Personal Dashboard
 
+## 🌟 Introduction
+Hi, I'm **Thorsten Hindermann** – a tech enthusiast, retro computing fan, and music creator.  
+I love combining modern programming with vintage hardware, exploring aviation history, and producing music under the name **HTMAN (How To Make A Noise)**.  
+This README is a snapshot of my passions and tools I use across coding, gaming, photography, and music production.
+
+---
 ## Personal
 - **Name:** Thorsten Hindermann (addressed as Thorsten, informal)
 - **Favorite color:** Blue
@@ -35,6 +41,13 @@
 --------------------------------------------------------------
 
 # 👤 Thorsten Hindermann – Persönliches Dashboard
+
+## 🌟 Einführung
+Hallo, ich bin **Thorsten Hindermann** – Technik-Enthusiast, Retro-Computing-Fan und Musikmacher.  
+Ich liebe es, moderne Programmierung mit Vintage-Hardware zu verbinden, die Geschichte der Luftfahrt und Marine zu erkunden und Musik unter dem Namen **HTMAN (How To Make A Noise)** zu produzieren.  
+Dieses README ist ein Überblick über meine Leidenschaften und die Werkzeuge, die ich in den Bereichen Programmieren, Gaming, Fotografie und Musikproduktion nutze.
+
+---
 
 ## Persönliches
 - **Name:** Thorsten Hindermann (Ansprache: Thorsten, duzen)

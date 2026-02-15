@@ -1,89 +1,120 @@
-# 👤 Thorsten Hindermann – Personal Dashboard
-
-## 🌟 Introduction
-Hi, I'm **Thorsten Hindermann** – a tech enthusiast, retro computing fan, and music creator.  
-I love combining modern programming with vintage hardware, exploring aviation history, and producing music under the name **HTMAN (How To Make A Noise)**.  
-This README is a snapshot of my passions and tools I use across coding, gaming, photography, and music production.
-
----
-## Personal
-- **Name:** Thorsten Hindermann (addressed as Thorsten, informal)
-- **Favorite color:** Blue
+<!-- Banner -->
+<h1 align="center">Hi, ich bin Thorsten 👋</h1>
+<h3 align="center">Softwareentwickler • Retro-Computing-Enthusiast • Musikmacher</h3>
 
 ---
 
-## 💻 Tech & Programming
-- **Favorite language:** C# with the .NET Framework
-- **Databases:** Sqlite, PostgreSQL, MongoDB
-- **Retro computing:** Commodore C64 Ultimate, vintage programmable calculators from HP and TI
+## 🔧 Tech Stack & Tools
+
+### 👨‍💻 Sprachen & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🛠️ IDEs & Tools
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Datenbanken
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🕹️ Retro & Embedded
+![C64](https://img.shields.io/badge/Commodore%2064-1E90FF?style=for-the-badge)
+![ACME](https://img.shields.io/badge/ACME%20Assembler-000000?style=for-the-badge)
+![cc65](https://img.shields.io/badge/cc65-000000?style=for-the-badge)
+![KickAssembler](https://img.shields.io/badge/KickAssembler-FF8C00?style=for-the-badge)
+
+### 🎵 Musikproduktion
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-F7931E?style=for-the-badge&logo=flstudio&logoColor=white)
+![Logic Pro](https://img.shields.io/badge/Logic%20Pro-000000?style=for-the-badge)
+![Native Instruments](https://img.shields.io/badge/Native%20Instruments-000000?style=for-the-badge)
+![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge)
 
 ---
 
-## 🎮 Gaming
-- **Console:** Xbox Series S  
-- **Favorite game:** MSFS2020 (Microsoft Flight Simulator)  
-- **New acquisition:** Commodore C64 Ultimate as computer & gaming console  
+## 🚀 Aktuelle Projekte
+- 🔧 Einheitliches Build‑System für KickAssembler‑Projekte  
+- 🕹️ Erweiterung des cc65‑Workflows auf C64 Ultimate und VICE  
+- 🎛️ Entwicklung eigener VST3‑Plugins  
+- 🧑‍🏫 Interaktive PowerPoint‑Trainings für Betriebsräte  
+- 👨‍🎓 Wöchentliche Programmierübungen für Fachinformatiker AE/SI  
 
 ---
 
-## 📚📸 Hobbies
-- **Reading:** Amazon Kindle  
-- **Photography:** Canon cameras  
-- **Interest:** US Navy – especially aircraft carriers from 1950 onwards  
+## 🎯 Interessen
+- Retro‑Computing (C64U)  
+- US Navy Geschichte (Flugzeugträger ab 1950)  
+- Programmierbare Taschenrechner (HP & TI)  
+- Fotografie (Canon)  
+- MSFS2020 auf Xbox Series S  
+- Musikproduktion (HTMAN – *How To Make A Noise*)  
 
 ---
 
-## 🎹 Music – HTMAN (How To Make A Noise)
-- **DAWs:** Garageband, Logic Pro, Ableton Live, FL Studio  
-- **Software:** Nearly all Native Instruments programs & libraries  
-- **Hardware:** AKAI PRO MPK mini IV MIDI controller (used with FL Studio & Ableton Live)  
+# 🇬🇧 English Version
 
---------------------------------------------------------------
-
-# 👤 Thorsten Hindermann – Persönliches Dashboard
-
-## 🌟 Einführung
-Hallo, ich bin **Thorsten Hindermann** – Technik-Enthusiast, Retro-Computing-Fan und Musikmacher.  
-Ich liebe es, moderne Programmierung mit Vintage-Hardware zu verbinden, die Geschichte der Luftfahrt und Marine zu erkunden und Musik unter dem Namen **HTMAN (How To Make A Noise)** zu produzieren.  
-Dieses README ist ein Überblick über meine Leidenschaften und die Werkzeuge, die ich in den Bereichen Programmieren, Gaming, Fotografie und Musikproduktion nutze.
+<h1 align="center">Hi, I'm Thorsten 👋</h1>
+<h3 align="center">Software Developer • Retro Computing Enthusiast • Music Creator</h3>
 
 ---
 
-## Persönliches
-- **Name:** Thorsten Hindermann (Ansprache: Thorsten, duzen)
-- **Lieblingsfarbe:** Blau
+## 🔧 Tech Stack & Tools
+
+### 👨‍💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🛠️ IDEs & Tools
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🕹️ Retro & Embedded
+![C64](https://img.shields.io/badge/Commodore%2064-1E90FF?style=for-the-badge)
+![ACME](https://img.shields.io/badge/ACME%20Assembler-000000?style=for-the-badge)
+![cc65](https://img.shields.io/badge/cc65-000000?style=for-the-badge)
+![KickAssembler](https://img.shields.io/badge/KickAssembler-FF8C00?style=for-the-badge)
+
+### 🎵 Music Production
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-F7931E?style=for-the-badge&logo=flstudio&logoColor=white)
+![Logic Pro](https://img.shields.io/badge/Logic%20Pro-000000?style=for-the-badge)
+![Native Instruments](https://img.shields.io/badge/Native%20Instruments-000000?style=for-the-badge)
+![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge)
 
 ---
 
-## 💻 Technik & Programmieren
-- **Lieblingssprache:** C# mit dem .NET Framework
-- **Datenbanken:** Sqlite, PostgreSQL, MongoDB
-- **Retro-Computing:** Commodore C64 Ultimate, alte programmierbare Taschenrechner von HP und TI
+## 🚀 Current Projects
+- Unified build system for KickAssembler projects  
+- Expanding cc65 workflow to Commodore C64 Ultimate  
+- Developing custom VST3 plugins  
+- Interactive PowerPoint training for works councils  
+- Weekly programming exercises for IT apprentices (AE/SI)  
 
 ---
 
-## 🎮 Gaming
-- **Konsole:** Xbox Series S  
-- **Lieblingsspiel:** MSFS2020 (Microsoft Flight Simulator)  
-- **Neuanschaffung:** Commodore C64 Ultimate als Computer & Spielekonsole  
+## 🎯 Interests
+- Retro computing (C64U)  
+- US Navy history (aircraft carriers after 1950)  
+- Programmable calculators (HP & TI)  
+- Photography (Canon)  
+- MSFS2020 on Xbox Series S  
+- Music production (HTMAN – *How To Make A Noise*)  
 
 ---
-
-## 📚📸 Hobbys
-- **Lesen:** Amazon Kindle  
-- **Fotografie:** Canon Kameras  
-- **Interesse:** US Navy – speziell Flugzeugträger ab 1950  
-
----
-
-## 🎹 Musik – HTMAN (How To Make A Noise)
-- **DAWs:** Garageband, Logic Pro, Ableton Live, FL Studio  
-- **Software:** Nahezu alle Native Instruments Programme & Bibliotheken  
-- **Hardware:** AKAI PRO MPK mini IV MIDI-Controller (für FL Studio & Ableton Live)  
-
----             
-
-<!---
-hindermath/hindermath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

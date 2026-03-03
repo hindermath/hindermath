@@ -11,6 +11,12 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-10-blueviolet)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Compiler](https://img.shields.io/badge/Topic-Compiler%20Construction-orange)
+![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
+
 
 ### 🛠️ IDEs & Tools
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
@@ -57,9 +63,13 @@
 - Musikproduktion (HTMAN – *How To Make A Noise*)  
 
 ---
-Umgesetzte "Herzens"-Projekte
+## ❤️ Meine Herzensprojekte
 
-❤️ TinyCalc – Moderne Neuinterpretation von Borlands MicroCalc
+Beide Projekte verbinden meine Leidenschaft für Retro‑Computing, Software‑Geschichte und moderne Softwarearchitektur. TinyCalc bewahrt ein Stück Turbo‑Pascal‑Historie in zeitgemäßer Form, während TinyPL/0 die Grundlagen des Compilerbaus für heutige Entwickler zugänglich macht. Beide Projekte nutze ich aktiv in der Ausbildung von Fachinformatikern.
+
+### 🧮 TinyCalc – Moderne Neuinterpretation von Borlands MicroCalc 
+![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
+
 TinyCalc ist meine moderne .NET‑10/C#‑Portierung der historischen Turbo‑Pascal‑Beispielanwendung MicroCalc (Borland, 1980er).
 Das Original diente damals als Lernprojekt für strukturierte Programmierung, Datenstrukturen und einfache Tabellenkalkulation. TinyCalc führt diese Idee weiter und überträgt sie in eine zeitgemäße Architektur:
 - vollständige Neuumsetzung in C#/.NET 10
@@ -67,11 +77,22 @@ Das Original diente damals als Lernprojekt für strukturierte Programmierung, Da
 - moderne, erweiterbare Architektur
 - ideal für die Ausbildung von Fachinformatikern (Anwendungsentwicklung)
 - entstanden mit Agentic‑AI‑Workflows und GitHub Spec‑Kit
+
+**Funktionen**
+- Tabellenkalkulation mit Zellen, Formeln und Basisoperatoren  
+- Moderne C#/.NET‑10‑Architektur  
+- Saubere Trennung von UI, Logik und Daten  
+- Erweiterbare Engine (z. B. neue Funktionen, Parser‑Erweiterungen)  
+- Ideal für Ausbildung und Retro‑Software‑Analyse
+
 TinyCalc ist damit die einzige bekannte, vollständig rekonstruierte und modernisierte Version von MicroCalc – ein Stück Softwaregeschichte in aktueller Form.
 
 ➡️ Projekt: https://github.com/hindermath/TinyCalc
 ---
-❤️ TinyPL/0 – Ein vollständiger PL/0‑Compiler/Interpreter in C#
+### 🛠️ TinyPL/0 – Ein vollständiger PL/0‑Compiler/Interpreter 
+<Badges hier>
+![Compiler](https://img.shields.io/badge/Topic-Compiler%20Construction-orange)
+
 TinyPL/0 ist meine moderne Umsetzung der klassischen Lehrsprache PL/0 nach Niklaus Wirth.
 PL/0 ist seit Jahrzehnten ein Standardbeispiel für Compilerbau, Parsing, symbolische Tabellen und einfache virtuelle Maschinen. Meine Version bringt diese Konzepte in die heutige Zeit:
 - vollständiger Lexer, Parser, Codegenerator und Interpreter
@@ -80,6 +101,14 @@ PL/0 ist seit Jahrzehnten ein Standardbeispiel für Compilerbau, Parsing, symbol
 - ideal für Ausbildung, Studium und Selbststudium
 - leicht erweiterbar (z. B. zusätzliche Datentypen, Kontrollstrukturen, Optimierungen)
 - TinyPL/0 zeigt, wie Compilerbau heute aussehen kann – verständlich, modular und praxisnah.
+
+**Funktionen**
+- Vollständiger Lexer, Parser, Codegenerator und Interpreter  
+- Originalgetreue Umsetzung der Wirth‑Spezifikation  
+- Erweiterbar um neue Datentypen, Kontrollstrukturen und Optimierungen  
+- Didaktisch strukturierter Code für Ausbildung und Studium  
+- Moderne C#/.NET‑10‑Implementierung
+
 
 ➡️ Projekt: https://github.com/hindermath/TinyPl0
 ---
@@ -97,6 +126,11 @@ PL/0 ist seit Jahrzehnten ein Standardbeispiel für Compilerbau, Parsing, symbol
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-10-blueviolet)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Compiler](https://img.shields.io/badge/Topic-Compiler%20Construction-orange)
+![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
 
 ### 🛠️ IDEs & Tools
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
@@ -143,6 +177,9 @@ PL/0 ist seit Jahrzehnten ein Standardbeispiel für Compilerbau, Parsing, symbol
 - Music production (HTMAN – *How To Make A Noise*)  
 
 ---
+
+Both projects combine my passion for retro computing, software history, and modern software architecture. TinyCalc preserves a piece of Turbo Pascal heritage in a contemporary form, while TinyPL/0 brings the fundamentals of compiler construction into today’s development world. I actively use both projects in IT specialist training.
+
 ❤️ TinyCalc – A Modern Re‑Implementation of Borland’s MicroCalc
 TinyCalc is my modern .NET 10 / C# port of Borland’s classic Turbo Pascal sample application MicroCalc from the 1980s.
 The original served as a teaching example for structured programming and simple spreadsheet logic. TinyCalc brings this concept into the modern era:

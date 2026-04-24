@@ -1,264 +1,135 @@
-<!-- Banner -->
-<h1 align="center">Hi, ich bin Thorsten 👋</h1>
-<h3 align="center">Softwareentwickler • Retro-Computing-Enthusiast • Musikmacher</h3>
+# 👋 Hi, I’m Thorsten Hindermann (@hindermath)
 
----
+Welcome to my GitHub profile. I’m an experienced software developer from Germany, currently working in the public sector and studying software engineering in parallel.
 
-## 🔧 Tech Stack & Tools
+# 👋 Hallo, ich bin Thorsten Hindermann (@hindermath)
 
-### 👨‍💻 Sprachen & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-10-blueviolet)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Compiler](https://img.shields.io/badge/Topic-Compiler%20Construction-orange)
-![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
+Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler aus Deutschland, arbeite aktuell im öffentlichen Dienst und studiere parallel Software Engineering.
 
+## 🌍 About Me / Über mich
 
-### 🛠️ IDEs & Tools
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+* 💼 Working in the public sector as a software developer  
+* 🎓 Studying Software Engineering (berufsbegleitend / part-time)  
+* 🖥️ Passionate about software development from low-level systems to modern tooling and automation  
+* 📚 Interested in maintainable architectures, documentation, accessibility, and practical DevOps workflows  
+* 🤝 Open to collaboration, exchange, and learning from others
 
-### 🗄️ Datenbanken
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🕹️ Retro & Embedded
-![C64](https://img.shields.io/badge/Commodore%2064-1E90FF?style=for-the-badge)
-![ACME](https://img.shields.io/badge/ACME%20Assembler-000000?style=for-the-badge)
-![cc65](https://img.shields.io/badge/cc65-000000?style=for-the-badge)
-![KickAssembler](https://img.shields.io/badge/KickAssembler-FF8C00?style=for-the-badge)
-
-### 🎵 Musikproduktion
-![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL%20Studio-F7931E?style=for-the-badge&logo=flstudio&logoColor=white)
-![Logic Pro](https://img.shields.io/badge/Logic%20Pro-000000?style=for-the-badge)
-![Native Instruments](https://img.shields.io/badge/Native%20Instruments-000000?style=for-the-badge)
-![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge)
-
----
-
-## 🚀 Aktuelle Projekte
-- 🔧 Einheitliches Build‑System für KickAssembler‑Projekte  
-- 🕹️ Erweiterung des cc65‑Workflows auf C64 Ultimate und VICE  
-- 🎛️ Entwicklung eigener VST3‑Plugins  
-- 🧑‍🏫 Interaktive PowerPoint‑Trainings für Betriebsräte  
-- 👨‍🎓 Wöchentliche Programmierübungen für Fachinformatiker AE/SI  
-
----
-
-## 🎯 Interessen
-- Retro‑Computing (C64U)  
-- US Navy Geschichte (Flugzeugträger ab 1950)  
-- Programmierbare Taschenrechner (HP & TI)  
-- Fotografie (Canon)  
-- MSFS2020 auf Xbox Series S  
-- Musikproduktion (HTMAN – *How To Make A Noise*)  
-
----
 ## ❤️ Meine Herzensprojekte
 
-Diese fünf Projekte verbinden meine Leidenschaft für Retro‑Computing, Software‑Geschichte, moderne Softwarearchitektur und agentische Entwicklungsworkflows. Sie sind für mich nicht nur technische Spielwiesen, sondern auch didaktische Werkzeuge, die ich aktiv in der Ausbildung von Fachinformatikern nutze.
+### ❤️ TinyCalc – moderne Reimplementierung von Borlands MicroCalc
 
-### 🧮 TinyCalc – Moderne Neuinterpretation von Borlands MicroCalc 
-![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
+Ein besonderes Herzensprojekt von mir ist **TinyCalc**.  
+Ich schreibe damit die klassische Tabellenkalkulation **Borland MicroCalc** vollständig in **C#** neu – ohne GUI, sondern bewusst als reine **Terminal-/Text-UI-Anwendung**.
 
-TinyCalc ist meine moderne .NET‑10/C#‑Portierung der historischen Turbo‑Pascal‑Beispielanwendung MicroCalc (Borland, 1980er).
-Das Original diente damals als Lernprojekt für strukturierte Programmierung, Datenstrukturen und einfache Tabellenkalkulation. TinyCalc führt diese Idee weiter und überträgt sie in eine zeitgemäße Architektur:
-- vollständige Neuumsetzung in C#/.NET 10
-- klare Trennung von UI, Logik und Daten
-- moderne, erweiterbare Architektur
-- ideal für die Ausbildung von Fachinformatikern (Anwendungsentwicklung)
-- entstanden mit Agentic‑AI‑Workflows und GitHub Spec‑Kit
+Das Projekt verbindet für mich Retro-Computing, Softwarearchitektur, Testbarkeit und Barrierefreiheit.
 
-**Funktionen**
-- Tabellenkalkulation mit Zellen, Formeln und Basisoperatoren  
-- Moderne C#/.NET‑10‑Architektur  
-- Saubere Trennung von UI, Logik und Daten  
-- Erweiterbare Engine (z. B. neue Funktionen, Parser‑Erweiterungen)  
-- Ideal für Ausbildung und Retro‑Software‑Analyse
+👉 Repository: [TinyCalc](https://github.com/hindermath/TinyCalc)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
 
-TinyCalc ist damit die einzige bekannte, vollständig rekonstruierte und modernisierte Version von MicroCalc – ein Stück Softwaregeschichte in aktueller Form.
+### ❤️ TinyPL/0 – Compilerbau trifft auf Retro- und Lehrtradition
 
-➡️ Projekt: https://github.com/hindermath/TinyCalc
----
-### 🛠️ TinyPL/0 – Ein vollständiger PL/0‑Compiler/Interpreter 
-![Compiler](https://img.shields.io/badge/Topic-Compiler%20Construction-orange)
+Ein weiteres Herzensprojekt von mir ist **TinyPL/0**.  
+Ich implementiere den klassischen Lehr-Compiler **PL/0** von Niklaus Wirth vollständig in **C#** neu – modernisiert, testbar und in meiner eigenen Architektur.
 
-TinyPL/0 ist meine moderne Umsetzung der klassischen Lehrsprache PL/0 nach Niklaus Wirth.
-PL/0 ist seit Jahrzehnten ein Standardbeispiel für Compilerbau, Parsing, symbolische Tabellen und einfache virtuelle Maschinen. Meine Version bringt diese Konzepte in die heutige Zeit:
-- vollständiger Lexer, Parser, Codegenerator und Interpreter
-- moderne C#/.NET‑10‑Implementierung
-- klar strukturierter, didaktisch nutzbarer Code
-- ideal für Ausbildung, Studium und Selbststudium
-- leicht erweiterbar (z. B. zusätzliche Datentypen, Kontrollstrukturen, Optimierungen)
-- TinyPL/0 zeigt, wie Compilerbau heute aussehen kann – verständlich, modular und praxisnah.
+Das Projekt verbindet Compilerbau, Didaktik, Sprachdesign und Retro-Informatik.
 
-**Funktionen**
-- Vollständiger Lexer, Parser, Codegenerator und Interpreter  
-- Originalgetreue Umsetzung der Wirth‑Spezifikation  
-- Erweiterbar um neue Datentypen, Kontrollstrukturen und Optimierungen  
-- Didaktisch strukturierter Code für Ausbildung und Studium  
-- Moderne C#/.NET‑10‑Implementierung
+👉 Repository: [TinyPl0](https://github.com/hindermath/TinyPl0)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Compiler](https://img.shields.io/badge/Topic-Compiler-orange) ![PL/0](https://img.shields.io/badge/Language-PL%2F0-lightgrey)
 
-➡️ Projekt: https://github.com/hindermath/TinyPl0
----
-### 🏠 home-baseline – Agentische Basis für meine Workspace-Infrastruktur
-![Bash](https://img.shields.io/badge/Stack-Bash%20%2B%20PowerShell-black)
+### ❤️ home-baseline – meine agentische Workspace-Grundlage
 
-home-baseline ist die infrastrukturelle Grundlage meiner gesamten privaten Entwicklungsumgebung. Das Projekt standardisiert Workspaces, KI-Agenten-Dateien, Verfassungen, Hooks, Sicherheitsprüfungen und Spec-Kit-Setups über mehrere Ebenen hinweg.
-- Bootstrap und Teardown kompletter Workspaces
-- gemeinsame Governance mit Constitution, Agent-Dateien und Statistikregeln
-- Secret-Scanning und Hook-basierte Schutzmechanismen
-- Basis für agentische, reproduzierbare Entwicklungsumgebungen
+**home-baseline** ist meine persönliche Grundlage für eine konsistente agentische Arbeitsumgebung über mehrere Repositories hinweg.  
+Es bündelt Skripte, Richtlinien, Verfassungsregeln und KI-Agenten-Dateien für Level-0-, Level-1- und Level-2-Strukturen.
 
-➡️ Projekt: https://github.com/hindermath/home-baseline
----
-### 🖥️ TuiVision – Moderne .NET-Portierung von Turbo Vision
-![.NET](https://img.shields.io/badge/Framework-.NET%2010-blueviolet)
+Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Governance, Dokumentation und Barrierefreiheit.
 
-TuiVision ist meine moderne Neuinterpretation des klassischen Turbo-Vision-Ansatzes für textbasierte Benutzeroberflächen. Das Projekt verbindet Software-Geschichte mit aktueller .NET-Architektur und ist zugleich ein anspruchsvolles Portierungs- und Ausbildungsprojekt.
-- Terminal-UI-Framework mit moderner C#/.NET-Basis
-- Fokus auf Portierung, Architekturtreue und Erweiterbarkeit
-- geeignet für didaktische Nutzung, Framework-Design und A11Y-orientierte Textoberflächen
+👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
+![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
 
-➡️ Projekt: https://github.com/hindermath/TuiVision
----
-### 📦 InventarWorkerService – Inventarisierung über Plattformen hinweg
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green)
+### ❤️ TuiVision – Terminal-UI für Sehprüfungen
 
-InventarWorkerService ist mein mehrteiliges Inventarisierungsprojekt für Hard- und Softwaredaten. Es verbindet Worker Services, API-Zugriffe, Terminal-Oberflächen und Datenhaltung zu einer modernen, plattformübergreifenden Systemlandschaft.
-- mehrschichtige .NET-Lösung mit Worker, API, Viewer und Shared Components
-- Unterstützung für SQLite, PostgreSQL und MongoDB
-- geeignet für Ausbildung, Architekturvermittlung und reale Betriebsaufgaben
-- verbindet agentische Entwicklung mit produktionsnahen Anwendungsfällen
+Mit **TuiVision** entwickle ich eine moderne, barrierebewusste Anwendung für Sehprüfungen im Terminal.  
+Das Projekt fokussiert sich auf klare Text-UI, gute Tastaturbedienbarkeit und testbare Architektur in **C#/.NET**.
 
-➡️ Projekt: https://github.com/hindermath/InventarWorkerService
----
-# 🇬🇧 English Version
+Das Projekt verbindet für mich Barrierefreiheit, Terminal-UX, Gesundheitsbezug und saubere Softwarearchitektur.
 
-<h1 align="center">Hi, I'm Thorsten 👋</h1>
-<h3 align="center">Software Developer • Retro Computing Enthusiast • Music Creator</h3>
+👉 Repository: [TuiVision](https://github.com/hindermath/TuiVision)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Accessibility](https://img.shields.io/badge/Topic-A11Y-brightgreen)
 
----
+### ❤️ InventarWorkerService – Inventarverwaltung mit Worker-Architektur
 
-## 🔧 Tech Stack & Tools
+**InventarWorkerService** ist Teil meines Inventar-Kontexts und fokussiert sich auf backendnahe Verarbeitung mit **C#/.NET**.  
+Das Projekt steht für robuste Worker-Prozesse, klare Architektur und die Verbindung von Fachlichkeit mit technischer Wartbarkeit.
 
-### 👨‍💻 Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-10-blueviolet)
-![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Compiler](https://img.shields.io/badge/Topic-Compiler%20Construction-orange)
-![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
+Das Projekt verbindet für mich Domänenmodellierung, Hintergrundverarbeitung und pragmatische Unternehmenssoftware.
 
-### 🛠️ IDEs & Tools
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🗄️ Databases
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🕹️ Retro & Embedded
-![C64](https://img.shields.io/badge/Commodore%2064-1E90FF?style=for-the-badge)
-![ACME](https://img.shields.io/badge/ACME%20Assembler-000000?style=for-the-badge)
-![cc65](https://img.shields.io/badge/cc65-000000?style=for-the-badge)
-![KickAssembler](https://img.shields.io/badge/KickAssembler-FF8C00?style=for-the-badge)
-
-### 🎵 Music Production
-![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL%20Studio-F7931E?style=for-the-badge&logo=flstudio&logoColor=white)
-![Logic Pro](https://img.shields.io/badge/Logic%20Pro-000000?style=for-the-badge)
-![Native Instruments](https://img.shields.io/badge/Native%20Instruments-000000?style=for-the-badge)
-![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge)
-
----
-
-## 🚀 Current Projects
-- Unified build system for KickAssembler projects  
-- Expanding cc65 workflow to Commodore C64 Ultimate  
-- Developing custom VST3 plugins  
-- Interactive PowerPoint training for works councils  
-- Weekly programming exercises for IT apprentices (AE/SI)  
-
----
-
-## 🎯 Interests
-- Retro computing (C64U)  
-- US Navy history (aircraft carriers after 1950)  
-- Programmable calculators (HP & TI)  
-- Photography (Canon)  
-- MSFS2020 on Xbox Series S  
-- Music production (HTMAN – *How To Make A Noise*)  
-
----
+👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Worker Service](https://img.shields.io/badge/Type-Worker_Service-lightgrey) ![Domain](https://img.shields.io/badge/Topic-Inventory-blueviolet)
 
 ## ❤️ My Passion Projects
 
-These five projects combine my passion for retro computing, software history, modern software architecture, and agentic development workflows. For me, they are not just technical playgrounds, but also didactic tools that I actively use in training IT specialists.
-
 ### ❤️ TinyCalc – A Modern Re‑Implementation of Borland’s MicroCalc
-TinyCalc is my modern .NET 10 / C# port of Borland’s classic Turbo Pascal sample application MicroCalc from the 1980s.
-The original served as a teaching example for structured programming and simple spreadsheet logic. TinyCalc brings this concept into the modern era:
-- complete re‑implementation in C#/.NET 10
-- clean separation of UI, logic, and data
-- modern, extensible architecture
-- ideal for IT specialist training and educational purposes
-- built using agentic‑AI workflows and GitHub Spec‑Kit
-TinyCalc is currently the only known, fully reconstructed and modernized version of MicroCalc – preserving a piece of software history in contemporary form.
 
-➡️ Project: https://github.com/hindermath/TinyCalc
----
-### ❤️ TinyPL/0 – A Complete PL/0 Compiler/Interpreter in C#
-TinyPL/0 is my modern implementation of the classic teaching language PL/0 by Niklaus Wirth.
-PL/0 has long been a standard example for compiler construction, parsing, symbol tables, and simple virtual machines. My version updates these concepts for today’s development environment:
-- full lexer, parser, code generator, and interpreter
-- modern C#/.NET 10 implementation
-- clean, didactic code structure
-- ideal for education, university courses, and self‑study
-- easily extensible (additional data types, control structures, optimizations)
-TinyPL/0 demonstrates how compiler construction can be taught and explored in a modern, modular, and practical way.
+![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
 
-➡️ Project: https://github.com/hindermath/TinyPl0
----
-### ❤️ home-baseline – The Agentic Foundation of My Workspace Infrastructure
-home-baseline is the infrastructural foundation of my entire private development environment. The project standardises workspaces, AI agent files, constitutions, hooks, security checks, and Spec-Kit setups across multiple levels.
-- bootstrap and teardown of complete workspaces
-- shared governance with constitution, agent files, and statistics rules
-- secret scanning and hook-based protection mechanisms
-- foundation for agentic, reproducible development environments
+One of my most personal projects is **TinyCalc**.  
+It is a modern reimplementation of **Borland MicroCalc** written entirely in **C#** – deliberately built as a **terminal/text UI application** rather than a graphical interface.
 
-➡️ Project: https://github.com/hindermath/home-baseline
----
-### ❤️ TuiVision – A Modern .NET Port of Turbo Vision
-TuiVision is my modern reinterpretation of the classic Turbo Vision approach for text-based user interfaces. The project combines software history with current .NET architecture and is at the same time a demanding porting and education project.
-- terminal UI framework on a modern C#/.NET foundation
-- focus on porting quality, architectural fidelity, and extensibility
-- suitable for didactic use, framework design, and accessibility-oriented text UIs
+For me, this project combines retro computing, software architecture, testability, and accessibility.
 
-➡️ Project: https://github.com/hindermath/TuiVision
----
-### ❤️ InventarWorkerService – Cross-Platform Inventory Management
-InventarWorkerService is my multi-part inventory project for hardware and software data. It combines worker services, API access, terminal interfaces, and persistence into a modern cross-platform system landscape.
-- multi-layer .NET solution with worker, API, viewer, and shared components
-- support for SQLite, PostgreSQL, and MongoDB
-- suitable for education, architecture communication, and real operational use cases
-- combines agentic development with production-like application scenarios
+👉 Repository: [TinyCalc](https://github.com/hindermath/TinyCalc)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational)
 
-➡️ Project: https://github.com/hindermath/InventarWorkerService
+### ❤️ TinyPL/0 – Compiler Construction Meets Retro and Teaching Tradition
+
+Another project especially close to my heart is **TinyPL/0**.  
+I am reimplementing Niklaus Wirth’s classic teaching compiler **PL/0** entirely in **C#** – modernized, testable, and structured in my own architecture.
+
+For me, this project brings together compiler construction, teaching, language design, and retro computing.
+
+👉 Repository: [TinyPl0](https://github.com/hindermath/TinyPl0)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Compiler](https://img.shields.io/badge/Topic-Compiler-orange) ![PL/0](https://img.shields.io/badge/Language-PL%2F0-lightgrey)
+
+### ❤️ home-baseline – My Agentic Workspace Foundation
+
+**home-baseline** is my personal foundation for a consistent agentic workspace across multiple repositories.  
+It bundles scripts, governance rules, constitutions, and AI-agent guidance files for Level-0, Level-1, and Level-2 structures.
+
+For me, this project combines development infrastructure, automation, governance, documentation, and accessibility.
+
+👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
+![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
+
+### ❤️ TuiVision – Terminal UI for Vision Testing
+
+With **TuiVision**, I am building a modern, accessibility-aware application for vision testing in the terminal.  
+The project focuses on clear text UI, strong keyboard usability, and testable architecture in **C#/.NET**.
+
+For me, it combines accessibility, terminal UX, health-related use cases, and clean software architecture.
+
+👉 Repository: [TuiVision](https://github.com/hindermath/TuiVision)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Accessibility](https://img.shields.io/badge/Topic-A11Y-brightgreen)
+
+### ❤️ InventarWorkerService – Inventory Management with Worker Architecture
+
+**InventarWorkerService** is part of my inventory domain and focuses on backend-oriented processing with **C#/.NET**.  
+The project stands for robust worker processes, clear architecture, and the connection between domain logic and technical maintainability.
+
+For me, it combines domain modeling, background processing, and pragmatic business software.
+
+👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Worker Service](https://img.shields.io/badge/Type-Worker_Service-lightgrey) ![Domain](https://img.shields.io/badge/Topic-Inventory-blueviolet)
+
+## 🚀 Technologien / Technologies
+
+`C#` `C` `Java` `WPF` `PowerShell` `Bash` `Terminal UI` `GitHub Actions`
+
+## 📫 Kontakt / Contact
+
+* GitHub: [@hindermath](https://github.com/hindermath)
+
 ---
+
+> "Code should not only work — it should stay understandable, useful, and respectful toward the people who use and maintain it."
+>
+> „Code soll nicht nur funktionieren — er soll verständlich, nützlich und respektvoll gegenüber den Menschen bleiben, die ihn nutzen und pflegen.“

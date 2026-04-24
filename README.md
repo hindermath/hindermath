@@ -65,7 +65,7 @@
 ---
 ## ❤️ Meine Herzensprojekte
 
-Beide Projekte verbinden meine Leidenschaft für Retro‑Computing, Software‑Geschichte und moderne Softwarearchitektur. TinyCalc bewahrt ein Stück Turbo‑Pascal‑Historie in zeitgemäßer Form, während TinyPL/0 die Grundlagen des Compilerbaus für heutige Entwickler zugänglich macht. Beide Projekte nutze ich aktiv in der Ausbildung von Fachinformatikern.
+Diese fünf Projekte verbinden meine Leidenschaft für Retro‑Computing, Software‑Geschichte, moderne Softwarearchitektur und agentische Entwicklungsworkflows. Sie sind für mich nicht nur technische Spielwiesen, sondern auch didaktische Werkzeuge, die ich aktiv in der Ausbildung von Fachinformatikern nutze.
 
 ### 🧮 TinyCalc – Moderne Neuinterpretation von Borlands MicroCalc 
 ![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
@@ -90,7 +90,6 @@ TinyCalc ist damit die einzige bekannte, vollständig rekonstruierte und moderni
 ➡️ Projekt: https://github.com/hindermath/TinyCalc
 ---
 ### 🛠️ TinyPL/0 – Ein vollständiger PL/0‑Compiler/Interpreter 
-<Badges hier>
 ![Compiler](https://img.shields.io/badge/Topic-Compiler%20Construction-orange)
 
 TinyPL/0 ist meine moderne Umsetzung der klassischen Lehrsprache PL/0 nach Niklaus Wirth.
@@ -109,8 +108,39 @@ PL/0 ist seit Jahrzehnten ein Standardbeispiel für Compilerbau, Parsing, symbol
 - Didaktisch strukturierter Code für Ausbildung und Studium  
 - Moderne C#/.NET‑10‑Implementierung
 
-
 ➡️ Projekt: https://github.com/hindermath/TinyPl0
+---
+### 🏠 home-baseline – Agentische Basis für meine Workspace-Infrastruktur
+![Bash](https://img.shields.io/badge/Stack-Bash%20%2B%20PowerShell-black)
+
+home-baseline ist die infrastrukturelle Grundlage meiner gesamten privaten Entwicklungsumgebung. Das Projekt standardisiert Workspaces, KI-Agenten-Dateien, Verfassungen, Hooks, Sicherheitsprüfungen und Spec-Kit-Setups über mehrere Ebenen hinweg.
+- Bootstrap und Teardown kompletter Workspaces
+- gemeinsame Governance mit Constitution, Agent-Dateien und Statistikregeln
+- Secret-Scanning und Hook-basierte Schutzmechanismen
+- Basis für agentische, reproduzierbare Entwicklungsumgebungen
+
+➡️ Projekt: https://github.com/hindermath/home-baseline
+---
+### 🖥️ TuiVision – Moderne .NET-Portierung von Turbo Vision
+![.NET](https://img.shields.io/badge/Framework-.NET%2010-blueviolet)
+
+TuiVision ist meine moderne Neuinterpretation des klassischen Turbo-Vision-Ansatzes für textbasierte Benutzeroberflächen. Das Projekt verbindet Software-Geschichte mit aktueller .NET-Architektur und ist zugleich ein anspruchsvolles Portierungs- und Ausbildungsprojekt.
+- Terminal-UI-Framework mit moderner C#/.NET-Basis
+- Fokus auf Portierung, Architekturtreue und Erweiterbarkeit
+- geeignet für didaktische Nutzung, Framework-Design und A11Y-orientierte Textoberflächen
+
+➡️ Projekt: https://github.com/hindermath/TuiVision
+---
+### 📦 InventarWorkerService – Inventarisierung über Plattformen hinweg
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-green)
+
+InventarWorkerService ist mein mehrteiliges Inventarisierungsprojekt für Hard- und Softwaredaten. Es verbindet Worker Services, API-Zugriffe, Terminal-Oberflächen und Datenhaltung zu einer modernen, plattformübergreifenden Systemlandschaft.
+- mehrschichtige .NET-Lösung mit Worker, API, Viewer und Shared Components
+- Unterstützung für SQLite, PostgreSQL und MongoDB
+- geeignet für Ausbildung, Architekturvermittlung und reale Betriebsaufgaben
+- verbindet agentische Entwicklung mit produktionsnahen Anwendungsfällen
+
+➡️ Projekt: https://github.com/hindermath/InventarWorkerService
 ---
 # 🇬🇧 English Version
 
@@ -178,9 +208,11 @@ PL/0 ist seit Jahrzehnten ein Standardbeispiel für Compilerbau, Parsing, symbol
 
 ---
 
-Both projects combine my passion for retro computing, software history, and modern software architecture. TinyCalc preserves a piece of Turbo Pascal heritage in a contemporary form, while TinyPL/0 brings the fundamentals of compiler construction into today’s development world. I actively use both projects in IT specialist training.
+## ❤️ My Passion Projects
 
-❤️ TinyCalc – A Modern Re‑Implementation of Borland’s MicroCalc
+These five projects combine my passion for retro computing, software history, modern software architecture, and agentic development workflows. For me, they are not just technical playgrounds, but also didactic tools that I actively use in training IT specialists.
+
+### ❤️ TinyCalc – A Modern Re‑Implementation of Borland’s MicroCalc
 TinyCalc is my modern .NET 10 / C# port of Borland’s classic Turbo Pascal sample application MicroCalc from the 1980s.
 The original served as a teaching example for structured programming and simple spreadsheet logic. TinyCalc brings this concept into the modern era:
 - complete re‑implementation in C#/.NET 10
@@ -192,7 +224,7 @@ TinyCalc is currently the only known, fully reconstructed and modernized version
 
 ➡️ Project: https://github.com/hindermath/TinyCalc
 ---
-❤️ TinyPL/0 – A Complete PL/0 Compiler/Interpreter in C#
+### ❤️ TinyPL/0 – A Complete PL/0 Compiler/Interpreter in C#
 TinyPL/0 is my modern implementation of the classic teaching language PL/0 by Niklaus Wirth.
 PL/0 has long been a standard example for compiler construction, parsing, symbol tables, and simple virtual machines. My version updates these concepts for today’s development environment:
 - full lexer, parser, code generator, and interpreter
@@ -203,4 +235,30 @@ PL/0 has long been a standard example for compiler construction, parsing, symbol
 TinyPL/0 demonstrates how compiler construction can be taught and explored in a modern, modular, and practical way.
 
 ➡️ Project: https://github.com/hindermath/TinyPl0
+---
+### ❤️ home-baseline – The Agentic Foundation of My Workspace Infrastructure
+home-baseline is the infrastructural foundation of my entire private development environment. The project standardises workspaces, AI agent files, constitutions, hooks, security checks, and Spec-Kit setups across multiple levels.
+- bootstrap and teardown of complete workspaces
+- shared governance with constitution, agent files, and statistics rules
+- secret scanning and hook-based protection mechanisms
+- foundation for agentic, reproducible development environments
+
+➡️ Project: https://github.com/hindermath/home-baseline
+---
+### ❤️ TuiVision – A Modern .NET Port of Turbo Vision
+TuiVision is my modern reinterpretation of the classic Turbo Vision approach for text-based user interfaces. The project combines software history with current .NET architecture and is at the same time a demanding porting and education project.
+- terminal UI framework on a modern C#/.NET foundation
+- focus on porting quality, architectural fidelity, and extensibility
+- suitable for didactic use, framework design, and accessibility-oriented text UIs
+
+➡️ Project: https://github.com/hindermath/TuiVision
+---
+### ❤️ InventarWorkerService – Cross-Platform Inventory Management
+InventarWorkerService is my multi-part inventory project for hardware and software data. It combines worker services, API access, terminal interfaces, and persistence into a modern cross-platform system landscape.
+- multi-layer .NET solution with worker, API, viewer, and shared components
+- support for SQLite, PostgreSQL, and MongoDB
+- suitable for education, architecture communication, and real operational use cases
+- combines agentic development with production-like application scenarios
+
+➡️ Project: https://github.com/hindermath/InventarWorkerService
 ---

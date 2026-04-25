@@ -1,0 +1,256 @@
+Programmierung #include<everyone>. || Programming #include<everyone>.
+Klarheit ist ein Feature. || Clarity is a feature.
+Dokumentation ist Teil des Produkts. || Documentation is part of the product.
+Barrierefreiheit beginnt beim ersten Entwurf. || Accessibility starts with the first draft.
+Ein gutes Interface erklärt sich selbst. || A good interface explains itself.
+Weniger Magie bedeutet mehr Wartbarkeit. || Less magic means more maintainability.
+Tests sind Sicherheitsgurte für Veränderungen. || Tests are seat belts for change.
+Sauberer Code spart spätere Diskussionen. || Clean code saves later discussions.
+Gute Architektur macht Änderungen billiger. || Good architecture makes change cheaper.
+Automatisierung ist angewandte Gelassenheit. || Automation is applied calmness.
+Wer Logs lesen kann, versteht Systeme besser. || Whoever can read logs understands systems better.
+Ein Commit sollte eine Geschichte erzählen. || A commit should tell a story.
+Schnittstellen sind Versprechen. || Interfaces are promises.
+Robuste Software ist höfliche Software. || Robust software is polite software.
+Lesbarer Code ist Teamarbeit in Textform. || Readable code is teamwork in text form.
+Wartbarkeit ist eine Form von Respekt. || Maintainability is a form of respect.
+Sicherheit ist keine Nachrüstoption. || Security is not a retrofit option.
+Ein Plan ersetzt nicht das Denken, aber unterstützt es. || A plan does not replace thinking, but supports it.
+Kleine Schritte schlagen große Sprünge. || Small steps beat giant leaps.
+Terminal-Software darf elegant sein. || Terminal software can be elegant.
+Retro-Ideen können moderne Qualität haben. || Retro ideas can have modern quality.
+Pragmatismus ohne Prinzipien wird beliebig. || Pragmatism without principles becomes arbitrary.
+Prinzipien ohne Praxis bleiben Papier. || Principles without practice remain paper.
+Code Reviews sind gemeinsame Qualitätsarbeit. || Code reviews are shared quality work.
+Konsequente Benennung halbiert Missverständnisse. || Consistent naming cuts misunderstandings in half.
+Gute Defaults vermeiden schlechte Tage. || Good defaults prevent bad days.
+Explizit ist oft besser als implizit. || Explicit is often better than implicit.
+Jedes Skript verdient eine klare Hilfeausgabe. || Every script deserves clear help output.
+Fehlertexte sind Teil der UX. || Error messages are part of the UX.
+Eine CLI spricht zuerst mit Menschen. || A CLI speaks to humans first.
+Wer blind bedienen kann, bedient meist auch schneller. || What works for blind users often works faster for everyone.
+Stabile Prozesse entlasten kreative Köpfe. || Stable processes free creative minds.
+Ein Build sollte langweilig zuverlässig sein. || A build should be boringly reliable.
+Versionierung macht Fortschritt nachvollziehbar. || Versioning makes progress traceable.
+Gute Software hat Geduld mit ihren Nutzenden. || Good software is patient with its users.
+Technische Schulden wachsen im Schweigen. || Technical debt grows in silence.
+Ein Changelog ist gelebte Transparenz. || A changelog is transparency in practice.
+Wiederholbarkeit ist professionelle Magie. || Repeatability is professional magic.
+Eine Spezifikation klärt Erwartungen früh. || A specification clarifies expectations early.
+Agentische KI braucht klare Leitplanken. || Agentic AI needs clear guardrails.
+Gute Werkzeuge verdienen gute Regeln. || Good tools deserve good rules.
+Sichere Voreinstellungen sind freundliche Voreinstellungen. || Secure defaults are friendly defaults.
+Architektur ist die Kunst des Weglassens. || Architecture is the art of leaving things out.
+Nicht jede Abstraktion spart Komplexität. || Not every abstraction saves complexity.
+Die beste Fehlermeldung ist konkret und ruhig. || The best error message is specific and calm.
+Ein hilfreiches README spart Rückfragen. || A helpful README saves follow-up questions.
+Barrierefreiheit ist Qualitätsarbeit, kein Bonus. || Accessibility is quality work, not a bonus.
+Gute Software bleibt auch unter Stress verständlich. || Good software stays understandable under stress.
+Ein sauberer Diff ist eine Höflichkeit. || A clean diff is a courtesy.
+Einfachheit braucht Disziplin. || Simplicity requires discipline.
+Tooling ist Teil der Entwicklererfahrung. || Tooling is part of developer experience.
+Automatisierte Qualität ist skalierte Sorgfalt. || Automated quality is scaled care.
+Eine gute Aufgabe ist klar geschnitten. || A good task is clearly scoped.
+Klare Verantwortung beschleunigt Zusammenarbeit. || Clear ownership speeds up collaboration.
+Wer reproduzieren kann, kann beheben. || Whoever can reproduce can fix.
+Lernbare Software ist nachhaltige Software. || Learnable software is sustainable software.
+Abhängigkeiten verdienen Misstrauen und Pflege. || Dependencies deserve skepticism and care.
+Ein System ist nur so klar wie sein Setup. || A system is only as clear as its setup.
+Die beste Optimierung ist oft Vereinfachung. || The best optimization is often simplification.
+Arbeitsfluss schlägt Aktionismus. || Workflow beats busywork.
+Jede Datei sollte einen Grund haben. || Every file should have a reason.
+Gute Templates beschleunigen ohne zu verflachen. || Good templates accelerate without flattening.
+Ein Hook ist nur gut, wenn er verständlich bleibt. || A hook is only good if it stays understandable.
+Ein Script sollte erklären, was es tut. || A script should explain what it does.
+Qualität beginnt bei den kleinen Entscheidungen. || Quality begins with small decisions.
+Wer Zustände sichtbar macht, reduziert Angst. || Making state visible reduces anxiety.
+Ein klarer Exit-Code spart Zeit. || A clear exit code saves time.
+Jede Automatisierung braucht einen Notausgang. || Every automation needs an emergency exit.
+Gute Systeme degradieren würdevoll. || Good systems degrade gracefully.
+Ein Backup ist gelebter Realismus. || A backup is realism in practice.
+Stabile Namen sind mentale Infrastruktur. || Stable names are mental infrastructure.
+Sorgfalt in Skripten spart Chaos im Alltag. || Care in scripts saves everyday chaos.
+Verständliche Logs sind halbe Diagnosen. || Understandable logs are half a diagnosis.
+Eine gute Pipeline kennt ihren Zweck. || A good pipeline knows its purpose.
+Nicht alles muss smart sein, vieles muss klar sein. || Not everything has to be smart; much has to be clear.
+Respekt vor Nutzenden zeigt sich in Details. || Respect for users shows in details.
+Ein Projekt gewinnt durch gute Grenzen. || A project gains strength from good boundaries.
+Kontext ist oft wichtiger als Tempo. || Context is often more important than speed.
+Ein kleiner reproduzierbarer Fehler ist ein Geschenk. || A small reproducible bug is a gift.
+Kommunikation ist auch ein Architekturthema. || Communication is also an architecture topic.
+Wer Standards erklärt, erhöht ihre Akzeptanz. || Explaining standards increases acceptance.
+Sichere Software entsteht absichtlich. || Secure software is built intentionally.
+Wer A11Y früh mitdenkt, spart spätere Umbauten. || Thinking about A11Y early saves later rewrites.
+Text-UI braucht dieselbe Sorgfalt wie GUI. || Text UI needs the same care as GUI.
+Ein gutes Tool verschwindet hinter seiner Aufgabe. || A good tool disappears behind its task.
+Leitlinien schaffen Freiheit durch Klarheit. || Guidelines create freedom through clarity.
+Commit-Messages sind Wartungsdokumentation in Kurzform. || Commit messages are maintenance documentation in short form.
+Ein klarer Branch spart rätselhafte Historien. || A clear branch prevents mysterious history.
+Jeder Merge verdient Verständnis. || Every merge deserves understanding.
+Verteilte Arbeit braucht geteilte Standards. || Distributed work needs shared standards.
+Gute Defaults sind stille Produktivität. || Good defaults are quiet productivity.
+Beobachtbarkeit ist ein Designmerkmal. || Observability is a design property.
+Architektur zeigt sich im Alltag, nicht in Folien. || Architecture shows in daily work, not in slides.
+Schutz vor Fehlern ist Teil guter UX. || Error prevention is part of good UX.
+Wer Umwege dokumentiert, hilft dem nächsten Menschen. || Documenting detours helps the next person.
+Ein konsistenter Stil reduziert Reibung. || A consistent style reduces friction.
+Ein refaktorierter Abschnitt ist ein klärendes Gespräch. || A refactored section is a clarifying conversation.
+Weniger Ausnahmen bedeuten mehr Verlässlichkeit. || Fewer exceptions mean more reliability.
+Ein Prozess ohne Ownership bleibt Zufall. || A process without ownership remains chance.
+Robuste Software respektiert den schlimmsten Tag. || Robust software respects the worst day.
+Code muss nicht nur laufen, sondern bleiben können. || Code must not only run, but also endure.
+Ein Interface darf freundlich sein, ohne weich zu werden. || An interface can be friendly without becoming vague.
+Spezifikation und Umsetzung sollten einander helfen. || Specification and implementation should help each other.
+Ein Projekt wächst an guten Entscheidungen, nicht an Dateien. || A project grows through good decisions, not file count.
+Auch kleine Tools verdienen gute Namen. || Even small tools deserve good names.
+Eine gute Abkürzung bleibt lesbar. || A good shortcut stays readable.
+Ein hilfreiches Template spart Startenergie. || A helpful template saves startup energy.
+Wenn etwas oft erklärt werden muss, gehört es ins README. || If something must be explained often, it belongs in the README.
+Wer Standards lebt, muss sie pflegbar halten. || Whoever lives standards must keep them maintainable.
+Automatisierung darf den Menschen nicht verstecken. || Automation must not hide the human.
+Sicherheit beginnt bei einfachen Gewohnheiten. || Security begins with simple habits.
+Ein gutes Review verbessert auch die Frage. || A good review improves the question as well.
+Präzise Sprache ist technische Infrastruktur. || Precise language is technical infrastructure.
+Wiederverwendbarkeit entsteht aus Klarheit. || Reusability grows out of clarity.
+Ein sauberer Start ist eine Investition in Ruhe. || A clean start is an investment in calm.
+Die beste Migration ist gut vorbereitet. || The best migration is well prepared.
+Ordnung in Dateien schafft Ordnung im Kopf. || Order in files creates order in the mind.
+Ein Projekt ohne Pflegeplan altert laut. || A project without a care plan ages noisily.
+Wer messen kann, muss noch verstehen lernen. || Measuring is not the same as understanding.
+Ein Statistikdokument ist nur mit Kontext wertvoll. || A statistics document is only valuable with context.
+Bilingualität hilft, wenn sie konsistent bleibt. || Bilingual delivery helps when it stays consistent.
+Ein Leitsatz darf auch im Alltag taugen. || A motto should also work in daily practice.
+Terminal first heißt nicht terminal only. || Terminal first does not mean terminal only.
+Jede Sprache verdient ihre sicheren Gewohnheiten. || Every language deserves its safe habits.
+Ein Toolchain-Wechsel braucht mehr als Befehle. || A toolchain change needs more than commands.
+Ein gutes Setup macht den nächsten Rechner langweilig. || A good setup makes the next machine boring.
+Ein Repository ist auch ein Kommunikationsraum. || A repository is also a communication space.
+Lesbarkeit ist ein Skalierungshebel. || Readability is a scaling lever.
+Kontextwechsel kosten mehr als Tastaturanschläge. || Context switches cost more than keystrokes.
+Ein Projektplan sollte Mut machen, nicht Nebel erzeugen. || A project plan should create confidence, not fog.
+Die beste Automatisierung ist nachvollziehbar. || The best automation is understandable.
+Ein Architekturentscheid ohne Dokumentation verliert schnell seinen Grund. || An architectural decision without documentation quickly loses its reason.
+Wissen gehört nicht in Köpfe allein. || Knowledge does not belong in heads alone.
+Gute Namen sind eine Form von Barrierefreiheit. || Good names are a form of accessibility.
+Eine ruhige Oberfläche wirkt kompetent. || A calm interface feels competent.
+Ein klarer Standard senkt die Einstiegshürde. || A clear standard lowers the barrier to entry.
+Verlässliche Builds schaffen Vertrauen. || Reliable builds create trust.
+Wer Änderungen klein hält, hält Risiken klein. || Keeping changes small keeps risk small.
+Ein Hook darf warnen, aber nicht rätseln. || A hook may warn, but it should not puzzle.
+Eine gute CLI ist skriptbar und menschenlesbar. || A good CLI is scriptable and human-readable.
+Saubere Trennung erleichtert kluge Kopplung. || Clean separation makes smart coupling easier.
+Ein Projekt gewinnt durch gute Rituale. || A project benefits from good rituals.
+Die beste Wartung beginnt vor dem ersten Release. || The best maintenance starts before the first release.
+Ein Teamstandard ist gelebte Übersetzungshilfe. || A team standard is translation help in practice.
+Jede Abweichung braucht einen guten Grund. || Every deviation needs a good reason.
+Wer Konflikte früh sichtbar macht, spart Eskalation. || Making conflicts visible early prevents escalation.
+Gute Defaults sind eine Form von Fürsorge. || Good defaults are a form of care.
+Ein Tool ist nur so gut wie seine Fehlersuche. || A tool is only as good as its debugging path.
+Ruhige Prozesse machen Raum für Kreativität. || Calm processes make room for creativity.
+Ein schneller Start ist ein Akt der Gastfreundschaft. || A quick start is an act of hospitality.
+Sauberer Markdown ist auch Engineering. || Clean Markdown is also engineering.
+Ein Dokument darf führen, nicht belehren. || A document may guide without lecturing.
+Wer A11Y erklärt, stärkt Qualität insgesamt. || Explaining A11Y strengthens overall quality.
+Gute Sicherheitsarbeit ist unspektakulär. || Good security work is unspectacular.
+Ein sinnvolles Template ersetzt keine Verantwortung. || A useful template does not replace responsibility.
+Sichtbare Regeln verhindern unsichtbare Reibung. || Visible rules prevent invisible friction.
+Ein gutes Changelog schafft Anschlussfähigkeit. || A good changelog creates continuity.
+Jede Pipeline sollte eine Geschichte der Qualität erzählen. || Every pipeline should tell a quality story.
+Wer reproduzierbar arbeitet, arbeitet lehrbar. || Reproducible work is teachable work.
+Skripte dürfen robust sein und trotzdem freundlich bleiben. || Scripts can be robust and still stay friendly.
+Ein klarer Scope schützt vor Übermut. || A clear scope protects against overreach.
+Eine saubere Oberfläche beginnt im Innenleben. || A clean surface starts with the inside.
+Der nächste Mensch ist Teil der Zielgruppe. || The next person is part of the target audience.
+Nicht alles gehört in die Verfassung, aber das Wichtige schon. || Not everything belongs in the constitution, but the important things do.
+Gute Agentenführung reduziert Zufall. || Good agent guidance reduces randomness.
+Wer Sprache pflegt, pflegt auch Zusammenarbeit. || Caring for language also cares for collaboration.
+Jede Abhängigkeit ist eine Beziehung. || Every dependency is a relationship.
+Ein gutes Script hinterlässt keinen Schaden. || A good script leaves no damage behind.
+Auch Einmalwerkzeuge verdienen Würde. || Even one-off tools deserve dignity.
+Eine gute Spec ist ein konzentriertes Gespräch. || A good spec is a concentrated conversation.
+Wer Grenzen kennt, kann mutiger bauen. || Knowing boundaries makes bolder building possible.
+Ein kleines Tool kann große Ordnung schaffen. || A small tool can create great order.
+Sichere Architektur ist geordnete Vorsicht. || Secure architecture is organized caution.
+Konsistenz spart Energie. || Consistency saves energy.
+Ein nachvollziehbarer Build ist ein überprüfbarer Build. || An understandable build is a verifiable build.
+Auch Legacy-Code verdient Sorgfalt. || Legacy code deserves care too.
+Ein gutes Review schützt auch die Zukunft. || A good review also protects the future.
+Barrierefreie Texte sind bessere Texte. || Accessible text is better text.
+Ein gutes Template ist ein leiser Mentor. || A good template is a quiet mentor.
+Klare Prioritäten sind gelebte Architektur. || Clear priorities are architecture in practice.
+Eine gute Änderung erklärt sich im Diff. || A good change explains itself in the diff.
+Ein Repository ist auch ein Lehrmittel. || A repository is also a teaching tool.
+Wenn etwas schwer erklärbar ist, ist es oft zu kompliziert. || If something is hard to explain, it is often too complex.
+Codequalität ist Teamkultur in Artefakten. || Code quality is team culture in artifacts.
+Jede gute Konvention reduziert Entscheidungslärm. || Every good convention reduces decision noise.
+Ein testbarer Entwurf ist meist auch ein klarer Entwurf. || A testable design is usually also a clear design.
+Ein hilfreiches Script respektiert den Exit-Pfad. || A helpful script respects the exit path.
+Nicht nur Features, auch Übergänge brauchen Design. || Not only features, but also transitions need design.
+Wer Logs schreibt, schreibt für die Zukunft. || Whoever writes logs writes for the future.
+Eine gute Metrik braucht Demut. || A good metric needs humility.
+Gute Dokumentation ist wiederverwendete Denkzeit. || Good documentation is reused thinking time.
+Ein verständlicher Fehler spart Support. || An understandable error saves support.
+Code soll helfen, nicht imponieren. || Code should help, not impress.
+Gute Tools machen Menschen souveräner. || Good tools make people more capable.
+Ein stabiler Prozess ist eine Einladung zum Mitmachen. || A stable process is an invitation to contribute.
+Klare Trennung ist kein Selbstzweck, sondern Service. || Clear separation is not an end in itself, but a service.
+Auch Konsolenprogramme verdienen Designliebe. || Even console programs deserve design care.
+Ein gutes Repo verrät seine Absicht schnell. || A good repo reveals its intent quickly.
+Die beste Security-Checkliste ist benutzbar. || The best security checklist is usable.
+Wer Gewohnheiten dokumentiert, stärkt Kontinuität. || Documenting habits strengthens continuity.
+Leitplanken machen Experimente sicherer. || Guardrails make experiments safer.
+Eine gute Architektur hält auch Gegenwind aus. || Good architecture can withstand headwinds.
+Ein Codepfad ohne Beobachtbarkeit ist ein dunkler Tunnel. || A code path without observability is a dark tunnel.
+Sorgfalt ist skalierbar, wenn sie systematisch wird. || Care scales when it becomes systematic.
+Ein Projekt ohne Kontext ist nur Dateisammlung. || A project without context is just a file collection.
+Gute Tools sparen nicht nur Zeit, sondern Unsicherheit. || Good tools save not only time, but uncertainty.
+Wer sauber benennt, macht Onboarding leichter. || Naming well makes onboarding easier.
+Eine gute CLI erklärt ihre Optionen ohne Theater. || A good CLI explains its options without drama.
+Jede Änderung verdient einen guten Grundsatz. || Every change deserves a sound principle.
+Gute Software ist lernfreundlich. || Good software is learning-friendly.
+Wer Accessibility ausklammert, spart am falschen Ende. || Excluding accessibility saves in the wrong place.
+Ein Repository kann freundlich wirken. || A repository can feel welcoming.
+Nicht jede Metrik ist Fortschritt. || Not every metric is progress.
+Verlässliche Templates verhindern kreative Wiederholung. || Reliable templates prevent creative repetition.
+Ein hilfreicher Standard lässt Raum für Ausnahmen mit Grund. || A helpful standard leaves room for justified exceptions.
+Klare Textausgaben sind eine Form von Design. || Clear textual output is a form of design.
+Ein gutes Setup macht Wissen portabel. || A good setup makes knowledge portable.
+Wer Abhängigkeiten auswählt, wählt auch Risiken. || Choosing dependencies also means choosing risks.
+Eine kleine Verbesserung am Workflow wirkt oft groß. || A small workflow improvement often has a big effect.
+Gute Agentenarbeit braucht gute Grenzen. || Good agent work needs good boundaries.
+Ein Build ohne Vertrauen ist nur Aktivität. || A build without trust is just activity.
+Fehlersuche ist leichter, wenn das System mitredet. || Debugging is easier when the system speaks.
+Klare Verantwortung macht mutiger. || Clear responsibility makes people bolder.
+Wer Dokumente pflegt, pflegt Entscheidungen. || Maintaining documents means maintaining decisions.
+Ein Repo darf professionell und menschlich zugleich sein. || A repo can be professional and human at the same time.
+Gute Software bleibt anschlussfähig. || Good software remains connectable.
+Ein Skript ist besser, wenn es abbrechen kann. || A script is better when it can stop safely.
+Wenn alle es verstehen, hält es länger. || If everyone can understand it, it lasts longer.
+Ein Projekt ist mehr als seine Hauptsprache. || A project is more than its main language.
+Tooling sollte entlasten, nicht beeindrucken. || Tooling should reduce effort, not seek admiration.
+Ein guter Prozess lässt sich erklären. || A good process can be explained.
+Dokumentierte Entscheidungen altern langsamer. || Documented decisions age more slowly.
+Menschen warten Software, nicht Abstraktionen. || People maintain software, not abstractions.
+Ein gutes Template spart den ersten Fehler. || A good template prevents the first mistake.
+Struktur ist eine Einladung zum Denken. || Structure is an invitation to think.
+Kleine verständliche Schritte sind hohe Ingenieurskunst. || Small understandable steps are high engineering craft.
+Ein gut gewählter Name spart ein Meeting. || A well-chosen name saves a meeting.
+Wer den Alltag verbessert, verbessert das Produkt. || Improving everyday work improves the product.
+Ein lesbares Repo ist eine offene Tür. || A readable repo is an open door.
+Barrierefreiheit ist auch Kollegialität. || Accessibility is also collegiality.
+Spezifikations-gesteuerte Entwicklung bringt Ruhe in Komplexität. || Specification-driven development brings calm to complexity.
+Agentische KI wirkt am besten mit gutem Kontext. || Agentic AI works best with good context.
+Jede hilfreiche Regel spart spätere Ausnahmen. || Every helpful rule saves later exceptions.
+Ein sauberes Ende ist Teil guter Arbeit. || A clean finish is part of good work.
+Gute Software hinterlässt Orientierung. || Good software leaves orientation behind.
+Ein Projekt sollte auch nach Monaten wieder lesbar sein. || A project should still be readable months later.
+Qualität ist das, was auch später noch trägt. || Quality is what still holds up later.
+Klare Strukturen machen mutige Ideen praktischer. || Clear structures make bold ideas more practical.
+Ein hilfreiches Tool ist ein ruhiger Kollege. || A helpful tool is a calm colleague.
+Gute Systeme helfen auch dann, wenn etwas schiefgeht. || Good systems help even when something goes wrong.
+Eine ordentliche README ist gelebte Gastfreundschaft. || A tidy README is hospitality in practice.
+Klare Standards machen Zusammenarbeit leichter als Kontrolle. || Clear standards make collaboration easier than control.
+Auch morgen soll sich das heute noch gut anfühlen. || Tomorrow should still feel good about what we build today.
+Ein guter Tag beginnt mit einem sauberen Pull. || A good day starts with a clean pull.
+Wer klein und klar liefert, liefert oft schneller. || Delivering small and clear often means delivering faster.
+Gute Software erkennt den Menschen hinter der Eingabe. || Good software recognizes the human behind the input.

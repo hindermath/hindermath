@@ -181,6 +181,10 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 
 ---
 
-> "Code should not only work — it should stay understandable, useful, and respectful toward the people who use and maintain it."
+<!-- MOTD:START -->
+> **MOTD / Message of the Day**
 >
-> „Code soll nicht nur funktionieren — er soll verständlich, nützlich und respektvoll gegenüber den Menschen bleiben, die ihn nutzen und pflegen.“
+> Wer Gewohnheiten dokumentiert, stärkt Kontinuität.
+>
+> Documenting habits strengthens continuity.
+<!-- MOTD:END -->

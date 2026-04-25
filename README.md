@@ -136,12 +136,12 @@ Das Projekt verbindet für mich Barrierefreiheit, Terminal-UX, Gesundheitsbezug 
 
 ### ❤️ InventarWorkerService – Inventarverwaltung mit Worker-Architektur
 
-**InventarWorkerService** ist Teil meines Inventar-Kontexts und fokussiert sich auf backendnahe Verarbeitung mit **C#/.NET**.  
+**InventarWorkerService** ist ein einfaches Beispiel einer Inventarisierungs-Software in **C#/.NET**.  
 Das Projekt steht für robuste Worker-Prozesse, klare Architektur und die Verbindung von Fachlichkeit mit technischer Wartbarkeit.
 
 Das Projekt verbindet für mich Domänenmodellierung, Hintergrundverarbeitung und pragmatische Unternehmenssoftware.
 
-*InventarWorkerService is part of my inventory domain and focuses on backend-oriented processing with **C#/.NET**. It stands for robust worker processes, clear architecture, and the connection between domain logic and technical maintainability. For me, it combines domain modeling, background processing, and pragmatic business software.*
+*InventarWorkerService is a simple example of inventory software in **C#/.NET**. It stands for robust worker processes, clear architecture, and the connection between domain logic and technical maintainability. For me, it combines domain modeling, background processing, and pragmatic business software.*
 
 👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Worker Service](https://img.shields.io/badge/Type-Worker_Service-lightgrey) ![Domain](https://img.shields.io/badge/Topic-Inventory-blueviolet)

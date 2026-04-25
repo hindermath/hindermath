@@ -4,9 +4,9 @@
 
 ---
 
-Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler aus Deutschland, arbeite aktuell im öffentlichen Dienst und studiere parallel Software Engineering. Ich bewege mich gern zwischen klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.
+Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler mit über 40-jähriger Berufserfahrung aus Deutschland und arbeite seit mehr als 20 Jahren bei der [GWDG](https://gwdg.de). Ich bewege mich gern zwischen dem Einsatz agentischer KI plus spezifikations-gesteuerter Entwicklung, klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.
 
-Welcome to my GitHub profile. I'm an experienced software developer from Germany, currently working in the public sector and studying software engineering in parallel. I enjoy moving between classic application development, terminal and tooling projects, retro computing, and practical automation.
+Welcome to my GitHub profile. I'm an experienced software developer from Germany with more than 40 years of professional experience, and I have been working at [GWDG](https://gwdg.de) for more than 20 years. I enjoy moving between agentic AI combined with specification-driven development, classic application development, terminal and tooling projects, retro computing, and practical automation.
 
 ## Inhaltsverzeichnis / Table of Contents
 

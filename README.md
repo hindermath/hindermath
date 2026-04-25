@@ -27,8 +27,8 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
   *Enjoy modern C#/.NET development as much as Bash, PowerShell, databases, and tooling*
 - 🕹️ Begeisterung für Retro-Computing, insbesondere C64, Compilerbau und klassische Softwarekonzepte in moderner Form  
   *Enthusiastic about retro computing, especially the C64, compiler construction, and modern reinterpretations of classic software ideas*
-- 🎵 Musikproduktion unter dem Namen **HTMAN (How To Make A Noise)**  
-  *Music production under the name **HTMAN (How To Make A Noise)***
+- 🎵 Musikproduktion unter dem Namen **TMyTTMAAP (TMy Table Top Music And Art Production)**  
+  *Music production under the name **TMyTTMAAP (TMy Table Top Music And Art Production)***
 - 🤝 Offen für Austausch, Lernen und gute technische Gespräche  
   *Open to exchange, learning, and good technical conversations*
 

@@ -41,6 +41,9 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Delphi](https://img.shields.io/badge/Delphi-E62431?style=for-the-badge)
+![Turbo Pascal](https://img.shields.io/badge/Turbo%20Pascal-004B8D?style=for-the-badge)
+![x86 Assembler](https://img.shields.io/badge/x86%20Assembler-6E4C13?style=for-the-badge)
 
 ### 🛠️ IDEs & Tools / IDEs & Tools
 

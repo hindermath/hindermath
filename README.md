@@ -174,12 +174,10 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
   *Music production with Ableton Live, FL Studio, Logic Pro, and Native Instruments*
 
 ## 📫 Kontakt / Contact
-
-![GitHub](https://img.shields.io/badge/GitHub-@hindermath-181717?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Thorsten%20Hindermann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-- GitHub: [@hindermath](https://github.com/hindermath)
-- LinkedIn: [Thorsten Hindermann](https://de.linkedin.com/in/thorsten-hindermann-799b72244)
+- ![GitHub](https://img.shields.io/badge/GitHub-@hindermath-181717?style=for-the-badge&logo=github&logoColor=white)
+ [@hindermath](https://github.com/hindermath)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Thorsten%20Hindermann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+ [Thorsten Hindermann](https://de.linkedin.com/in/thorsten-hindermann-799b72244)
 
 ---
 

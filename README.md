@@ -19,10 +19,8 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 
 ## 🌍 Über mich / About Me
 
-- 💼 Softwareentwickler im öffentlichen Dienst  
-  *Software developer in the public sector*
-- 🎓 Berufsbegleitendes Studium Software Engineering  
-  *Studying software engineering part-time*
+- 💼 Erfahrener Softwareentwickler mit über 40-jähriger Berufserfahrung  
+  *Experienced software developer with more than 40 years of professional experience*
 - 🖥️ Interesse an sauberer Softwarearchitektur, Dokumentation, Barrierefreiheit und alltagstauglichen DevOps-Workflows  
   *Interested in clean software architecture, documentation, accessibility, and practical DevOps workflows*
 - 🔧 Spaß an moderner C#/.NET-Entwicklung ebenso wie an Bash, PowerShell, Datenbanken und Tooling  

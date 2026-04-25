@@ -51,6 +51,7 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![GitHub Spec-Kit](https://img.shields.io/badge/GitHub%20Spec--Kit-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)
 ![Codex](https://img.shields.io/badge/Codex-0A7B83?style=for-the-badge)
 ![GEMINI](https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge)

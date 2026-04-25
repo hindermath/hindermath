@@ -8,6 +8,15 @@ Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler a
 
 Welcome to my GitHub profile. I'm an experienced software developer from Germany, currently working in the public sector and studying software engineering in parallel. I enjoy moving between classic application development, terminal and tooling projects, retro computing, and practical automation.
 
+## Inhaltsverzeichnis / Table of Contents
+
+- [Über mich / About Me](#-über-mich--about-me)
+- [Technologien & Werkzeuge / Tech Stack & Tools](#-technologien--werkzeuge--tech-stack--tools)
+- [Aktuelle Schwerpunkte / Current Focus](#-aktuelle-schwerpunkte--current-focus)
+- [Meine Herzensprojekte / My Passion Projects](#-meine-herzensprojekte--my-passion-projects)
+- [Interessen & Hobbys / Interests & Hobbies](#-interessen--hobbys--interests--hobbies)
+- [Kontakt / Contact](#-kontakt--contact)
+
 ## 🌍 Über mich / About Me
 
 - 💼 Softwareentwickler im öffentlichen Dienst  
@@ -79,41 +88,29 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 
 ## ❤️ Meine Herzensprojekte / My Passion Projects
 
-### ❤️ TinyCalc – moderne Reimplementierung von Borlands MicroCalc
-
-Ein besonderes Herzensprojekt von mir ist **TinyCalc**.  
-Ich schreibe damit die klassische Tabellenkalkulation **Borland MicroCalc** vollständig in **C#** neu – ohne GUI, sondern bewusst als reine **Terminal-/Text-UI-Anwendung**.
-
-Das Projekt verbindet für mich Retro-Computing, Softwarearchitektur, Testbarkeit und Barrierefreiheit.
-
-*One of my most personal projects is **TinyCalc**. It is a modern reimplementation of **Borland MicroCalc** written entirely in **C#** and deliberately built as a **terminal/text UI application**. For me, it combines retro computing, software architecture, testability, and accessibility.*
-
-👉 Repository: [TinyCalc](https://github.com/hindermath/TinyCalc)  
-![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
-
 ### ❤️ TinyPL/0 – Compilerbau trifft auf Retro- und Lehrtradition
 
-Ein weiteres Herzensprojekt von mir ist **TinyPL/0**.  
+Mein wichtigstes Herzensprojekt ist **TinyPL/0**.  
 Ich implementiere den klassischen Lehr-Compiler **PL/0** von Niklaus Wirth vollständig in **C#** neu – modernisiert, testbar und in meiner eigenen Architektur.
 
 Das Projekt verbindet Compilerbau, Didaktik, Sprachdesign und Retro-Informatik.
 
-*Another project especially close to my heart is **TinyPL/0**. I am reimplementing Niklaus Wirth's classic teaching compiler **PL/0** entirely in **C#** – modernized, testable, and structured in my own architecture. For me, it brings together compiler construction, teaching, language design, and retro computing.*
+*My most important passion project is **TinyPL/0**. I am reimplementing Niklaus Wirth's classic teaching compiler **PL/0** entirely in **C#** – modernized, testable, and structured in my own architecture. For me, it brings together compiler construction, teaching, language design, and retro computing.*
 
 👉 Repository: [TinyPl0](https://github.com/hindermath/TinyPl0)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Compiler](https://img.shields.io/badge/Topic-Compiler-orange) ![PL/0](https://img.shields.io/badge/Language-PL%2F0-lightgrey)
 
-### ❤️ home-baseline – meine agentische Workspace-Grundlage
+### ❤️ TinyCalc – moderne Reimplementierung von Borlands MicroCalc
 
-**home-baseline** ist meine persönliche Grundlage für eine konsistente agentische Arbeitsumgebung über mehrere Repositories hinweg.  
-Es bündelt Skripte, Richtlinien, Verfassungsregeln und KI-Agenten-Dateien für Level-0-, Level-1- und Level-2-Strukturen.
+Ein weiteres großes Herzensprojekt von mir ist **TinyCalc**.  
+Ich schreibe damit die klassische Tabellenkalkulation **Borland MicroCalc** vollständig in **C#** neu – ohne GUI, sondern bewusst als reine **Terminal-/Text-UI-Anwendung**.
 
-Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Governance, Dokumentation und Barrierefreiheit.
+Das Projekt verbindet für mich Retro-Computing, Softwarearchitektur, Testbarkeit und Barrierefreiheit.
 
-* **home-baseline** is my personal foundation for a consistent agentic workspace across multiple repositories. It bundles scripts, governance rules, constitutions, and AI-agent guidance files for Level-0, Level-1, and Level-2 structures. For me, it combines development infrastructure, automation, governance, documentation, and accessibility.*
+*Another major passion project of mine is **TinyCalc**. It is a modern reimplementation of **Borland MicroCalc** written entirely in **C#** and deliberately built as a **terminal/text UI application**. For me, it combines retro computing, software architecture, testability, and accessibility.*
 
-👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
-![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
+👉 Repository: [TinyCalc](https://github.com/hindermath/TinyCalc)  
+![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
 
 ### ❤️ TuiVision – Terminal-UI für Sehprüfungen
 
@@ -134,10 +131,22 @@ Das Projekt steht für robuste Worker-Prozesse, klare Architektur und die Verbin
 
 Das Projekt verbindet für mich Domänenmodellierung, Hintergrundverarbeitung und pragmatische Unternehmenssoftware.
 
-* **InventarWorkerService** is part of my inventory domain and focuses on backend-oriented processing with **C#/.NET**. It stands for robust worker processes, clear architecture, and the connection between domain logic and technical maintainability. For me, it combines domain modeling, background processing, and pragmatic business software.*
+*InventarWorkerService is part of my inventory domain and focuses on backend-oriented processing with **C#/.NET**. It stands for robust worker processes, clear architecture, and the connection between domain logic and technical maintainability. For me, it combines domain modeling, background processing, and pragmatic business software.*
 
 👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Worker Service](https://img.shields.io/badge/Type-Worker_Service-lightgrey) ![Domain](https://img.shields.io/badge/Topic-Inventory-blueviolet)
+
+### ❤️ home-baseline – meine agentische Workspace-Grundlage
+
+**home-baseline** ist meine persönliche Grundlage für eine konsistente agentische Arbeitsumgebung über mehrere Repositories hinweg.  
+Es bündelt Skripte, Richtlinien, Verfassungsregeln und KI-Agenten-Dateien für Level-0-, Level-1- und Level-2-Strukturen.
+
+Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Governance, Dokumentation und Barrierefreiheit.
+
+*home-baseline is my personal foundation for a consistent agentic workspace across multiple repositories. It bundles scripts, governance rules, constitutions, and AI-agent guidance files for Level-0, Level-1, and Level-2 structures. For me, it combines development infrastructure, automation, governance, documentation, and accessibility.*
+
+👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
+![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
 
 ## 🎯 Interessen & Hobbys / Interests & Hobbies
 

@@ -176,6 +176,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 ## 📫 Kontakt / Contact
 
 - GitHub: [@hindermath](https://github.com/hindermath)
+- LinkedIn: [Thorsten Hindermann](https://de.linkedin.com/in/thorsten-hindermann-799b72244)
 
 ---
 

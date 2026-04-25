@@ -1,5 +1,6 @@
 <h1 align="center">Hallo, ich bin Thorsten Hindermann 👋</h1>
 <h3 align="center">Softwareentwickler • Retro-Computing-Enthusiast • Musikmacher</h3>
+<p align="center"><strong>Programmierung #include&lt;everyone&gt;</strong></p>
 <p align="center"><em>Hi, I'm Thorsten Hindermann — Software Developer • Retro Computing Enthusiast • Music Creator</em></p>
 
 ---

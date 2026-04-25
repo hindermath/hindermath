@@ -123,12 +123,12 @@ Das Projekt verbindet für mich Retro-Computing, Softwarearchitektur, Testbarkei
 
 ### ❤️ TuiVision – Terminal-UI für Sehprüfungen
 
-Mit **TuiVision** entwickle ich eine moderne, barrierebewusste Anwendung für Sehprüfungen im Terminal.  
+Mit **TuiVision** entwickle ich einen modernen Rahmen für Anwendungen, die im Terminal laufen.  
 Das Projekt fokussiert sich auf klare Text-UI, gute Tastaturbedienbarkeit und testbare Architektur in **C#/.NET**.
 
 Das Projekt verbindet für mich Barrierefreiheit, Terminal-UX, Gesundheitsbezug und saubere Softwarearchitektur.
 
-*With **TuiVision**, I am building a modern, accessibility-aware application for vision testing in the terminal. It focuses on clear text UI, strong keyboard usability, and testable architecture in **C#/.NET**. For me, it combines accessibility, terminal UX, health-related use cases, and clean software architecture.*
+*With **TuiVision**, I am building a modern framework for applications that run in the terminal. It focuses on clear text UI, strong keyboard usability, and testable architecture in **C#/.NET**. For me, it combines accessibility, terminal UX, health-related use cases, and clean software architecture.*
 
 👉 Repository: [TuiVision](https://github.com/hindermath/TuiVision)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Accessibility](https://img.shields.io/badge/Topic-A11Y-brightgreen)

@@ -1,20 +1,83 @@
-# 👋 Hi, I’m Thorsten Hindermann (@hindermath)
+<h1 align="center">Hallo, ich bin Thorsten Hindermann 👋</h1>
+<h3 align="center">Softwareentwickler • Retro-Computing-Enthusiast • Musikmacher</h3>
+<p align="center"><em>Hi, I'm Thorsten Hindermann — Software Developer • Retro Computing Enthusiast • Music Creator</em></p>
 
-Welcome to my GitHub profile. I’m an experienced software developer from Germany, currently working in the public sector and studying software engineering in parallel.
+---
 
-# 👋 Hallo, ich bin Thorsten Hindermann (@hindermath)
+Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler aus Deutschland, arbeite aktuell im öffentlichen Dienst und studiere parallel Software Engineering. Ich bewege mich gern zwischen klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.
 
-Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler aus Deutschland, arbeite aktuell im öffentlichen Dienst und studiere parallel Software Engineering.
+Welcome to my GitHub profile. I'm an experienced software developer from Germany, currently working in the public sector and studying software engineering in parallel. I enjoy moving between classic application development, terminal and tooling projects, retro computing, and practical automation.
 
-## 🌍 About Me / Über mich
+## 🌍 Über mich / About Me
 
-* 💼 Working in the public sector as a software developer  
-* 🎓 Studying Software Engineering (berufsbegleitend / part-time)  
-* 🖥️ Passionate about software development from low-level systems to modern tooling and automation  
-* 📚 Interested in maintainable architectures, documentation, accessibility, and practical DevOps workflows  
-* 🤝 Open to collaboration, exchange, and learning from others
+- 💼 Softwareentwickler im öffentlichen Dienst  
+  *Software developer in the public sector*
+- 🎓 Berufsbegleitendes Studium Software Engineering  
+  *Studying software engineering part-time*
+- 🖥️ Interesse an sauberer Softwarearchitektur, Dokumentation, Barrierefreiheit und alltagstauglichen DevOps-Workflows  
+  *Interested in clean software architecture, documentation, accessibility, and practical DevOps workflows*
+- 🔧 Spaß an moderner C#/.NET-Entwicklung ebenso wie an Bash, PowerShell, Datenbanken und Tooling  
+  *Enjoy modern C#/.NET development as much as Bash, PowerShell, databases, and tooling*
+- 🕹️ Begeisterung für Retro-Computing, insbesondere C64, Compilerbau und klassische Softwarekonzepte in moderner Form  
+  *Enthusiastic about retro computing, especially the C64, compiler construction, and modern reinterpretations of classic software ideas*
+- 🎵 Musikproduktion unter dem Namen **HTMAN (How To Make A Noise)**  
+  *Music production under the name **HTMAN (How To Make A Noise)***
+- 🤝 Offen für Austausch, Lernen und gute technische Gespräche  
+  *Open to exchange, learning, and good technical conversations*
 
-## ❤️ Meine Herzensprojekte
+## 🔧 Technologien & Werkzeuge / Tech Stack & Tools
+
+### 👨‍💻 Sprachen & Frameworks / Languages & Frameworks
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### 🛠️ IDEs & Tools / IDEs & Tools
+
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Datenbanken / Databases
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🕹️ Retro & Embedded / Retro & Embedded
+
+![C64](https://img.shields.io/badge/Commodore%2064-1E90FF?style=for-the-badge)
+![ACME](https://img.shields.io/badge/ACME%20Assembler-000000?style=for-the-badge)
+![cc65](https://img.shields.io/badge/cc65-000000?style=for-the-badge)
+![KickAssembler](https://img.shields.io/badge/KickAssembler-FF8C00?style=for-the-badge)
+
+### 🎵 Musikproduktion / Music Production
+
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-F7931E?style=for-the-badge&logo=flstudio&logoColor=white)
+![Logic Pro](https://img.shields.io/badge/Logic%20Pro-000000?style=for-the-badge)
+![Native Instruments](https://img.shields.io/badge/Native%20Instruments-000000?style=for-the-badge)
+![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge)
+
+## 🚀 Aktuelle Schwerpunkte / Current Focus
+
+- Agentische Workspace- und Governance-Strukturen mit `home-baseline`  
+  *Agentic workspace and governance structures with `home-baseline`*
+- Terminal- und Text-UI-Anwendungen in C#/.NET mit Fokus auf Testbarkeit und Barrierefreiheit  
+  *Terminal and text UI applications in C#/.NET with a focus on testability and accessibility*
+- Compiler-, Retro- und Lehrprojekte wie `TinyPL/0`, `TinyCalc` und `cc65`-/C64-Kontexte  
+  *Compiler, retro, and teaching projects such as `TinyPL/0`, `TinyCalc`, and `cc65`/C64 contexts*
+- Automatisierung mit Bash, PowerShell, GitHub Actions und dokumentierten Entwicklungs-Workflows  
+  *Automation with Bash, PowerShell, GitHub Actions, and documented engineering workflows*
+- Beispielprogramme und technische Begleitung für Fachinformatiker-Auszubildende  
+  *Example programs and technical guidance for IT apprentices*
+
+## ❤️ Meine Herzensprojekte / My Passion Projects
 
 ### ❤️ TinyCalc – moderne Reimplementierung von Borlands MicroCalc
 
@@ -22,6 +85,8 @@ Ein besonderes Herzensprojekt von mir ist **TinyCalc**.
 Ich schreibe damit die klassische Tabellenkalkulation **Borland MicroCalc** vollständig in **C#** neu – ohne GUI, sondern bewusst als reine **Terminal-/Text-UI-Anwendung**.
 
 Das Projekt verbindet für mich Retro-Computing, Softwarearchitektur, Testbarkeit und Barrierefreiheit.
+
+*One of my most personal projects is **TinyCalc**. It is a modern reimplementation of **Borland MicroCalc** written entirely in **C#** and deliberately built as a **terminal/text UI application**. For me, it combines retro computing, software architecture, testability, and accessibility.*
 
 👉 Repository: [TinyCalc](https://github.com/hindermath/TinyCalc)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
@@ -33,6 +98,8 @@ Ich implementiere den klassischen Lehr-Compiler **PL/0** von Niklaus Wirth volls
 
 Das Projekt verbindet Compilerbau, Didaktik, Sprachdesign und Retro-Informatik.
 
+*Another project especially close to my heart is **TinyPL/0**. I am reimplementing Niklaus Wirth's classic teaching compiler **PL/0** entirely in **C#** – modernized, testable, and structured in my own architecture. For me, it brings together compiler construction, teaching, language design, and retro computing.*
+
 👉 Repository: [TinyPl0](https://github.com/hindermath/TinyPl0)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Compiler](https://img.shields.io/badge/Topic-Compiler-orange) ![PL/0](https://img.shields.io/badge/Language-PL%2F0-lightgrey)
 
@@ -42,6 +109,8 @@ Das Projekt verbindet Compilerbau, Didaktik, Sprachdesign und Retro-Informatik.
 Es bündelt Skripte, Richtlinien, Verfassungsregeln und KI-Agenten-Dateien für Level-0-, Level-1- und Level-2-Strukturen.
 
 Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Governance, Dokumentation und Barrierefreiheit.
+
+* **home-baseline** is my personal foundation for a consistent agentic workspace across multiple repositories. It bundles scripts, governance rules, constitutions, and AI-agent guidance files for Level-0, Level-1, and Level-2 structures. For me, it combines development infrastructure, automation, governance, documentation, and accessibility.*
 
 👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
 ![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
@@ -53,6 +122,8 @@ Das Projekt fokussiert sich auf klare Text-UI, gute Tastaturbedienbarkeit und te
 
 Das Projekt verbindet für mich Barrierefreiheit, Terminal-UX, Gesundheitsbezug und saubere Softwarearchitektur.
 
+*With **TuiVision**, I am building a modern, accessibility-aware application for vision testing in the terminal. It focuses on clear text UI, strong keyboard usability, and testable architecture in **C#/.NET**. For me, it combines accessibility, terminal UX, health-related use cases, and clean software architecture.*
+
 👉 Repository: [TuiVision](https://github.com/hindermath/TuiVision)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Accessibility](https://img.shields.io/badge/Topic-A11Y-brightgreen)
 
@@ -63,70 +134,29 @@ Das Projekt steht für robuste Worker-Prozesse, klare Architektur und die Verbin
 
 Das Projekt verbindet für mich Domänenmodellierung, Hintergrundverarbeitung und pragmatische Unternehmenssoftware.
 
-👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
-![C#](https://img.shields.io/badge/Code-C%23-blue) ![Worker Service](https://img.shields.io/badge/Type-Worker_Service-lightgrey) ![Domain](https://img.shields.io/badge/Topic-Inventory-blueviolet)
-
-## ❤️ My Passion Projects
-
-### ❤️ TinyCalc – A Modern Re‑Implementation of Borland’s MicroCalc
-
-![Spreadsheet](https://img.shields.io/badge/Topic-Spreadsheet-lightgrey)
-
-One of my most personal projects is **TinyCalc**.  
-It is a modern reimplementation of **Borland MicroCalc** written entirely in **C#** – deliberately built as a **terminal/text UI application** rather than a graphical interface.
-
-For me, this project combines retro computing, software architecture, testability, and accessibility.
-
-👉 Repository: [TinyCalc](https://github.com/hindermath/TinyCalc)  
-![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational)
-
-### ❤️ TinyPL/0 – Compiler Construction Meets Retro and Teaching Tradition
-
-Another project especially close to my heart is **TinyPL/0**.  
-I am reimplementing Niklaus Wirth’s classic teaching compiler **PL/0** entirely in **C#** – modernized, testable, and structured in my own architecture.
-
-For me, this project brings together compiler construction, teaching, language design, and retro computing.
-
-👉 Repository: [TinyPl0](https://github.com/hindermath/TinyPl0)  
-![C#](https://img.shields.io/badge/Code-C%23-blue) ![Compiler](https://img.shields.io/badge/Topic-Compiler-orange) ![PL/0](https://img.shields.io/badge/Language-PL%2F0-lightgrey)
-
-### ❤️ home-baseline – My Agentic Workspace Foundation
-
-**home-baseline** is my personal foundation for a consistent agentic workspace across multiple repositories.  
-It bundles scripts, governance rules, constitutions, and AI-agent guidance files for Level-0, Level-1, and Level-2 structures.
-
-For me, this project combines development infrastructure, automation, governance, documentation, and accessibility.
-
-👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
-![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
-
-### ❤️ TuiVision – Terminal UI for Vision Testing
-
-With **TuiVision**, I am building a modern, accessibility-aware application for vision testing in the terminal.  
-The project focuses on clear text UI, strong keyboard usability, and testable architecture in **C#/.NET**.
-
-For me, it combines accessibility, terminal UX, health-related use cases, and clean software architecture.
-
-👉 Repository: [TuiVision](https://github.com/hindermath/TuiVision)  
-![C#](https://img.shields.io/badge/Code-C%23-blue) ![Terminal UI](https://img.shields.io/badge/UI-Terminal-informational) ![Accessibility](https://img.shields.io/badge/Topic-A11Y-brightgreen)
-
-### ❤️ InventarWorkerService – Inventory Management with Worker Architecture
-
-**InventarWorkerService** is part of my inventory domain and focuses on backend-oriented processing with **C#/.NET**.  
-The project stands for robust worker processes, clear architecture, and the connection between domain logic and technical maintainability.
-
-For me, it combines domain modeling, background processing, and pragmatic business software.
+* **InventarWorkerService** is part of my inventory domain and focuses on backend-oriented processing with **C#/.NET**. It stands for robust worker processes, clear architecture, and the connection between domain logic and technical maintainability. For me, it combines domain modeling, background processing, and pragmatic business software.*
 
 👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Worker Service](https://img.shields.io/badge/Type-Worker_Service-lightgrey) ![Domain](https://img.shields.io/badge/Topic-Inventory-blueviolet)
 
-## 🚀 Technologien / Technologies
+## 🎯 Interessen & Hobbys / Interests & Hobbies
 
-`C#` `C` `Java` `WPF` `PowerShell` `Bash` `Terminal UI` `GitHub Actions`
+- Retro-Computing mit C64, C64 Ultimate und klassischen Softwarekonzepten  
+  *Retro computing with the C64, C64 Ultimate, and classic software concepts*
+- Programmierbare Taschenrechner von HP und TI  
+  *Programmable calculators from HP and TI*
+- US-Navy-Geschichte, besonders Flugzeugträger ab 1950  
+  *US Navy history, especially aircraft carriers from 1950 onward*
+- Fotografie mit Canon  
+  *Photography with Canon*
+- MSFS2020 auf der Xbox Series S  
+  *MSFS2020 on Xbox Series S*
+- Musikproduktion mit Ableton Live, FL Studio, Logic Pro und Native Instruments  
+  *Music production with Ableton Live, FL Studio, Logic Pro, and Native Instruments*
 
 ## 📫 Kontakt / Contact
 
-* GitHub: [@hindermath](https://github.com/hindermath)
+- GitHub: [@hindermath](https://github.com/hindermath)
 
 ---
 

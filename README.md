@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer Gewohnheiten dokumentiert, stärkt Kontinuität.
+> Weniger Ausnahmen bedeuten mehr Verlässlichkeit.
 >
-> Documenting habits strengthens continuity.
+> Fewer exceptions mean more reliability.
 <!-- MOTD:END -->

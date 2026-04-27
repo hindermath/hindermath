@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Weniger Ausnahmen bedeuten mehr Verlässlichkeit.
+> Klare Textausgaben sind eine Form von Design.
 >
-> Fewer exceptions mean more reliability.
+> Clear textual output is a form of design.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Klare Textausgaben sind eine Form von Design.
+> Wer Standards lebt, muss sie pflegbar halten.
 >
-> Clear textual output is a form of design.
+> Whoever lives standards must keep them maintainable.
 <!-- MOTD:END -->

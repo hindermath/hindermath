@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer Standards lebt, muss sie pflegbar halten.
+> Auch Einmalwerkzeuge verdienen Würde.
 >
-> Whoever lives standards must keep them maintainable.
+> Even one-off tools deserve dignity.
 <!-- MOTD:END -->

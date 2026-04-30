@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Auch Einmalwerkzeuge verdienen Würde.
+> Architektur ist die Kunst des Weglassens.
 >
-> Even one-off tools deserve dignity.
+> Architecture is the art of leaving things out.
 <!-- MOTD:END -->

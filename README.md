@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Architektur ist die Kunst des Weglassens.
+> Ein sauberes Ende ist Teil guter Arbeit.
 >
-> Architecture is the art of leaving things out.
+> A clean finish is part of good work.
 <!-- MOTD:END -->

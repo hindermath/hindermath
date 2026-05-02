@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein sauberes Ende ist Teil guter Arbeit.
+> Einfachheit braucht Disziplin.
 >
-> A clean finish is part of good work.
+> Simplicity requires discipline.
 <!-- MOTD:END -->

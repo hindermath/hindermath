@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Einfachheit braucht Disziplin.
+> Nicht jede Metrik ist Fortschritt.
 >
-> Simplicity requires discipline.
+> Not every metric is progress.
 <!-- MOTD:END -->

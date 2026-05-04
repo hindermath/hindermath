@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Nicht jede Metrik ist Fortschritt.
+> Menschen warten Software, nicht Abstraktionen.
 >
-> Not every metric is progress.
+> People maintain software, not abstractions.
 <!-- MOTD:END -->

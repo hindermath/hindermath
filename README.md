@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Menschen warten Software, nicht Abstraktionen.
+> Klare Verantwortung beschleunigt Zusammenarbeit.
 >
-> People maintain software, not abstractions.
+> Clear ownership speeds up collaboration.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Klare Verantwortung beschleunigt Zusammenarbeit.
+> Gute Software hat Geduld mit ihren Nutzenden.
 >
-> Clear ownership speeds up collaboration.
+> Good software is patient with its users.
 <!-- MOTD:END -->

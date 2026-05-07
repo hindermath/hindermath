@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Gute Software hat Geduld mit ihren Nutzenden.
+> Ein Interface darf freundlich sein, ohne weich zu werden.
 >
-> Good software is patient with its users.
+> An interface can be friendly without becoming vague.
 <!-- MOTD:END -->

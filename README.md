@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Interface darf freundlich sein, ohne weich zu werden.
+> Ordnung in Dateien schafft Ordnung im Kopf.
 >
-> An interface can be friendly without becoming vague.
+> Order in files creates order in the mind.
 <!-- MOTD:END -->

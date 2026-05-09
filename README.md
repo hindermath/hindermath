@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ordnung in Dateien schafft Ordnung im Kopf.
+> Wer Änderungen klein hält, hält Risiken klein.
 >
-> Order in files creates order in the mind.
+> Keeping changes small keeps risk small.
 <!-- MOTD:END -->

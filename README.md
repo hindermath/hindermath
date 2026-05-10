@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer Änderungen klein hält, hält Risiken klein.
+> Automatisierte Qualität ist skalierte Sorgfalt.
 >
-> Keeping changes small keeps risk small.
+> Automated quality is scaled care.
 <!-- MOTD:END -->

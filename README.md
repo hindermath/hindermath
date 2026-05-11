@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Automatisierte Qualität ist skalierte Sorgfalt.
+> Lernbare Software ist nachhaltige Software.
 >
-> Automated quality is scaled care.
+> Learnable software is sustainable software.
 <!-- MOTD:END -->

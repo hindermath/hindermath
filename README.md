@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Lernbare Software ist nachhaltige Software.
+> Schutz vor Fehlern ist Teil guter UX.
 >
-> Learnable software is sustainable software.
+> Error prevention is part of good UX.
 <!-- MOTD:END -->

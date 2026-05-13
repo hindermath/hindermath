@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Schutz vor Fehlern ist Teil guter UX.
+> Nicht jede Metrik ist Fortschritt.
 >
-> Error prevention is part of good UX.
+> Not every metric is progress.
 <!-- MOTD:END -->

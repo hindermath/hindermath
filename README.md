@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Schutz vor Fehlern ist Teil guter UX.
+> Gute Software bleibt anschlussfähig.
 >
-> Error prevention is part of good UX.
+> Good software remains connectable.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Gute Software bleibt anschlussfähig.
+> Ein Repository kann freundlich wirken.
 >
-> Good software remains connectable.
+> A repository can feel welcoming.
 <!-- MOTD:END -->

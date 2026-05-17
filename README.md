@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Repository kann freundlich wirken.
+> Weniger Ausnahmen bedeuten mehr Verlässlichkeit.
 >
-> A repository can feel welcoming.
+> Fewer exceptions mean more reliability.
 <!-- MOTD:END -->

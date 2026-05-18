@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Weniger Ausnahmen bedeuten mehr Verlässlichkeit.
+> Wenn etwas oft erklärt werden muss, gehört es ins README.
 >
-> Fewer exceptions mean more reliability.
+> If something must be explained often, it belongs in the README.
 <!-- MOTD:END -->

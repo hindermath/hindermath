@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wenn etwas oft erklärt werden muss, gehört es ins README.
+> Automatisierte Qualität ist skalierte Sorgfalt.
 >
-> If something must be explained often, it belongs in the README.
+> Automated quality is scaled care.
 <!-- MOTD:END -->

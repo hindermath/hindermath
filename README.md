@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Automatisierte Qualität ist skalierte Sorgfalt.
+> Ein System ist nur so klar wie sein Setup.
 >
-> Automated quality is scaled care.
+> A system is only as clear as its setup.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein System ist nur so klar wie sein Setup.
+> Eine gute Metrik braucht Demut.
 >
-> A system is only as clear as its setup.
+> A good metric needs humility.
 <!-- MOTD:END -->

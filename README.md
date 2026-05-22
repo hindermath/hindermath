@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Eine gute Metrik braucht Demut.
+> Gute Software bleibt anschlussfähig.
 >
-> A good metric needs humility.
+> Good software remains connectable.
 <!-- MOTD:END -->

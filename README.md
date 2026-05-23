@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Gute Software bleibt anschlussfähig.
+> Eine kleine Verbesserung am Workflow wirkt oft groß.
 >
-> Good software remains connectable.
+> A small workflow improvement often has a big effect.
 <!-- MOTD:END -->

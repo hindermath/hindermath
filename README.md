@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Eine kleine Verbesserung am Workflow wirkt oft groß.
+> Klare Standards machen Zusammenarbeit leichter als Kontrolle.
 >
-> A small workflow improvement often has a big effect.
+> Clear standards make collaboration easier than control.
 <!-- MOTD:END -->

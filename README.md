@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Klare Standards machen Zusammenarbeit leichter als Kontrolle.
+> Die beste Optimierung ist oft Vereinfachung.
 >
-> Clear standards make collaboration easier than control.
+> The best optimization is often simplification.
 <!-- MOTD:END -->

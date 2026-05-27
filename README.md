@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Die beste Optimierung ist oft Vereinfachung.
+> Gute Agentenführung reduziert Zufall.
 >
-> The best optimization is often simplification.
+> Good agent guidance reduces randomness.
 <!-- MOTD:END -->

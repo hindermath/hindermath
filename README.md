@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Gute Agentenführung reduziert Zufall.
+> Gute Templates beschleunigen ohne zu verflachen.
 >
-> Good agent guidance reduces randomness.
+> Good templates accelerate without flattening.
 <!-- MOTD:END -->

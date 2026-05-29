@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Gute Templates beschleunigen ohne zu verflachen.
+> Qualität beginnt bei den kleinen Entscheidungen.
 >
-> Good templates accelerate without flattening.
+> Quality begins with small decisions.
 <!-- MOTD:END -->

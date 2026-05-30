@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Qualität beginnt bei den kleinen Entscheidungen.
+> Qualität ist das, was auch später noch trägt.
 >
-> Quality begins with small decisions.
+> Quality is what still holds up later.
 <!-- MOTD:END -->

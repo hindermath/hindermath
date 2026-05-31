@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Qualität ist das, was auch später noch trägt.
+> Wer Dokumente pflegt, pflegt Entscheidungen.
 >
-> Quality is what still holds up later.
+> Maintaining documents means maintaining decisions.
 <!-- MOTD:END -->

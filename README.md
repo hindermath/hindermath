@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer Dokumente pflegt, pflegt Entscheidungen.
+> Wer Standards erklärt, erhöht ihre Akzeptanz.
 >
-> Maintaining documents means maintaining decisions.
+> Explaining standards increases acceptance.
 <!-- MOTD:END -->

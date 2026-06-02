@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer Standards erklärt, erhöht ihre Akzeptanz.
+> Jede gute Konvention reduziert Entscheidungslärm.
 >
-> Explaining standards increases acceptance.
+> Every good convention reduces decision noise.
 <!-- MOTD:END -->

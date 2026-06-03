@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Jede gute Konvention reduziert Entscheidungslärm.
+> Skripte dürfen robust sein und trotzdem freundlich bleiben.
 >
-> Every good convention reduces decision noise.
+> Scripts can be robust and still stay friendly.
 <!-- MOTD:END -->

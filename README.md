@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Skripte dürfen robust sein und trotzdem freundlich bleiben.
+> Saubere Trennung erleichtert kluge Kopplung.
 >
-> Scripts can be robust and still stay friendly.
+> Clean separation makes smart coupling easier.
 <!-- MOTD:END -->

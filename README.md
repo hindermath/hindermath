@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Saubere Trennung erleichtert kluge Kopplung.
+> Ein sauberer Start ist eine Investition in Ruhe.
 >
-> Clean separation makes smart coupling easier.
+> A clean start is an investment in calm.
 <!-- MOTD:END -->

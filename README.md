@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein sauberer Start ist eine Investition in Ruhe.
+> Konsistenz spart Energie.
 >
-> A clean start is an investment in calm.
+> Consistency saves energy.
 <!-- MOTD:END -->

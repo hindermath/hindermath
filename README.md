@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Konsistenz spart Energie.
+> Spezifikations-gesteuerte Entwicklung bringt Ruhe in Komplexität.
 >
-> Consistency saves energy.
+> Specification-driven development brings calm to complexity.
 <!-- MOTD:END -->

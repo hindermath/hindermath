@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Spezifikations-gesteuerte Entwicklung bringt Ruhe in Komplexität.
+> Ein lesbares Repo ist eine offene Tür.
 >
-> Specification-driven development brings calm to complexity.
+> A readable repo is an open door.
 <!-- MOTD:END -->

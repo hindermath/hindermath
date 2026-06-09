@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein lesbares Repo ist eine offene Tür.
+> Barrierefreiheit ist auch Kollegialität.
 >
-> A readable repo is an open door.
+> Accessibility is also collegiality.
 <!-- MOTD:END -->

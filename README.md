@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Barrierefreiheit ist auch Kollegialität.
+> Agentische KI braucht klare Leitplanken.
 >
-> Accessibility is also collegiality.
+> Agentic AI needs clear guardrails.
 <!-- MOTD:END -->

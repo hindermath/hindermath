@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Agentische KI braucht klare Leitplanken.
+> Wer Umwege dokumentiert, hilft dem nächsten Menschen.
 >
-> Agentic AI needs clear guardrails.
+> Documenting detours helps the next person.
 <!-- MOTD:END -->

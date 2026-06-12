@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer Umwege dokumentiert, hilft dem nächsten Menschen.
+> Klare Textausgaben sind eine Form von Design.
 >
-> Documenting detours helps the next person.
+> Clear textual output is a form of design.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Klare Textausgaben sind eine Form von Design.
+> Ein klarer Branch spart rätselhafte Historien.
 >
-> Clear textual output is a form of design.
+> A clear branch prevents mysterious history.
 <!-- MOTD:END -->

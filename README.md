@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein klarer Branch spart rätselhafte Historien.
+> Weniger Magie bedeutet mehr Wartbarkeit.
 >
-> A clear branch prevents mysterious history.
+> Less magic means more maintainability.
 <!-- MOTD:END -->

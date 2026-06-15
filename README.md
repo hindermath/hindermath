@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Weniger Magie bedeutet mehr Wartbarkeit.
+> Ein Commit sollte eine Geschichte erzählen.
 >
-> Less magic means more maintainability.
+> A commit should tell a story.
 <!-- MOTD:END -->

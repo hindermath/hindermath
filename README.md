@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Commit sollte eine Geschichte erzählen.
+> Beobachtbarkeit ist ein Designmerkmal.
 >
-> A commit should tell a story.
+> Observability is a design property.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Beobachtbarkeit ist ein Designmerkmal.
+> Jede Abweichung braucht einen guten Grund.
 >
-> Observability is a design property.
+> Every deviation needs a good reason.
 <!-- MOTD:END -->

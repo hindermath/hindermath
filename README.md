@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Jede Abweichung braucht einen guten Grund.
+> Ein guter Tag beginnt mit einem sauberen Pull.
 >
-> Every deviation needs a good reason.
+> A good day starts with a clean pull.
 <!-- MOTD:END -->

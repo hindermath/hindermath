@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein guter Tag beginnt mit einem sauberen Pull.
+> Ein sinnvolles Template ersetzt keine Verantwortung.
 >
-> A good day starts with a clean pull.
+> A useful template does not replace responsibility.
 <!-- MOTD:END -->

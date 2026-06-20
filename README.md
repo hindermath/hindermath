@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein sinnvolles Template ersetzt keine Verantwortung.
+> Sorgfalt in Skripten spart Chaos im Alltag.
 >
-> A useful template does not replace responsibility.
+> Care in scripts saves everyday chaos.
 <!-- MOTD:END -->

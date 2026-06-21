@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Sorgfalt in Skripten spart Chaos im Alltag.
+> Fehlertexte sind Teil der UX.
 >
-> Care in scripts saves everyday chaos.
+> Error messages are part of the UX.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Klare Prioritäten sind gelebte Architektur.
+> Programmierung #include<everyone>.
 >
-> Clear priorities are architecture in practice.
+> Programming #include<everyone>.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Programmierung #include<everyone>.
+> Klare Trennung ist kein Selbstzweck, sondern Service.
 >
-> Programming #include<everyone>.
+> Clear separation is not an end in itself, but a service.
 <!-- MOTD:END -->

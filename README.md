@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Klare Trennung ist kein Selbstzweck, sondern Service.
+> Respekt vor Nutzenden zeigt sich in Details.
 >
-> Clear separation is not an end in itself, but a service.
+> Respect for users shows in details.
 <!-- MOTD:END -->

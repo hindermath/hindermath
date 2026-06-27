@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Respekt vor Nutzenden zeigt sich in Details.
+> Schutz vor Fehlern ist Teil guter UX.
 >
-> Respect for users shows in details.
+> Error prevention is part of good UX.
 <!-- MOTD:END -->

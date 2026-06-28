@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Schutz vor Fehlern ist Teil guter UX.
+> Codequalität ist Teamkultur in Artefakten.
 >
-> Error prevention is part of good UX.
+> Code quality is team culture in artifacts.
 <!-- MOTD:END -->

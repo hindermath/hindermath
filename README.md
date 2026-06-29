@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Codequalität ist Teamkultur in Artefakten.
+> Eine ruhige Oberfläche wirkt kompetent.
 >
-> Code quality is team culture in artifacts.
+> A calm interface feels competent.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Eine ruhige Oberfläche wirkt kompetent.
+> Klare Verantwortung macht mutiger.
 >
-> A calm interface feels competent.
+> Clear responsibility makes people bolder.
 <!-- MOTD:END -->

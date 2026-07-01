@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Klare Verantwortung macht mutiger.
+> Menschen warten Software, nicht Abstraktionen.
 >
-> Clear responsibility makes people bolder.
+> People maintain software, not abstractions.
 <!-- MOTD:END -->

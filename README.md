@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Menschen warten Software, nicht Abstraktionen.
+> Ein gutes Repo verrät seine Absicht schnell.
 >
-> People maintain software, not abstractions.
+> A good repo reveals its intent quickly.
 <!-- MOTD:END -->

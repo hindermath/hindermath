@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein gutes Repo verrät seine Absicht schnell.
+> Jede Abweichung braucht einen guten Grund.
 >
-> A good repo reveals its intent quickly.
+> Every deviation needs a good reason.
 <!-- MOTD:END -->

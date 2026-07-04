@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Jede Abweichung braucht einen guten Grund.
+> Ein klarer Scope schützt vor Übermut.
 >
-> Every deviation needs a good reason.
+> A clear scope protects against overreach.
 <!-- MOTD:END -->

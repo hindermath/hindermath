@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein klarer Scope schützt vor Übermut.
+> Wartbarkeit ist eine Form von Respekt.
 >
-> A clear scope protects against overreach.
+> Maintainability is a form of respect.
 <!-- MOTD:END -->

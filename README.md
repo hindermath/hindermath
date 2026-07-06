@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wartbarkeit ist eine Form von Respekt.
+> Retro-Ideen können moderne Qualität haben.
 >
-> Maintainability is a form of respect.
+> Retro ideas can have modern quality.
 <!-- MOTD:END -->

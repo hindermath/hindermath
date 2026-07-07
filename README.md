@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Retro-Ideen können moderne Qualität haben.
+> Jede hilfreiche Regel spart spätere Ausnahmen.
 >
-> Retro ideas can have modern quality.
+> Every helpful rule saves later exceptions.
 <!-- MOTD:END -->

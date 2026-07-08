@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Jede hilfreiche Regel spart spätere Ausnahmen.
+> Ein hilfreicher Standard lässt Raum für Ausnahmen mit Grund.
 >
-> Every helpful rule saves later exceptions.
+> A helpful standard leaves room for justified exceptions.
 <!-- MOTD:END -->

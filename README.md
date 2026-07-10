@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein hilfreicher Standard lässt Raum für Ausnahmen mit Grund.
+> Jede Datei sollte einen Grund haben.
 >
-> A helpful standard leaves room for justified exceptions.
+> Every file should have a reason.
 <!-- MOTD:END -->

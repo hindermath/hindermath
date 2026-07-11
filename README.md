@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Jede Datei sollte einen Grund haben.
+> Die beste Optimierung ist oft Vereinfachung.
 >
-> Every file should have a reason.
+> The best optimization is often simplification.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Die beste Optimierung ist oft Vereinfachung.
+> Ein Backup ist gelebter Realismus.
 >
-> The best optimization is often simplification.
+> A backup is realism in practice.
 <!-- MOTD:END -->

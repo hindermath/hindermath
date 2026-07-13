@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Backup ist gelebter Realismus.
+> Agentische KI wirkt am besten mit gutem Kontext.
 >
-> A backup is realism in practice.
+> Agentic AI works best with good context.
 <!-- MOTD:END -->

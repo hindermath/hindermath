@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Agentische KI wirkt am besten mit gutem Kontext.
+> Klare Prioritäten sind gelebte Architektur.
 >
-> Agentic AI works best with good context.
+> Clear priorities are architecture in practice.
 <!-- MOTD:END -->

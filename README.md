@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Klare Prioritäten sind gelebte Architektur.
+> Gute Werkzeuge verdienen gute Regeln.
 >
-> Clear priorities are architecture in practice.
+> Good tools deserve good rules.
 <!-- MOTD:END -->

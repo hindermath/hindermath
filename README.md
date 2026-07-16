@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Gute Werkzeuge verdienen gute Regeln.
+> Ein Architekturentscheid ohne Dokumentation verliert schnell seinen Grund.
 >
-> Good tools deserve good rules.
+> An architectural decision without documentation quickly loses its reason.
 <!-- MOTD:END -->

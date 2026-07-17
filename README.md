@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Architekturentscheid ohne Dokumentation verliert schnell seinen Grund.
+> Agentische KI braucht klare Leitplanken.
 >
-> An architectural decision without documentation quickly loses its reason.
+> Agentic AI needs clear guardrails.
 <!-- MOTD:END -->

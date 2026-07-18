@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Agentische KI braucht klare Leitplanken.
+> Dokumentierte Entscheidungen altern langsamer.
 >
-> Agentic AI needs clear guardrails.
+> Documented decisions age more slowly.
 <!-- MOTD:END -->

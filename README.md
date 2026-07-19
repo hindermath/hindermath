@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Dokumentierte Entscheidungen altern langsamer.
+> Verständliche Logs sind halbe Diagnosen.
 >
-> Documented decisions age more slowly.
+> Understandable logs are half a diagnosis.
 <!-- MOTD:END -->

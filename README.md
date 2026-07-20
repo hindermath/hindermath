@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Verständliche Logs sind halbe Diagnosen.
+> Tooling sollte entlasten, nicht beeindrucken.
 >
-> Understandable logs are half a diagnosis.
+> Tooling should reduce effort, not seek admiration.
 <!-- MOTD:END -->

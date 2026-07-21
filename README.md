@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Tooling sollte entlasten, nicht beeindrucken.
+> Ein sauberes Ende ist Teil guter Arbeit.
 >
-> Tooling should reduce effort, not seek admiration.
+> A clean finish is part of good work.
 <!-- MOTD:END -->

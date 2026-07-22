@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein sauberes Ende ist Teil guter Arbeit.
+> Ein verständlicher Fehler spart Support.
 >
-> A clean finish is part of good work.
+> An understandable error saves support.
 <!-- MOTD:END -->

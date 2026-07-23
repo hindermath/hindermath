@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein verständlicher Fehler spart Support.
+> Ein hilfreiches Template spart Startenergie.
 >
-> An understandable error saves support.
+> A helpful template saves startup energy.
 <!-- MOTD:END -->

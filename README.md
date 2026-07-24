@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein hilfreiches Template spart Startenergie.
+> Ein Projekt sollte auch nach Monaten wieder lesbar sein.
 >
-> A helpful template saves startup energy.
+> A project should still be readable months later.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Projekt sollte auch nach Monaten wieder lesbar sein.
+> Kleine Schritte schlagen große Sprünge.
 >
-> A project should still be readable months later.
+> Small steps beat giant leaps.
 <!-- MOTD:END -->

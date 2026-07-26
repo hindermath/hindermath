@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Kleine Schritte schlagen große Sprünge.
+> Wer Umwege dokumentiert, hilft dem nächsten Menschen.
 >
-> Small steps beat giant leaps.
+> Documenting detours helps the next person.
 <!-- MOTD:END -->

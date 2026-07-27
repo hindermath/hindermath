@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer Umwege dokumentiert, hilft dem nächsten Menschen.
+> Tests sind Sicherheitsgurte für Veränderungen.
 >
-> Documenting detours helps the next person.
+> Tests are seat belts for change.
 <!-- MOTD:END -->

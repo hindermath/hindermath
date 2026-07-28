@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Tests sind Sicherheitsgurte für Veränderungen.
+> Konsequente Benennung halbiert Missverständnisse.
 >
-> Tests are seat belts for change.
+> Consistent naming cuts misunderstandings in half.
 <!-- MOTD:END -->

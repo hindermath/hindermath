@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Konsequente Benennung halbiert Missverständnisse.
+> Wer sauber benennt, macht Onboarding leichter.
 >
-> Consistent naming cuts misunderstandings in half.
+> Naming well makes onboarding easier.
 <!-- MOTD:END -->

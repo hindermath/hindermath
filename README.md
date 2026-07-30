@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer sauber benennt, macht Onboarding leichter.
+> Jede Abhängigkeit ist eine Beziehung.
 >
-> Naming well makes onboarding easier.
+> Every dependency is a relationship.
 <!-- MOTD:END -->

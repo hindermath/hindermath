@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Jede Abhängigkeit ist eine Beziehung.
+> Respekt vor Nutzenden zeigt sich in Details.
 >
-> Every dependency is a relationship.
+> Respect for users shows in details.
 <!-- MOTD:END -->

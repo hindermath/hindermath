@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Respekt vor Nutzenden zeigt sich in Details.
+> Architektur ist die Kunst des Weglassens.
 >
-> Respect for users shows in details.
+> Architecture is the art of leaving things out.
 <!-- MOTD:END -->

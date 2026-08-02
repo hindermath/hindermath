@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Architektur ist die Kunst des Weglassens.
+> Weniger Magie bedeutet mehr Wartbarkeit.
 >
-> Architecture is the art of leaving things out.
+> Less magic means more maintainability.
 <!-- MOTD:END -->

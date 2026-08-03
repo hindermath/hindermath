@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Weniger Magie bedeutet mehr Wartbarkeit.
+> Ein guter Tag beginnt mit einem sauberen Pull.
 >
-> Less magic means more maintainability.
+> A good day starts with a clean pull.
 <!-- MOTD:END -->

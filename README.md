@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein guter Tag beginnt mit einem sauberen Pull.
+> Sicherheit ist keine Nachrüstoption.
 >
-> A good day starts with a clean pull.
+> Security is not a retrofit option.
 <!-- MOTD:END -->

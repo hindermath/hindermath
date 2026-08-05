@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Sicherheit ist keine Nachrüstoption.
+> Ein Leitsatz darf auch im Alltag taugen.
 >
-> Security is not a retrofit option.
+> A motto should also work in daily practice.
 <!-- MOTD:END -->

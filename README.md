@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Leitsatz darf auch im Alltag taugen.
+> Kontext ist oft wichtiger als Tempo.
 >
-> A motto should also work in daily practice.
+> Context is often more important than speed.
 <!-- MOTD:END -->

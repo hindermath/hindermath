@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Kontext ist oft wichtiger als Tempo.
+> Automatisierung darf den Menschen nicht verstecken.
 >
-> Context is often more important than speed.
+> Automation must not hide the human.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Automatisierung darf den Menschen nicht verstecken.
+> Ein Script sollte erklären, was es tut.
 >
-> Automation must not hide the human.
+> A script should explain what it does.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Script sollte erklären, was es tut.
+> Eine gute Pipeline kennt ihren Zweck.
 >
-> A script should explain what it does.
+> A good pipeline knows its purpose.
 <!-- MOTD:END -->

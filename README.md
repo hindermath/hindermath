@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Eine gute Pipeline kennt ihren Zweck.
+> Sicherheit beginnt bei einfachen Gewohnheiten.
 >
-> A good pipeline knows its purpose.
+> Security begins with simple habits.
 <!-- MOTD:END -->

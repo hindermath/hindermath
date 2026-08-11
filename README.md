@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Sicherheit beginnt bei einfachen Gewohnheiten.
+> Ein Hook darf warnen, aber nicht rätseln.
 >
-> Security begins with simple habits.
+> A hook may warn, but it should not puzzle.
 <!-- MOTD:END -->

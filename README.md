@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein Hook darf warnen, aber nicht rätseln.
+> Ein sauberer Start ist eine Investition in Ruhe.
 >
-> A hook may warn, but it should not puzzle.
+> A clean start is an investment in calm.
 <!-- MOTD:END -->

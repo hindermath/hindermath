@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein hilfreiches Template spart Startenergie.
+> Wer reproduzierbar arbeitet, arbeitet lehrbar.
 >
-> A helpful template saves startup energy.
+> Reproducible work is teachable work.
 <!-- MOTD:END -->

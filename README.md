@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer reproduzierbar arbeitet, arbeitet lehrbar.
+> Weniger Magie bedeutet mehr Wartbarkeit.
 >
-> Reproducible work is teachable work.
+> Less magic means more maintainability.
 <!-- MOTD:END -->

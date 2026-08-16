@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Weniger Magie bedeutet mehr Wartbarkeit.
+> Die beste Security-Checkliste ist benutzbar.
 >
-> Less magic means more maintainability.
+> The best security checklist is usable.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Die beste Security-Checkliste ist benutzbar.
+> Ein klarer Standard senkt die Einstiegshürde.
 >
-> The best security checklist is usable.
+> A clear standard lowers the barrier to entry.
 <!-- MOTD:END -->

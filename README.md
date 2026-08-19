@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Die beste Security-Checkliste ist benutzbar.
+> Gute Architektur macht Änderungen billiger.
 >
-> The best security checklist is usable.
+> Good architecture makes change cheaper.
 <!-- MOTD:END -->

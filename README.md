@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Gute Architektur macht Änderungen billiger.
+> Gute Agentenarbeit braucht gute Grenzen.
 >
-> Good architecture makes change cheaper.
+> Good agent work needs good boundaries.
 <!-- MOTD:END -->

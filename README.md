@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Gute Agentenarbeit braucht gute Grenzen.
+> Wer reproduzieren kann, kann beheben.
 >
-> Good agent work needs good boundaries.
+> Whoever can reproduce can fix.
 <!-- MOTD:END -->

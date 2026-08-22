@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer reproduzieren kann, kann beheben.
+> Barrierefreiheit ist auch Kollegialität.
 >
-> Whoever can reproduce can fix.
+> Accessibility is also collegiality.
 <!-- MOTD:END -->

@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Barrierefreiheit ist auch Kollegialität.
+> Automatisierte Qualität ist skalierte Sorgfalt.
 >
-> Accessibility is also collegiality.
+> Automated quality is scaled care.
 <!-- MOTD:END -->

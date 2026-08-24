@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Automatisierte Qualität ist skalierte Sorgfalt.
+> Ein refaktorierter Abschnitt ist ein klärendes Gespräch.
 >
-> Automated quality is scaled care.
+> A refactored section is a clarifying conversation.
 <!-- MOTD:END -->

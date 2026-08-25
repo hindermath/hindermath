@@ -184,7 +184,7 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein refaktorierter Abschnitt ist ein klärendes Gespräch.
+> Eine ruhige Oberfläche wirkt kompetent.
 >
-> A refactored section is a clarifying conversation.
+> A calm interface feels competent.
 <!-- MOTD:END -->

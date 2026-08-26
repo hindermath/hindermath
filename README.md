@@ -5,6 +5,14 @@
 
 ---
 
+<!-- MOTD:START -->
+> **MOTD / Message of the Day**
+>
+> Eine ruhige Oberfläche wirkt kompetent.
+>
+> A calm interface feels competent.
+<!-- MOTD:END -->
+
 Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler mit über 40-jähriger Berufserfahrung aus Deutschland und arbeite seit mehr als 20 Jahren bei der [GWDG](https://gwdg.de). Ich bewege mich gern zwischen dem Einsatz agentischer KI plus spezifikations-gesteuerter Entwicklung, klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.
 
 Welcome to my GitHub profile. I'm an experienced software developer from Germany with more than 40 years of professional experience, and I have been working at [GWDG](https://gwdg.de) for more than 20 years. I enjoy moving between agentic AI combined with specification-driven development, classic application development, terminal and tooling projects, retro computing, and practical automation.
@@ -178,13 +186,3 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
  [@hindermath](https://github.com/hindermath)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Thorsten%20Hindermann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
  [Thorsten Hindermann](https://de.linkedin.com/in/thorsten-hindermann-799b72244)
-
----
-
-<!-- MOTD:START -->
-> **MOTD / Message of the Day**
->
-> Eine ruhige Oberfläche wirkt kompetent.
->
-> A calm interface feels competent.
-<!-- MOTD:END -->

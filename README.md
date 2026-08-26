@@ -1,7 +1,7 @@
 <h1 align="center">Hallo, ich bin Thorsten Hindermann 👋</h1>
-<h3 align="center">Softwareentwickler • Retro-Computing-Enthusiast • Musikmacher</h3>
+<h3 align="center">Softwareentwickler • Retro-Computing-Enthusiast • Musik-Tools-Experimentator</h3>
 <h1 align="center"><strong>Programmierung #include&lt;everyone&gt;</strong></h1>
-<p align="center"><em>Hi, I'm Thorsten Hindermann — Software Developer • Retro Computing Enthusiast • Music Creator</em></p>
+<p align="center"><em>Hi, I'm Thorsten Hindermann — Software Developer • Retro Computing Enthusiast • Music Tools Experimenter</em></p>
 
 ---
 
@@ -36,8 +36,8 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
   *Enjoy modern C#/.NET development as much as Bash, PowerShell, databases, and tooling*
 - 🕹️ Begeisterung für Retro-Computing, insbesondere C64, Compilerbau und klassische Softwarekonzepte in moderner Form  
   *Enthusiastic about retro computing, especially the C64, compiler construction, and modern reinterpretations of classic software ideas*
-- 🎵 Musikproduktion unter dem Namen **TMyTTMAAP (TMy Table Top Music And Art Production)**  
-  *Music production under the name **TMyTTMAAP (TMy Table Top Music And Art Production)***
+- 🎵 Experimentieren mit Musik-Tools, Klangbibliotheken und MIDI unter dem Namen **TMyTTMAAP (TMy Table Top Music And Art Production)** und dem Motto **HTMAN (How To Make A Noise)**  
+  *Experimenting with music tools, sound libraries, and MIDI under the name **TMyTTMAAP (TMy Table Top Music And Art Production)** and the motto **HTMAN (How To Make A Noise)***
 - 🤝 Offen für Austausch, Lernen und gute technische Gespräche  
   *Open to exchange, learning, and good technical conversations*
 
@@ -83,7 +83,7 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 ![cc65](https://img.shields.io/badge/cc65-000000?style=for-the-badge)
 ![KickAssembler](https://img.shields.io/badge/KickAssembler-FF8C00?style=for-the-badge)
 
-### 🎵 Musikproduktion / Music Production
+### 🎵 Musik-Tools & Klangexperimente / Music Tools & Sound Experiments
 
 ![Ableton Live](https://img.shields.io/badge/Ableton%20Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-F7931E?style=for-the-badge&logo=flstudio&logoColor=white)
@@ -178,8 +178,8 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
   *Photography with Canon*
 - MSFS2020 auf der Xbox Series S  
   *MSFS2020 on Xbox Series S*
-- Musikproduktion mit Ableton Live, FL Studio, Logic Pro und Native Instruments  
-  *Music production with Ableton Live, FL Studio, Logic Pro, and Native Instruments*
+- Experimentieren mit Ableton Live, FL Studio, Logic Pro, Native Instruments und Klangbibliotheken  
+  *Experimenting with Ableton Live, FL Studio, Logic Pro, Native Instruments, and sound libraries*
 
 ## 📫 Kontakt / Contact
 - ![GitHub](https://img.shields.io/badge/GitHub-@hindermath-181717?style=for-the-badge&logo=github&logoColor=white)

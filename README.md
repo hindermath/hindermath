@@ -106,6 +106,46 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 
 ## ❤️ Meine Herzensprojekte / My Passion Projects
 
+### ❤️ home-baseline – meine agentische Workspace-Grundlage
+
+**home-baseline** ist die versionierte **Level-0-Quelle** meiner agentischen Workspace-Familie. Sie stellt gemeinsame Regeln, Governance, Skripte, Spec-Kit-Presets und wiederverwendbare Workflow-Verträge bereit.
+
+**Level 1** organisiert die Zusammensetzung eines Arbeitsbereichs. Die unabhängigen **Level-2-Repositories** wie Agent Operations Cockpit, TinyPL/0, TinyCalc, TuiVision und InventarWorkerService behalten ihre eigene Produkt-, Laufzeit- und Projektwahrheit. Sie bauen organisatorisch und governance-seitig auf home-baseline auf, bleiben aber eigenständige Git-Repositories mit eigener Historie und eigenem Lebenszyklus.
+
+Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Governance, Dokumentation und Barrierefreiheit.
+
+***home-baseline** is the versioned **level-0 source** for my agentic workspace family. It provides shared policies, governance, scripts, Spec Kit presets, and reusable workflow contracts. **Level 1** composes a workspace. The independent **level-2 repositories**—including Agent Operations Cockpit, TinyPL/0, TinyCalc, TuiVision, and InventarWorkerService—retain their own product, runtime, and project truth. They build on home-baseline organizationally and for governance while remaining independent Git repositories with their own histories and lifecycles. For me, home-baseline brings together development infrastructure, automation, governance, documentation, and accessibility.*
+
+👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
+![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
+
+### ❤️ GitHub Spec Kit & meine zwölf Presets – Governance für Spec-Driven Development
+
+**GitHub Spec Kit** begeistert mich als Werkzeug für Spec-Driven Development. Es verbindet Spezifikation, Planung, Aufgaben und Umsetzung zu einem nachvollziehbaren Entwicklungsfluss.
+
+Auf dieser Grundlage entwickle und pflege ich derzeit **zwölf eigene Governance-Presets**. Sie bündeln wiederverwendbare Leitplanken für Sicherheit, Architektur und iSAQB, Barrierefreiheit, plattformübergreifende Entwicklung, Agent Parity, Intake-Lebenszyklen, Modell-Routing sowie begrenzte autonome und parallele Abläufe.
+
+Über **home-baseline** werden diese Bausteine in meiner Level-0/1/2-Workspace-Struktur verwaltet und abhängig vom jeweiligen Projektprofil eingesetzt.
+
+*I am enthusiastic about **GitHub Spec Kit** as a toolkit for Spec-Driven Development. It connects specification, planning, tasks, and implementation in a traceable development workflow. Building on it, I currently develop and maintain **twelve governance presets of my own**. They provide reusable guardrails for security, architecture and iSAQB, accessibility, cross-platform development, agent parity, intake lifecycles, model routing, and bounded autonomous and parallel workflows. Through **home-baseline**, these building blocks are managed within my level-0/1/2 workspace structure and applied according to each project profile.*
+
+👉 Toolkit: [GitHub Spec Kit](https://github.com/github/spec-kit)  
+👉 Preset-Übersicht / Preset overview: [Meine Spec-Kit-Preset-Repositories](https://github.com/hindermath?tab=repositories&q=spec-kit-preset)  
+![GitHub Spec Kit](https://img.shields.io/badge/GitHub%20Spec--Kit-181717?logo=github&logoColor=white) ![Presets](https://img.shields.io/badge/Presets-12-blueviolet) ![Governance](https://img.shields.io/badge/Focus-Governance-informational)
+
+### ❤️ Agent Operations Cockpit – agentische Abläufe nachvollziehbar machen
+
+Mit dem entstehenden **Agent Operations Cockpit (AOC)** bereite ich ein öffentliches **C#/.NET-Level-2-Projekt** für die nachvollziehbare Beobachtung und spätere Steuerung agentischer Entwicklungsumgebungen vor.
+
+Der aktuelle Stand umfasst bewusst die Wissens-, Governance- und Lastenheftgrundlage; Produktcode bleibt bis zu den vorgesehenen Review- und Freigabegates zurückgestellt.
+
+Das Projekt verbindet für mich Barrierefreiheit, nachweisgestützte Governance, menschliche Stop-Gates und sichere agentische Entwicklung.
+
+*With the emerging **Agent Operations Cockpit (AOC)**, I am preparing a public **C#/.NET level-2 project** for the traceable observation and later control of agentic development environments. The current state intentionally consists of the knowledge, governance, and requirements baseline; product code remains deferred until the defined review and approval gates are satisfied. For me, the project brings together accessibility, evidence-driven governance, human stop gates, and safe agentic development.*
+
+👉 Repository: [agent-operations-cockpit](https://github.com/hindermath/agent-operations-cockpit)  
+![Target C#/.NET](https://img.shields.io/badge/Target-C%23%2F.NET-512BD4) ![Requirements & Governance](https://img.shields.io/badge/Phase-Requirements%20%26%20Governance-orange) ![Accessibility](https://img.shields.io/badge/Topic-A11Y-brightgreen)
+
 ### ❤️ TinyPL/0 – Compilerbau trifft auf Retro- und Lehrtradition
 
 Mein wichtigstes Herzensprojekt ist **TinyPL/0**.  
@@ -153,18 +193,6 @@ Das Projekt verbindet für mich Domänenmodellierung, Hintergrundverarbeitung un
 
 👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Worker Service](https://img.shields.io/badge/Type-Worker_Service-lightgrey) ![Domain](https://img.shields.io/badge/Topic-Inventory-blueviolet)
-
-### ❤️ home-baseline – meine agentische Workspace-Grundlage
-
-**home-baseline** ist meine persönliche Grundlage für eine konsistente agentische Arbeitsumgebung über mehrere Repositories hinweg.  
-Es bündelt Skripte, Richtlinien, Verfassungsregeln und KI-Agenten-Dateien für Level-0-, Level-1- und Level-2-Strukturen.
-
-Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Governance, Dokumentation und Barrierefreiheit.
-
-*home-baseline is my personal foundation for a consistent agentic workspace across multiple repositories. It bundles scripts, governance rules, constitutions, and AI-agent guidance files for Level-0, Level-1, and Level-2 structures. For me, it combines development infrastructure, automation, governance, documentation, and accessibility.*
-
-👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
-![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
 
 ## 🎯 Interessen & Hobbys / Interests & Hobbies
 

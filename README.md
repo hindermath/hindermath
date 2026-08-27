@@ -8,9 +8,9 @@
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Kleine verständliche Schritte sind hohe Ingenieurskunst.
+> Wer Dokumente pflegt, pflegt Entscheidungen.
 >
-> Small understandable steps are high engineering craft.
+> Maintaining documents means maintaining decisions.
 <!-- MOTD:END -->
 
 Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler mit über 40-jähriger Berufserfahrung aus Deutschland und arbeite seit mehr als 20 Jahren bei der [GWDG](https://gwdg.de). Ich bewege mich gern zwischen dem Einsatz agentischer KI plus spezifikations-gesteuerter Entwicklung, klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.

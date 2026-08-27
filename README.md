@@ -1,7 +1,7 @@
 <h1 align="center">Hallo, ich bin Thorsten Hindermann 👋</h1>
-<h3 align="center">Softwareentwickler • Retro-Computing-Enthusiast • Musik-Tools-Experimentator</h3>
+<h3 align="center">Softwareentwickler • Retro-Computing-Enthusiast • Musik-Tools-Experimentator • Fotografie-Enthusiast</h3>
 <h1 align="center"><strong>Programmierung #include&lt;everyone&gt;</strong></h1>
-<p align="center"><em>Hi, I'm Thorsten Hindermann — Software Developer • Retro Computing Enthusiast • Music Tools Experimenter</em></p>
+<p align="center"><em>Hi, I'm Thorsten Hindermann — Software Developer • Retro Computing Enthusiast • Music Tools Experimenter • Photography Enthusiast</em></p>
 
 ---
 
@@ -38,6 +38,8 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
   *Enthusiastic about retro computing, especially the C64, compiler construction, and modern reinterpretations of classic software ideas*
 - 🎵 Experimentieren mit Musik-Tools, Klangbibliotheken und MIDI unter dem Namen **TMyTTMAAP (TMy Table Top Music And Art Production)** und dem Motto **HTMAN (How To Make A Noise)**  
   *Experimenting with music tools, sound libraries, and MIDI under the name **TMyTTMAAP (TMy Table Top Music And Art Production)** and the motto **HTMAN (How To Make A Noise)***
+- 📷 Begeisterung für Fotografie seit 1995 – überwiegend Tierfotografie, ergänzt durch Naturfotografie, ausschließlich mit Canon  
+  *Enthusiastic about photography exclusively with Canon since 1995—primarily wildlife photography, complemented by nature photography*
 - 🤝 Offen für Austausch, Lernen und gute technische Gespräche  
   *Open to exchange, learning, and good technical conversations*
 
@@ -90,6 +92,12 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 ![Logic Pro](https://img.shields.io/badge/Logic%20Pro-000000?style=for-the-badge)
 ![Native Instruments](https://img.shields.io/badge/Native%20Instruments-000000?style=for-the-badge)
 ![MIDI](https://img.shields.io/badge/MIDI-000000?style=for-the-badge)
+
+### 📷 Canon-Kameras & Objektive / Canon Cameras & Lenses
+
+![Canon SLR](https://img.shields.io/badge/Canon-SLR-CC0000?style=for-the-badge)
+![Canon Mirrorless](https://img.shields.io/badge/Canon-Mirrorless-CC0000?style=for-the-badge)
+![Canon Lenses](https://img.shields.io/badge/Canon-Specialized%20Lenses-333333?style=for-the-badge)
 
 ## 🚀 Aktuelle Schwerpunkte / Current Focus
 
@@ -202,12 +210,12 @@ Das Projekt verbindet für mich Domänenmodellierung, Hintergrundverarbeitung un
   *Programmable calculators from HP and TI*
 - US-Navy-Geschichte, besonders Flugzeugträger ab 1950  
   *US Navy history, especially aircraft carriers from 1950 onward*
-- Fotografie mit Canon  
-  *Photography with Canon*
 - MSFS2020 auf der Xbox Series S  
   *MSFS2020 on Xbox Series S*
 - Experimentieren mit Ableton Live, FL Studio, Logic Pro, Native Instruments und Klangbibliotheken  
   *Experimenting with Ableton Live, FL Studio, Logic Pro, Native Instruments, and sound libraries*
+- Tier- und Naturfotografie seit 1995 ausschließlich mit Canon: Spiegelreflexkameras seit Beginn, spiegellose Kameras seit etwa 2020 und spezialisierte Canon-Objektive für beide Schwerpunkte  
+  *Wildlife and nature photography exclusively with Canon since 1995: SLR cameras from the beginning, mirrorless cameras since around 2020, and specialized Canon lenses for both areas*
 
 ## 📫 Kontakt / Contact
 - ![GitHub](https://img.shields.io/badge/GitHub-@hindermath-181717?style=for-the-badge&logo=github&logoColor=white)

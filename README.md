@@ -8,9 +8,9 @@
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Lesbarer Code ist Teamarbeit in Textform.
+> Die beste Migration ist gut vorbereitet.
 >
-> Readable code is teamwork in text form.
+> The best migration is well prepared.
 <!-- MOTD:END -->
 
 Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler mit über 40-jähriger Berufserfahrung aus Deutschland und arbeite seit mehr als 20 Jahren bei der [GWDG](https://gwdg.de). Ich bewege mich gern zwischen dem Einsatz agentischer KI plus spezifikations-gesteuerter Entwicklung, klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.

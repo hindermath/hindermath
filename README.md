@@ -202,6 +202,19 @@ Das Projekt verbindet für mich Domänenmodellierung, Hintergrundverarbeitung un
 👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
 ![C#](https://img.shields.io/badge/Code-C%23-blue) ![Worker Service](https://img.shields.io/badge/Type-Worker_Service-lightgrey) ![Domain](https://img.shields.io/badge/Topic-Inventory-blueviolet)
 
+### ❤️ absdd-image-sandbox – Podman-Sandbox für Agentic-Based Spec-Driven Development
+
+Mit **absdd-image-sandbox** entwickle ich eine Podman-basierte Container- und Lernumgebung für **Agentic-Based Spec-Driven Development (ABS-DD)**.
+
+Sie bündelt OpenCode, Codex, Claude Code, Antigravity CLI, GitHub Copilot CLI, GitHub Spec Kit sowie sechs speichersichere Sprachpfade für .NET/C#, Java, Go, Rust, Python und Swift. Das Repository ist bewusst eine kontrollierte Sandbox- und Lernumgebung – keine eigentliche Anwendung.
+
+Das Projekt verbindet für mich agentische Softwareentwicklung, reproduzierbare Toolchains, Sicherheits- und Auditnachweise, Barrierefreiheit und praxisnahe Lernwege für Auszubildende.
+
+*With **absdd-image-sandbox**, I am developing a Podman-based container and learning environment for **Agentic-Based Spec-Driven Development (ABS-DD)**. It brings together OpenCode, Codex, Claude Code, Antigravity CLI, GitHub Copilot CLI, GitHub Spec Kit, and six memory-safe language paths for .NET/C#, Java, Go, Rust, Python, and Swift. The repository is deliberately a controlled sandbox and learning environment rather than an application. For me, it combines agentic software development, reproducible toolchains, security and audit evidence, accessibility, and practical learning paths for apprentices.*
+
+👉 Repository: [absdd-image-sandbox](https://github.com/hindermath/absdd-image-sandbox)<br>
+![Podman](https://img.shields.io/badge/Runtime-Podman-892CA0?logo=podman&logoColor=white) ![Agentic SDD](https://img.shields.io/badge/Focus-Agentic%20SDD-informational) ![Learning Sandbox](https://img.shields.io/badge/Type-Learning%20Sandbox-brightgreen)
+
 ## 🎯 Interessen & Hobbys / Interests & Hobbies
 
 - Retro-Computing mit C64, C64 Ultimate und klassischen Softwarekonzepten  

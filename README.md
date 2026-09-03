@@ -8,9 +8,9 @@
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Ein gutes Setup macht den nächsten Rechner langweilig.
+> Architektur ist die Kunst des Weglassens.
 >
-> A good setup makes the next machine boring.
+> Architecture is the art of leaving things out.
 <!-- MOTD:END -->
 
 Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler mit über 40-jähriger Berufserfahrung aus Deutschland und arbeite seit mehr als 20 Jahren bei der [GWDG](https://gwdg.de). Ich bewege mich gern zwischen dem Einsatz agentischer KI plus spezifikations-gesteuerter Entwicklung, klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.

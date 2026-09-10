@@ -40,3 +40,6 @@ try {
     }
     Write-Host 'PASS: profile import, no-write checks, checksum, markers, idempotency and MOTD preservation.'
 } finally { Remove-Item -LiteralPath $scratch -Recurse -Force }
+# GitHub's PowerShell wrapper propagates the last native exit code. Expected
+# negative test calls must not turn a successfully completed test suite red.
+exit 0

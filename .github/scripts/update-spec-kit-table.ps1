@@ -59,7 +59,9 @@ try {
     $finish = $text.IndexOf($end, [StringComparison]::Ordinal)
     if ($finish -le $start) { throw 'Reversed table markers.' }
     $updated = $text.Substring(0, $start) + $begin + "`n" + $table.TrimEnd("`r", "`n") + "`n" + $text.Substring($finish)
-    if ($env:GITHUB_OUTPUT) { Add-Content -LiteralPath $env:GITHUB_OUTPUT -Value "source_commit=$commit" -Encoding utf8 }
+    if ($env:GITHUB_OUTPUT -and -not $CheckOnly -and -not $WhatIfPreference) {
+        Add-Content -LiteralPath $env:GITHUB_OUTPUT -Value "source_commit=$commit" -Encoding utf8
+    }
     if ($updated -ceq $text) { Write-Host "CURRENT: $commit"; exit 0 }
     if ($CheckOnly) { Write-Host 'DRIFT: profile table.'; exit 1 }
     if ($PSCmdlet.ShouldProcess($Readme, 'Import verified public table')) { [IO.File]::WriteAllText($Readme, $updated, [Text.UTF8Encoding]::new($false)) }

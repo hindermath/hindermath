@@ -141,6 +141,24 @@ Auf dieser Grundlage entwickle und pflege ich derzeit **zwölf eigene Governance
 👉 Preset-Übersicht / Preset overview: [Meine Spec-Kit-Preset-Repositories](https://github.com/hindermath?tab=repositories&q=spec-kit-preset)  
 ![GitHub Spec Kit](https://img.shields.io/badge/GitHub%20Spec--Kit-181717?logo=github&logoColor=white) ![Presets](https://img.shields.io/badge/Presets-12-blueviolet) ![Governance](https://img.shields.io/badge/Focus-Governance-informational)
 
+<!-- public-speckit-runs:begin -->
+Datenstand: 2026-09-10T11:42:35Z · [Methodik und Einzelbelege](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md)
+
+| Level | Öffentliches GitHub-Repository | Gestartet | Ausgeführt | Abschluss belegt |
+|---|---|---:|---:|---:|
+| 0 | [home-baseline](https://github.com/hindermath/home-baseline) | 28 | 28 | 27 |
+| 2 | [cc65](https://github.com/hindermath/cc65) | 0 | 0 | 0 |
+| 2 | [tvision](https://github.com/hindermath/tvision) | 0 | 0 | 0 |
+| 2 | [agent-operations-cockpit](https://github.com/hindermath/agent-operations-cockpit) | 3 | 3 | 3 |
+| 2 | [InventarWorkerService](https://github.com/hindermath/InventarWorkerService) | 2 | 2 | 2 |
+| 2 | [TinyCalc](https://github.com/hindermath/TinyCalc) | 5 | 5 | 5 |
+| 2 | [TinyPl0](https://github.com/hindermath/TinyPl0) | 6 | 6 | 6 |
+| 2 | [TuiVision](https://github.com/hindermath/TuiVision) | 46 | 46 | 46 |
+| 2 | [absdd-image-sandbox](https://github.com/hindermath/absdd-image-sandbox) | 3 | 3 | 3 |
+| | **Level 2 gesamt** | **65** | **65** | **65** |
+| | **Level 0 + Level 2 insgesamt** | **93** | **93** | **92** |
+<!-- public-speckit-runs:end -->
+
 ### ❤️ Agent Operations Cockpit – agentische Abläufe nachvollziehbar machen
 
 Mit dem entstehenden **Agent Operations Cockpit (AOC)** bereite ich ein öffentliches **C#/.NET-Level-2-Projekt** für die nachvollziehbare Beobachtung und spätere Steuerung agentischer Entwicklungsumgebungen vor.

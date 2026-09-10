@@ -1,0 +1,64 @@
+name: Update public Spec Kit table
+
+on:
+  schedule:
+    - cron: '17 9 2 * *'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/scripts/**'
+      - '.github/workflows/update-spec-kit-table.yml'
+      - 'README.md'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-spec-kit-table-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        with:
+          persist-credentials: false
+      - name: Offline import and preservation tests
+        shell: pwsh
+        run: ./.github/scripts/test-spec-kit-table.ps1
+
+  update:
+    needs: test
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && github.repository == 'hindermath/hindermath'
+    runs-on: ubuntu-22.04
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - name: Read latest merged public source
+        id: source
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./.github/scripts/update-spec-kit-table.ps1
+      - name: Prepare monthly profile PR
+        uses: peter-evans/create-pull-request@22a9089034f40e5a961c8808d113e2c98fb63676 # v7
+        with:
+          token: ${{ github.token }}
+          branch: codex/monthly-public-speckit-statistics
+          delete-branch: true
+          commit-message: 'docs: refresh public Spec Kit table'
+          title: 'docs: refresh public Spec Kit run statistics'
+          body: |
+            Übernahme des gemergten Level-0-Tabellenstands / Import of the merged Level-0 table.
+
+            Source: https://github.com/hindermath/home-baseline/commit/${{ steps.source.outputs.source_commit }}
+
+            Gleiche deutsche Tabelle und SHA-256-Prüfung. MOTD und übriges Profil bleiben erhalten.
+            Identical German table, checksum verified; MOTD and surrounding profile preserved.
+            Kein Auto-Merge / No automatic merge. Release any held CI runs before review.
+          add-paths: README.md

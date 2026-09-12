@@ -47,8 +47,10 @@ try {
         $manifest = Get-SourceFile publication.json $commit | ConvertFrom-Json
     }
     $hash = [Convert]::ToHexString([Security.Cryptography.SHA256]::HashData([Text.Encoding]::UTF8.GetBytes($table))).ToLowerInvariant()
-    if ($manifest.schemaVersion -ne 1 -or $manifest.tableSha256 -cne $hash) { throw 'Publication checksum mismatch.' }
-    if (-not $table.Contains('| Level | Öffentliches GitHub-Repository | Gestartet | Ausgeführt | Abschluss belegt |') -or
+    if ($manifest.schemaVersion -notin @(1, 2) -or $manifest.tableSha256 -cne $hash) { throw 'Publication checksum mismatch.' }
+    $header = if ($manifest.schemaVersion -eq 1) { '| Level | Öffentliches GitHub-Repository | Gestartet | Ausgeführt | Abschluss belegt |' }
+        else { '| Level | Öffentliches GitHub-Repository / Gruppe | Gestartet | Ausgeführt | Abschluss belegt | Manuell | Autonom seriell | Autonom parallel | Gemischt | Nicht eindeutig belegt |' }
+    if (-not $table.Contains($header) -or
         $table.Contains('<!--') -or $table -match '<script|<iframe') { throw 'Invalid table contract.' }
     # Read the profile only after the source fetch to preserve independent MOTD edits.
     $text = [IO.File]::ReadAllText($Readme)

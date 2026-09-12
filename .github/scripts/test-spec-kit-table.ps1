@@ -38,7 +38,14 @@ try {
         & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme 2>$null
         if ($LASTEXITCODE -ne 2 -or [IO.File]::ReadAllText($readme) -cne $bad) { throw 'Bad marker validation failed.' }
     }
-    Write-Host 'PASS: profile import, no-write checks, checksum, markers, idempotency and MOTD preservation.'
+    $v2 = $table.Replace('| Level | Öffentliches GitHub-Repository | Gestartet | Ausgeführt | Abschluss belegt |', '| Level | Öffentliches GitHub-Repository / Gruppe | Gestartet | Ausgeführt | Abschluss belegt | Manuell | Autonom seriell | Autonom parallel | Gemischt | Nicht eindeutig belegt |')
+    [IO.File]::WriteAllText((Join-Path $scratch 'table.md'), $v2)
+    $hash = [Convert]::ToHexString([Security.Cryptography.SHA256]::HashData([Text.Encoding]::UTF8.GetBytes($v2))).ToLowerInvariant()
+    [IO.File]::WriteAllText((Join-Path $scratch 'publication.json'), (@{schemaVersion=2;tableSha256=$hash} | ConvertTo-Json))
+    [IO.File]::WriteAllText($readme, $original)
+    & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme
+    if ($LASTEXITCODE -ne 0 -or -not ([IO.File]::ReadAllText($readme)).Contains($v2.TrimEnd())) { throw 'V2 export was not imported byte-for-byte.' }
+    Write-Host 'PASS: v1/v2 profile import, no-write checks, checksum, markers, idempotency and MOTD preservation.'
 } finally { Remove-Item -LiteralPath $scratch -Recurse -Force }
 # GitHub's PowerShell wrapper propagates the last native exit code. Expected
 # negative test calls must not turn a successfully completed test suite red.

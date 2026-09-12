@@ -127,19 +127,19 @@ Das Projekt verbindet für mich Entwicklungsinfrastruktur, Automatisierung, Gove
 👉 Repository: [home-baseline](https://github.com/hindermath/home-baseline)  
 ![Bash](https://img.shields.io/badge/Code-Bash-green) ![PowerShell](https://img.shields.io/badge/Code-PowerShell-blue) ![Workspace](https://img.shields.io/badge/Topic-Workspace-lightgrey)
 
-### ❤️ GitHub Spec Kit & meine zwölf Presets – Governance für Spec-Driven Development
+### ❤️ GitHub Spec Kit & meine Presets – Governance für Spec-Driven Development
 
 **GitHub Spec Kit** begeistert mich als Werkzeug für Spec-Driven Development. Es verbindet Spezifikation, Planung, Aufgaben und Umsetzung zu einem nachvollziehbaren Entwicklungsfluss.
 
-Auf dieser Grundlage entwickle und pflege ich derzeit **zwölf eigene Governance-Presets**. Sie bündeln wiederverwendbare Leitplanken für Sicherheit, Architektur und iSAQB, Barrierefreiheit, plattformübergreifende Entwicklung, Agent Parity, Intake-Lebenszyklen, Modell-Routing sowie begrenzte autonome und parallele Abläufe.
+Auf dieser Grundlage entwickle und pflege ich **eigene Governance-Presets**. Sie bündeln wiederverwendbare Leitplanken für Sicherheit, Architektur und iSAQB, Barrierefreiheit, plattformübergreifende Entwicklung, Agent Parity, Intake-Lebenszyklen, Modell-Routing sowie begrenzte autonome und parallele Abläufe.
 
 Über **home-baseline** werden diese Bausteine in meiner Level-0/1/2-Workspace-Struktur verwaltet und abhängig vom jeweiligen Projektprofil eingesetzt.
 
-*I am enthusiastic about **GitHub Spec Kit** as a toolkit for Spec-Driven Development. It connects specification, planning, tasks, and implementation in a traceable development workflow. Building on it, I currently develop and maintain **twelve governance presets of my own**. They provide reusable guardrails for security, architecture and iSAQB, accessibility, cross-platform development, agent parity, intake lifecycles, model routing, and bounded autonomous and parallel workflows. Through **home-baseline**, these building blocks are managed within my level-0/1/2 workspace structure and applied according to each project profile.*
+*I am enthusiastic about **GitHub Spec Kit** as a toolkit for Spec-Driven Development. It connects specification, planning, tasks, and implementation in a traceable development workflow. Building on it, I develop and maintain **governance presets of my own**. They provide reusable guardrails for security, architecture and iSAQB, accessibility, cross-platform development, agent parity, intake lifecycles, model routing, and bounded autonomous and parallel workflows. Through **home-baseline**, these building blocks are managed within my level-0/1/2 workspace structure and applied according to each project profile.*
 
 👉 Toolkit: [GitHub Spec Kit](https://github.com/github/spec-kit)  
 👉 Preset-Übersicht / Preset overview: [Meine Spec-Kit-Preset-Repositories](https://github.com/hindermath?tab=repositories&q=spec-kit-preset)  
-![GitHub Spec Kit](https://img.shields.io/badge/GitHub%20Spec--Kit-181717?logo=github&logoColor=white) ![Presets](https://img.shields.io/badge/Presets-12-blueviolet) ![Governance](https://img.shields.io/badge/Focus-Governance-informational)
+![GitHub Spec Kit](https://img.shields.io/badge/GitHub%20Spec--Kit-181717?logo=github&logoColor=white) ![Presets](https://img.shields.io/badge/Presets-blueviolet) ![Governance](https://img.shields.io/badge/Focus-Governance-informational)
 
 <!-- public-speckit-runs:begin -->
 Datenstand öffentlich: 2026-09-12T17:13:51Z; privat: 2026-09-12T16:57:29Z · [Methodik und Beleggrenzen](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md)

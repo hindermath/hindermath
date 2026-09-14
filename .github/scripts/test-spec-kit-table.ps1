@@ -45,7 +45,15 @@ try {
     [IO.File]::WriteAllText($readme, $original)
     & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme
     if ($LASTEXITCODE -ne 0 -or -not ([IO.File]::ReadAllText($readme)).Contains($v2.TrimEnd())) { throw 'V2 export was not imported byte-for-byte.' }
-    Write-Host 'PASS: v1/v2 profile import, no-write checks, checksum, markers, idempotency and MOTD preservation.'
+    $v3 = $v2.Replace('Nicht eindeutig belegt |', 'Nicht eindeutig belegt | Beschleunigungsfaktor (Repo-Schätzung) |')
+    [IO.File]::WriteAllText((Join-Path $scratch 'table.md'), $v3)
+    $hash = [Convert]::ToHexString([Security.Cryptography.SHA256]::HashData([Text.Encoding]::UTF8.GetBytes($v3))).ToLowerInvariant()
+    [IO.File]::WriteAllText((Join-Path $scratch 'publication.json'), (@{schemaVersion=3;tableSha256=$hash} | ConvertTo-Json))
+    & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme
+    if ($LASTEXITCODE -ne 0 -or -not ([IO.File]::ReadAllText($readme)).Contains($v3.TrimEnd())) { throw 'V3 export was not imported byte-for-byte.' }
+    & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme -CheckOnly
+    if ($LASTEXITCODE -ne 0) { throw 'V3 import not idempotent.' }
+    Write-Host 'PASS: v1/v2/v3 profile import, no-write checks, checksum, markers, idempotency and MOTD preservation.'
 } finally { Remove-Item -LiteralPath $scratch -Recurse -Force }
 # GitHub's PowerShell wrapper propagates the last native exit code. Expected
 # negative test calls must not turn a successfully completed test suite red.

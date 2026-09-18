@@ -19,10 +19,18 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 
 ## Inhaltsverzeichnis / Table of Contents
 
-- [Über mich / About Me](#-über-mich--about-me)
+- [Über mich / About Me](#-%C3%BCber-mich--about-me)
 - [Technologien & Werkzeuge / Tech Stack & Tools](#-technologien--werkzeuge--tech-stack--tools)
 - [Aktuelle Schwerpunkte / Current Focus](#-aktuelle-schwerpunkte--current-focus)
-- [Meine Herzensprojekte / My Passion Projects](#-meine-herzensprojekte--my-passion-projects)
+- [Meine Herzensprojekte / My Passion Projects](#%EF%B8%8F-meine-herzensprojekte--my-passion-projects)
+  - [home-baseline](#%EF%B8%8F-home-baseline--meine-agentische-workspace-grundlage)
+  - [GitHub Spec Kit & meine Presets](#%EF%B8%8F-github-spec-kit--meine-presets--governance-f%C3%BCr-spec-driven-development)
+  - [Agent Operations Cockpit](#%EF%B8%8F-agent-operations-cockpit--agentische-abl%C3%A4ufe-nachvollziehbar-machen)
+  - [TinyPL/0](#%EF%B8%8F-tinypl0--compilerbau-trifft-auf-retro--und-lehrtradition)
+  - [TinyCalc](#%EF%B8%8F-tinycalc--moderne-reimplementierung-von-borlands-microcalc)
+  - [TuiVision](#%EF%B8%8F-tuivision--terminal-ui-f%C3%BCr-sehpr%C3%BCfungen)
+  - [InventarWorkerService](#%EF%B8%8F-inventarworkerservice--inventarverwaltung-mit-worker-architektur)
+  - [absdd-image-sandbox](#%EF%B8%8F-absdd-image-sandbox--podman-sandbox-f%C3%BCr-agentic-based-spec-driven-development)
 - [Interessen & Hobbys / Interests & Hobbies](#-interessen--hobbys--interests--hobbies)
 - [Kontakt / Contact](#-kontakt--contact)
 

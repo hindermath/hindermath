@@ -31,6 +31,7 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
   - [TuiVision](#%EF%B8%8F-tuivision--terminal-ui-f%C3%BCr-sehpr%C3%BCfungen)
   - [InventarWorkerService](#%EF%B8%8F-inventarworkerservice--inventarverwaltung-mit-worker-architektur)
   - [absdd-image-sandbox](#%EF%B8%8F-absdd-image-sandbox--podman-sandbox-f%C3%BCr-agentic-based-spec-driven-development)
+  - [Show-CommandTui400](#%EF%B8%8F-show-commandtui400--os400-inspirierte-befehlsdialoge-f%C3%BCr-powershell)
 - [Interessen & Hobbys / Interests & Hobbies](#-interessen--hobbys--interests--hobbies)
 - [Kontakt / Contact](#-kontakt--contact)
 
@@ -150,7 +151,7 @@ Auf dieser Grundlage entwickle und pflege ich **eigene Governance-Presets**. Sie
 ![GitHub Spec Kit](https://img.shields.io/badge/GitHub%20Spec--Kit-181717?logo=github&logoColor=white) ![Presets](https://img.shields.io/badge/Presets-blueviolet) ![Governance](https://img.shields.io/badge/Focus-Governance-informational)
 
 <!-- public-speckit-runs:begin -->
-Datenstand öffentlich: 2026-09-12T17:13:51Z; privat: 2026-09-12T16:57:29Z · [Methodik und Beleggrenzen](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md)
+Datenstand öffentlich: 2026-09-28T21:43:49Z; privat: 2026-09-12T16:57:29Z · [Methodik und Beleggrenzen](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md)
 
 | Level | Öffentliches GitHub-Repository / Gruppe | Gestartet | Ausgeführt | Abschluss belegt | Manuell | Autonom seriell | Autonom parallel | Gemischt | Nicht eindeutig belegt |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -163,6 +164,7 @@ Datenstand öffentlich: 2026-09-12T17:13:51Z; privat: 2026-09-12T16:57:29Z · [M
 | 2 | [TinyPl0](https://github.com/hindermath/TinyPl0) | 6 | 6 | 6 | 0 | 4 | 0 | 0 | 2 |
 | 2 | [TuiVision](https://github.com/hindermath/TuiVision) | 46 | 46 | 46 | 0 | 19 | 0 | 0 | 27 |
 | 2 | [absdd-image-sandbox](https://github.com/hindermath/absdd-image-sandbox) | 3 | 3 | 3 | 0 | 2 | 0 | 0 | 1 |
+| 2 | [Show-CommandTui400](https://github.com/hindermath/Show-CommandTui400) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | | **Öffentliche Level-2-Repositories gesamt** | **65** | **65** | **65** | **0** | **30** | **0** | **0** | **35** |
 | | **Öffentliche Level-0-/2-Repositories gesamt** | **94** | **94** | **93** | **0** | **52** | **0** | **0** | **42** |
 | | **Private GitHub-Repositories gesamt** | **24** | **24** | **0** | **0** | **0** | **24** | **0** | **0** |
@@ -244,6 +246,18 @@ Das Projekt verbindet für mich agentische Softwareentwicklung, reproduzierbare 
 
 👉 Repository: [absdd-image-sandbox](https://github.com/hindermath/absdd-image-sandbox)<br>
 ![Podman](https://img.shields.io/badge/Runtime-Podman-892CA0?logo=podman&logoColor=white) ![Agentic SDD](https://img.shields.io/badge/Focus-Agentic%20SDD-informational) ![Learning Sandbox](https://img.shields.io/badge/Type-Learning%20Sandbox-brightgreen)
+
+### ❤️ Show-CommandTui400 – OS/400-inspirierte Befehlsdialoge für PowerShell
+
+Mit **Show-CommandTui400** möchte ich klassische OS/400-Bedienideen in die PowerShell-Welt übertragen: Befehle im Terminal finden, Parameter geführt ausfüllen und den vorbereiteten Aufruf zur Bearbeitung übernehmen oder ausdrücklich in der aktuellen Sitzung ausführen.
+
+Geplant ist eine vollständig tastaturbedienbare, barrierefrei gedachte Terminal-Oberfläche für PowerShell 7 auf macOS, Linux und Windows. Das Projekt befindet sich derzeit in der Konzept- und Anforderungsphase; ein installierbares Cmdlet gibt es noch nicht.
+
+*With **Show-CommandTui400**, I want to bring classic OS/400 interaction ideas to PowerShell: finding commands in the terminal, filling in parameters through guided prompts, and transferring the prepared command for editing or explicitly executing it in the current session.*
+
+*The planned interface is entirely keyboard-driven and designed with accessibility in mind, targeting PowerShell 7 on macOS, Linux, and Windows. The project is currently in the concept and requirements phase; an installable cmdlet is not yet available.*
+
+👉 Repository: [Show-CommandTui400](https://github.com/hindermath/Show-CommandTui400)
 
 ## 🎯 Interessen & Hobbys / Interests & Hobbies
 

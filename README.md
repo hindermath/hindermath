@@ -151,26 +151,29 @@ Auf dieser Grundlage entwickle und pflege ich **eigene Governance-Presets**. Sie
 ![GitHub Spec Kit](https://img.shields.io/badge/GitHub%20Spec--Kit-181717?logo=github&logoColor=white) ![Presets](https://img.shields.io/badge/Presets-blueviolet) ![Governance](https://img.shields.io/badge/Focus-Governance-informational)
 
 <!-- public-speckit-runs:begin -->
-Datenstand öffentlich: 2026-09-28T21:43:49Z; privat: 2026-09-12T16:57:29Z · [Methodik und Beleggrenzen](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md)
+Datenstand öffentlich: 2026-10-04T16:48:39Z; privat: 2026-10-04T16:37:47Z · [Methodik und Beleggrenzen](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md)
 
-| Level | Öffentliches GitHub-Repository / Gruppe | Gestartet | Ausgeführt | Abschluss belegt | Manuell | Autonom seriell | Autonom parallel | Gemischt | Nicht eindeutig belegt |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| 0 | [home-baseline](https://github.com/hindermath/home-baseline) | 29 | 29 | 28 | 0 | 22 | 0 | 0 | 7 |
-| 2 | [cc65](https://github.com/hindermath/cc65) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | [tvision](https://github.com/hindermath/tvision) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2 | [agent-operations-cockpit](https://github.com/hindermath/agent-operations-cockpit) | 3 | 3 | 3 | 0 | 3 | 0 | 0 | 0 |
-| 2 | [InventarWorkerService](https://github.com/hindermath/InventarWorkerService) | 2 | 2 | 2 | 0 | 1 | 0 | 0 | 1 |
-| 2 | [TinyCalc](https://github.com/hindermath/TinyCalc) | 5 | 5 | 5 | 0 | 1 | 0 | 0 | 4 |
-| 2 | [TinyPl0](https://github.com/hindermath/TinyPl0) | 6 | 6 | 6 | 0 | 4 | 0 | 0 | 2 |
-| 2 | [TuiVision](https://github.com/hindermath/TuiVision) | 46 | 46 | 46 | 0 | 19 | 0 | 0 | 27 |
-| 2 | [absdd-image-sandbox](https://github.com/hindermath/absdd-image-sandbox) | 3 | 3 | 3 | 0 | 2 | 0 | 0 | 1 |
-| 2 | [Show-CommandTui400](https://github.com/hindermath/Show-CommandTui400) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| | **Öffentliche Level-2-Repositories gesamt** | **65** | **65** | **65** | **0** | **30** | **0** | **0** | **35** |
-| | **Öffentliche Level-0-/2-Repositories gesamt** | **94** | **94** | **93** | **0** | **52** | **0** | **0** | **42** |
-| | **Private GitHub-Repositories gesamt** | **24** | **24** | **0** | **0** | **0** | **24** | **0** | **0** |
-| | **Alle erfassten Repositories gesamt** | **118** | **118** | **93** | **0** | **52** | **24** | **0** | **42** |
+| Level | Öffentliches GitHub-Repository / Gruppe | Gestartet | Ausgeführt | Abschluss belegt | Manuell | Autonom seriell | Autonom parallel | Gemischt | Nicht eindeutig belegt | Beschleunigungsfaktor (Repo-Schätzung) |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| 0 | [home-baseline](https://github.com/hindermath/home-baseline) | 29 | 29 | 28 | 0 | 22 | 0 | 0 | 7 | 73,1× |
+| 2 | [cc65](https://github.com/hindermath/cc65) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 72,7× |
+| 2 | [tvision](https://github.com/hindermath/tvision) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 90,2× |
+| 2 | [agent-operations-cockpit](https://github.com/hindermath/agent-operations-cockpit) | 3 | 3 | 3 | 0 | 3 | 0 | 0 | 0 | 225,2× |
+| 2 | [InventarWorkerService](https://github.com/hindermath/InventarWorkerService) | 2 | 2 | 2 | 0 | 1 | 0 | 0 | 1 | 18,9× |
+| 2 | [TinyCalc](https://github.com/hindermath/TinyCalc) | 5 | 5 | 5 | 0 | 1 | 0 | 0 | 4 | 31,8× |
+| 2 | [TinyPl0](https://github.com/hindermath/TinyPl0) | 6 | 6 | 6 | 0 | 4 | 0 | 0 | 2 | 37,1× |
+| 2 | [TuiVision](https://github.com/hindermath/TuiVision) | 46 | 46 | 46 | 0 | 19 | 0 | 0 | 27 | 94,0× |
+| 2 | [absdd-image-sandbox](https://github.com/hindermath/absdd-image-sandbox) | 3 | 3 | 3 | 0 | 2 | 0 | 0 | 1 | 39,1× |
+| 2 | [Show-CommandTui400](https://github.com/hindermath/Show-CommandTui400) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 203,4× |
+| | **Öffentliche Level-2-Repositories gesamt** | **65** | **65** | **65** | **0** | **30** | **0** | **0** | **35** | **58,2×** |
+| | **Öffentliche Level-0-/2-Repositories gesamt** | **94** | **94** | **93** | **0** | **52** | **0** | **0** | **42** | **60,4×** |
+| | **Private GitHub-Repositories gesamt** | **24** | **24** | **0** | **0** | **0** | **24** | **0** | **0** | **59,7× (35/112 Repos)** |
+| | **Alle erfassten Repositories gesamt** | **118** | **118** | **93** | **0** | **52** | **24** | **0** | **42** | **60,0× (45/122 Repos)** |
 
 Ausführungsarten teilen ausschließlich Ausgeführt auf. Private ungeprüfte Kandidaten: 0; nicht mitgezählt.
+
+Repo-Schätzung gegenüber 80 Textzeilen/Arbeitstag; × bedeutet Faktor. Gesamter Textbestand und Git-Aktivtage, einschließlich importierter Inhalte und Repos ohne Spec-Kit-Läufe; keine gemessene KI-Zeitersparnis. Summen sind nach Repo-Aktivtagen gewichtet; bei Lücken zeigt N/M die Abdeckung.
+Statistik-Quellstände öffentlich: 2026-09-26 bis 2026-10-04; privat: 2026-09-26 bis 2026-10-04. Vorhandene Werte behalten ihren Quellstand; [Berechnungsbelege und Lücken](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md).
 <!-- public-speckit-runs:end -->
 
 ### ❤️ Agent Operations Cockpit – agentische Abläufe nachvollziehbar machen

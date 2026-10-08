@@ -8,9 +8,9 @@
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wenn alle es verstehen, hält es länger.
+> Spezifikations-gesteuerte Entwicklung bringt Ruhe in Komplexität.
 >
-> If everyone can understand it, it lasts longer.
+> Specification-driven development brings calm to complexity.
 <!-- MOTD:END -->
 
 Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler mit über 40-jähriger Berufserfahrung aus Deutschland und arbeite seit mehr als 20 Jahren bei der [GWDG](https://gwdg.de). Ich bewege mich gern zwischen dem Einsatz agentischer KI plus spezifikations-gesteuerter Entwicklung, klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.

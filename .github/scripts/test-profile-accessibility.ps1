@@ -53,7 +53,8 @@ foreach ($kind in @('deep', 'limited')) {
         $svg -notmatch 'viewBox="0 0 24 28"') { throw 'Unsafe or unexpected shield SVG.' }
     $null = [xml]$svg
 }
-if ($readme -notmatch '<p lang="en"><strong>Security scan legend:' -or
+if ([regex]::Matches($readme, '<img src="assets/security-scan-').Count -ne 6 -or
+    $readme -notmatch '<p lang="en"><strong>Security scan legend:' -or
     $readme -notmatch 'keinen Härtungsgrad' -or $readme -notmatch 'not a hardening level') {
     throw 'Missing equivalent security legend or evidence boundary.'
 }

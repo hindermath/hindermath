@@ -126,9 +126,9 @@ dokumentierte Deep Scans; drei halb gefüllte Schilde Standard- oder begrenzte
 Scans. Die Füllung unterscheidet die Kategorien auch ohne Farberkennung.
 Dunkle Konturen und helle Außenkonturen erhalten die Form auf hellen und
 dunklen Hintergründen. Die Links erhalten aussagekräftige deutsche
-Alternativtexte einschließlich bekannter Umfangsgrenzen. Die Legendenbilder
-haben leere Alternativtexte, weil unmittelbar daneben gleichwertiger Text
-steht; die englische Legende trägt `lang="en"`. Bestehende Überschriften-IDs
+Alternativtexte einschließlich bekannter Umfangsgrenzen. Die Legende nutzt
+echten Text ohne zusätzliche Bildlinks; die englische Legende trägt
+`lang="en"`. Bestehende Überschriften-IDs
 bleiben erhalten. Schilde sind historische Prüfnachweise, keine aktuelle
 Sicherheits- oder Härtungszusage. Die früher bestätigte VoiceOver-Beobachtung
 ist keine erneute praktische Abnahme dieser neuen Bilder und Links.
@@ -138,8 +138,8 @@ local SVG shields. Three full shields indicate documented Deep scans; three
 half-filled shields indicate Standard or limited scans. Shape fill distinguishes
 categories without color perception. Dark outlines and light outer outlines
 preserve the silhouette on light and dark backgrounds. Descriptive German link
-alternatives include known scope limits; legend images are decorative beside
-equivalent text, and the English legend has its own language marker. Stable
+alternatives include known scope limits; the legend uses real text without
+extra image links, and the English legend has its own language marker. Stable
 heading IDs remain unchanged. Shields document historical checks, not current
 security or hardening guarantees. The earlier VoiceOver observation is not a
 new practical acceptance of these images and links.*

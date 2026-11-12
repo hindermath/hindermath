@@ -165,29 +165,219 @@ Auf dieser Grundlage entwickle und pflege ich **eigene Governance-Presets**. Sie
 GitHub Spec Kit · Presets · Governance
 
 <!-- public-speckit-runs:begin -->
+<div lang="de">
+
 Datenstand öffentlich: 2026-11-07T23:02:08Z; privat: 2026-11-01T08:22:54Z · [Methodik und Beleggrenzen](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md)
 
-| Level | Öffentliches GitHub-Repository / Gruppe | Gestartet | Ausgeführt | Abschluss belegt | Manuell | Autonom seriell | Autonom parallel | Gemischt | Nicht eindeutig belegt | Beschleunigungsfaktor (Repo-Schätzung) |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 0 | [home-baseline](https://github.com/hindermath/home-baseline) | 29 | 29 | 28 | 0 | 22 | 0 | 0 | 7 | 71,9× |
-| 2 | [cc65](https://github.com/hindermath/cc65) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 69,3× |
-| 2 | [tvision](https://github.com/hindermath/tvision) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 83,3× |
-| 2 | [agent-operations-cockpit](https://github.com/hindermath/agent-operations-cockpit) | 4 | 4 | 4 | 0 | 4 | 0 | 0 | 0 | 175,3× |
-| 2 | [InventarWorkerService](https://github.com/hindermath/InventarWorkerService) | 2 | 2 | 2 | 0 | 1 | 0 | 0 | 1 | 21,7× |
-| 2 | [TinyCalc](https://github.com/hindermath/TinyCalc) | 7 | 6 | 6 | 0 | 1 | 0 | 0 | 5 | 43,7× |
-| 2 | [TinyPl0](https://github.com/hindermath/TinyPl0) | 6 | 6 | 6 | 0 | 4 | 0 | 0 | 2 | 36,3× |
-| 2 | [TuiVision](https://github.com/hindermath/TuiVision) | 47 | 47 | 47 | 0 | 20 | 0 | 0 | 27 | 91,7× |
-| 2 | [absdd-image-sandbox](https://github.com/hindermath/absdd-image-sandbox) | 4 | 4 | 3 | 0 | 2 | 0 | 0 | 2 | 74,0× |
-| 2 | [Show-CommandTui400](https://github.com/hindermath/Show-CommandTui400) | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 181,4× |
-| | **Öffentliche Level-2-Repositories gesamt** | **72** | **71** | **68** | **0** | **32** | **0** | **0** | **39** | **66,0×** |
-| | **Öffentliche Level-0-/2-Repositories gesamt** | **101** | **100** | **96** | **0** | **54** | **0** | **0** | **46** | **66,9×** |
-| | **Private GitHub-Repositories gesamt** | **24** | **24** | **0** | **0** | **0** | **24** | **0** | **0** | **60,0× (34/112 Repos)** |
-| | **Alle erfassten Repositories gesamt** | **125** | **124** | **96** | **0** | **54** | **24** | **0** | **46** | **63,2× (44/122 Repos)** |
+<table aria-label="Spec-Kit-Läufe und Repository-Schätzungen" lang="de">
+<caption>Spec-Kit-Läufe und Repository-Schätzungen</caption>
+<thead>
+<tr>
+<th scope="col">Level</th>
+<th scope="col">&#214;ffentliches GitHub-Repository / Gruppe</th>
+<th scope="col">Gestartet</th>
+<th scope="col">Ausgef&#252;hrt</th>
+<th scope="col">Abschluss belegt</th>
+<th scope="col">Manuell</th>
+<th scope="col">Autonom seriell</th>
+<th scope="col">Autonom parallel</th>
+<th scope="col">Gemischt</th>
+<th scope="col">Nicht eindeutig belegt</th>
+<th scope="col">Beschleunigungsfaktor (Repo-Sch&#228;tzung)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<th scope="row"><a href="https://github.com/hindermath/home-baseline">home-baseline</a></th>
+<td align="right">29</td>
+<td align="right">29</td>
+<td align="right">28</td>
+<td align="right">0</td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">7</td>
+<td align="right">71,9&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/cc65">cc65</a></th>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">69,3&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/tvision">tvision</a></th>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">83,3&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/agent-operations-cockpit">agent-operations-cockpit</a></th>
+<td align="right">4</td>
+<td align="right">4</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">175,3&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/InventarWorkerService">InventarWorkerService</a></th>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">21,7&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/TinyCalc">TinyCalc</a></th>
+<td align="right">7</td>
+<td align="right">6</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">5</td>
+<td align="right">43,7&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/TinyPl0">TinyPl0</a></th>
+<td align="right">6</td>
+<td align="right">6</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">36,3&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/TuiVision">TuiVision</a></th>
+<td align="right">47</td>
+<td align="right">47</td>
+<td align="right">47</td>
+<td align="right">0</td>
+<td align="right">20</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">27</td>
+<td align="right">91,7&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/absdd-image-sandbox">absdd-image-sandbox</a></th>
+<td align="right">4</td>
+<td align="right">4</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">74,0&#215;</td>
+</tr>
+<tr>
+<td>2</td>
+<th scope="row"><a href="https://github.com/hindermath/Show-CommandTui400">Show-CommandTui400</a></th>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">181,4&#215;</td>
+</tr>
+<tr>
+<td></td>
+<th scope="row"><strong>&#214;ffentliche Level-2-Repositories gesamt</strong></th>
+<td align="right"><strong>72</strong></td>
+<td align="right"><strong>71</strong></td>
+<td align="right"><strong>68</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>32</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>39</strong></td>
+<td align="right"><strong>66,0&#215;</strong></td>
+</tr>
+<tr>
+<td></td>
+<th scope="row"><strong>&#214;ffentliche Level-0-/2-Repositories gesamt</strong></th>
+<td align="right"><strong>101</strong></td>
+<td align="right"><strong>100</strong></td>
+<td align="right"><strong>96</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>54</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>46</strong></td>
+<td align="right"><strong>66,9&#215;</strong></td>
+</tr>
+<tr>
+<td></td>
+<th scope="row"><strong>Private GitHub-Repositories gesamt</strong></th>
+<td align="right"><strong>24</strong></td>
+<td align="right"><strong>24</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>24</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>60,0&#215; (34/112 Repos)</strong></td>
+</tr>
+<tr>
+<td></td>
+<th scope="row"><strong>Alle erfassten Repositories gesamt</strong></th>
+<td align="right"><strong>125</strong></td>
+<td align="right"><strong>124</strong></td>
+<td align="right"><strong>96</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>54</strong></td>
+<td align="right"><strong>24</strong></td>
+<td align="right"><strong>0</strong></td>
+<td align="right"><strong>46</strong></td>
+<td align="right"><strong>63,2&#215; (44/122 Repos)</strong></td>
+</tr>
+</tbody>
+</table>
 
 Ausführungsarten teilen ausschließlich Ausgeführt auf. Private ungeprüfte Kandidaten: 0; nicht mitgezählt.
 
 Repo-Schätzung gegenüber 80 Textzeilen/Arbeitstag; × bedeutet Faktor. Gesamter Textbestand und Git-Aktivtage, einschließlich importierter Inhalte und Repos ohne Spec-Kit-Läufe; keine gemessene KI-Zeitersparnis. Summen sind nach Repo-Aktivtagen gewichtet; bei Lücken zeigt N/M die Abdeckung.
 Statistik-Quellstände öffentlich: 2026-11-03 bis 2026-11-07; privat: 2026-09-26 bis 2026-11-01. Vorhandene Werte behalten ihren Quellstand; [Berechnungsbelege und Lücken](https://github.com/hindermath/home-baseline/blob/main/docs/spec-kit-runs/README.md).
+
+</div>
 <!-- public-speckit-runs:end -->
 
 <h3 id="profile-project-aoc">❤️ Agent Operations Cockpit – agentische Abläufe nachvollziehbar machen</h3>

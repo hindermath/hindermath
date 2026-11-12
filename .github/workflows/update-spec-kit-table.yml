@@ -10,6 +10,7 @@ on:
       - '.github/workflows/update-spec-kit-table.yml'
       - '.github/workflows/update-motd.yml'
       - 'README.md'
+      - 'assets/security-scan-*.svg'
 
 permissions:
   contents: read

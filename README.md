@@ -129,7 +129,11 @@ Welcome to my GitHub profile. I'm an experienced software developer from Germany
 
 <h2 id="profile-passion-projects">❤️ Meine Herzensprojekte / <span lang="en">My Passion Projects</span></h2>
 
-<h3 id="profile-project-home-baseline">❤️ home-baseline – meine agentische Workspace-Grundlage</h3>
+<p><strong>Legende zu Sicherheitsprüfungen:</strong> Volles Schild: Deep Security Scan dokumentiert. Halbes Schild: Standard-Scan oder begrenzter Security-Scan dokumentiert. Jedes Schild an einer Überschrift verlinkt den jeweiligen Nachweis. Ohne Schild ist hier kein entsprechender Nachweis erfasst. Die Schilde zeigen dokumentierte Prüfungen, keinen Härtungsgrad und keine Garantie vollständiger Sicherheit; Umfang und geprüfter Stand stehen im verlinkten Nachweis.</p>
+
+<p lang="en"><strong>Security scan legend:</strong> Full shield: a Deep Security Scan is documented. Half shield: a Standard scan or a limited security scan is documented. Each heading shield links to its evidence. No shield means no corresponding evidence is recorded here. Shields indicate documented checks, not a hardening level or a guarantee of complete security; see the linked evidence for scope and the assessed version.</p>
+
+<h3 id="profile-project-home-baseline">❤️ home-baseline – meine agentische Workspace-Grundlage <a href="https://github.com/hindermath/home-baseline/pull/361"><img src="assets/security-scan-deep.svg" width="24" height="28" alt="Deep Security Scan der Skripte dokumentiert – Nachweis"></a></h3>
 
 **home-baseline** ist die versionierte **Level-0-Quelle** meiner agentischen Workspace-Familie. Sie stellt gemeinsame Regeln, Governance, Skripte, Spec-Kit-Presets und wiederverwendbare Workflow-Verträge bereit.
 
@@ -380,7 +384,7 @@ Statistik-Quellstände öffentlich: 2026-11-03 bis 2026-11-07; privat: 2026-09-2
 </div>
 <!-- public-speckit-runs:end -->
 
-<h3 id="profile-project-aoc">❤️ Agent Operations Cockpit – agentische Abläufe nachvollziehbar machen</h3>
+<h3 id="profile-project-aoc">❤️ Agent Operations Cockpit – agentische Abläufe nachvollziehbar machen <a href="https://github.com/hindermath/agent-operations-cockpit/pull/68"><img src="assets/security-scan-limited.svg" width="24" height="28" alt="Standard-Scan mit teilweiser Abdeckung und Security-Diff-Scan dokumentiert – Nachweis"></a></h3>
 
 Mit dem entstehenden **Agent Operations Cockpit (AOC)** bereite ich ein öffentliches **C#/.NET-Level-2-Projekt** für die nachvollziehbare Beobachtung und spätere Steuerung agentischer Entwicklungsumgebungen vor.
 
@@ -397,7 +401,7 @@ Das Projekt verbindet für mich Barrierefreiheit, nachweisgestützte Governance,
 👉 Repository: [agent-operations-cockpit](https://github.com/hindermath/agent-operations-cockpit)  
 Zielplattform / <span lang="en">Target</span>: C#/.NET · Phase: Anforderungen und Governance / <span lang="en">requirements and governance</span> · Barrierefreiheit / <span lang="en">Accessibility</span>
 
-<h3 id="profile-project-tinypl0">❤️ TinyPL/0 – Compilerbau trifft auf Retro- und Lehrtradition</h3>
+<h3 id="profile-project-tinypl0">❤️ TinyPL/0 – Compilerbau trifft auf Retro- und Lehrtradition <a href="https://github.com/hindermath/TinyPl0/pull/124"><img src="assets/security-scan-deep.svg" width="24" height="28" alt="Deep Security Scan dokumentiert – Nachweis"></a></h3>
 
 Mein wichtigstes Herzensprojekt ist **TinyPL/0**.  
 Ich implementiere den klassischen Lehr-Compiler **PL/0** von Niklaus Wirth vollständig in **C#** neu – modernisiert, testbar und in meiner eigenen Architektur.
@@ -413,7 +417,7 @@ Das Projekt verbindet Compilerbau, Didaktik, Sprachdesign und Retro-Informatik.
 👉 Repository: [TinyPl0](https://github.com/hindermath/TinyPl0)  
 Code: C# · Compiler · PL/0
 
-<h3 id="profile-project-tinycalc">❤️ TinyCalc – moderne Reimplementierung von Borlands MicroCalc</h3>
+<h3 id="profile-project-tinycalc">❤️ TinyCalc – moderne Reimplementierung von Borlands MicroCalc <a href="https://github.com/hindermath/TinyCalc/pull/120"><img src="assets/security-scan-limited.svg" width="24" height="28" alt="Standard Security Scan dokumentiert – Nachweis"></a></h3>
 
 Ein weiteres großes Herzensprojekt von mir ist **TinyCalc**.  
 Ich schreibe damit die klassische Tabellenkalkulation **Borland MicroCalc** vollständig in **C#** neu – ohne GUI, sondern bewusst als reine **Terminal-/Text-UI-Anwendung**.
@@ -429,7 +433,7 @@ Das Projekt verbindet für mich Retro-Computing, Softwarearchitektur, Testbarkei
 👉 Repository: [TinyCalc](https://github.com/hindermath/TinyCalc)  
 Code: C# · Terminal-UI · Tabellenkalkulation / <span lang="en">Spreadsheet</span>
 
-<h3 id="profile-project-tuivision">❤️ TuiVision – Terminal-UI für Sehprüfungen</h3>
+<h3 id="profile-project-tuivision">❤️ TuiVision – Terminal-UI für Sehprüfungen <a href="https://github.com/hindermath/TuiVision/pull/212"><img src="assets/security-scan-deep.svg" width="24" height="28" alt="Deep Security Scan dokumentiert – Nachweis"></a></h3>
 
 Mit **TuiVision** entwickle ich einen modernen Rahmen für Anwendungen, die im Terminal laufen.  
 Das Projekt fokussiert sich auf klare Text-UI, gute Tastaturbedienbarkeit und testbare Architektur in **C#/.NET**.
@@ -461,7 +465,7 @@ Das Projekt verbindet für mich Domänenmodellierung, Hintergrundverarbeitung un
 👉 Repository: [InventarWorkerService](https://github.com/hindermath/InventarWorkerService)  
 Code: C# · Worker Service · Inventarisierung / <span lang="en">Inventory</span>
 
-<h3 id="profile-project-sandbox">❤️ absdd-image-sandbox – Podman-Sandbox für Agentic-Based Spec-Driven Development</h3>
+<h3 id="profile-project-sandbox">❤️ absdd-image-sandbox – Podman-Sandbox für Agentic-Based Spec-Driven Development <a href="https://github.com/hindermath/absdd-image-sandbox/pull/107"><img src="assets/security-scan-limited.svg" width="24" height="28" alt="Begrenzter Security-Diff-Scan dokumentiert – Nachweis"></a></h3>
 
 Mit **absdd-image-sandbox** entwickle ich eine Podman-basierte Container- und Lernumgebung für **Agentic-Based Spec-Driven Development (ABS-DD)**.
 

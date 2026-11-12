@@ -28,6 +28,36 @@ foreach ($image in $images) {
         $image.Groups[2].Value -notmatch '-334155\?' -or $image.Groups[2].Value -match 'logoColor=black') { throw 'Incomplete badge alternative or contrast regression.' }
 }
 if ($readme.Contains('img.shields.io/badge/Topic-') -or $readme -notmatch 'Inventarisierung / <span lang="en">Inventory</span>') { throw 'Project metadata must remain actual equivalent text.' }
+# Keep scan scope in the accessible link name; a remediation PR is evidence,
+# not a claim that the current repository is free of vulnerabilities.
+$scanEvidence = @(
+    @('home-baseline', 'deep', 'home-baseline', '361', 'Skripte'),
+    @('aoc', 'limited', 'agent-operations-cockpit', '68', 'teilweiser Abdeckung'),
+    @('tinypl0', 'deep', 'TinyPl0', '124', 'Deep Security Scan'),
+    @('tinycalc', 'limited', 'TinyCalc', '120', 'Standard Security Scan'),
+    @('tuivision', 'deep', 'TuiVision', '212', 'Deep Security Scan'),
+    @('sandbox', 'limited', 'absdd-image-sandbox', '107', 'Security-Diff-Scan')
+)
+foreach ($evidence in $scanEvidence) {
+    $headingHtml = [regex]::Match($readme, ('<h3 id="profile-project-' + $evidence[0] + '">[^\r\n]+</h3>')).Value
+    $heading = [xml]($headingHtml -replace '(<img\b[^>]*)(?<!/)>', '$1 />')
+    $image = $heading.h3.a.img
+    if ($heading.h3.a.href -cne "https://github.com/hindermath/$($evidence[2])/pull/$($evidence[3])" -or
+        $image.src -cne "assets/security-scan-$($evidence[1]).svg" -or $image.alt -notmatch $evidence[4]) {
+        throw "Missing or misleading security evidence for $($evidence[0])."
+    }
+}
+foreach ($kind in @('deep', 'limited')) {
+    $svg = [IO.File]::ReadAllText((Join-Path $root "assets/security-scan-${kind}.svg"))
+    if ($svg -match '<!|<script|<image|<use|\bon\w+\s*=|href\s*=' -or
+        $svg -notmatch 'viewBox="0 0 24 28"') { throw 'Unsafe or unexpected shield SVG.' }
+    $null = [xml]$svg
+}
+if ([regex]::Matches($readme, '<img src="assets/security-scan-').Count -ne 6 -or
+    $readme -notmatch '<p lang="en"><strong>Security scan legend:' -or
+    $readme -notmatch 'keinen Härtungsgrad' -or $readme -notmatch 'not a hardening level') {
+    throw 'Missing equivalent security legend or evidence boundary.'
+}
 $scratch = Join-Path ([IO.Path]::GetTempPath()) ('profile-a11y-' + [guid]::NewGuid())
 $null = New-Item -ItemType Directory -Path $scratch
 try {
@@ -54,6 +84,6 @@ try {
         & pwsh -NoProfile -File $generator -Date 2026-11-12 -Readme $target -Messages $messages 2>$null
         if ($LASTEXITCODE -ne 2 -or [IO.File]::ReadAllText($target) -cne $invalid) { throw 'Invalid MOTD markers accepted.' }
     }
-    Write-Host 'PASS: profile language, headings, 15 stable targets, 36 high-contrast badge alternatives, escaped/idempotent MOTD and no-write preview.'
+    Write-Host 'PASS: profile language, headings, 15 stable targets, 36 high-contrast badges, 6 scoped shield links, safe SVGs, bilingual legend, escaped/idempotent MOTD and no-write preview.'
 } finally { Remove-Item -LiteralPath $scratch -Recurse -Force }
 exit 0

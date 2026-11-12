@@ -120,6 +120,30 @@ changes and before a full conformance statement. GitHub strips target=_blank.*
 
 ## Dokumentationsauswirkung / Documentation impact
 
+Ergänzung vom 12.11.2026: Sechs Projektüberschriften verlinken öffentliche
+Scan-Nachweise über lokale SVG-Schilde. Drei volle Schilde kennzeichnen
+dokumentierte Deep Scans; drei halb gefüllte Schilde Standard- oder begrenzte
+Scans. Die Füllung unterscheidet die Kategorien auch ohne Farberkennung.
+Dunkle Konturen und helle Außenkonturen erhalten die Form auf hellen und
+dunklen Hintergründen. Die Links erhalten aussagekräftige deutsche
+Alternativtexte einschließlich bekannter Umfangsgrenzen. Die Legendenbilder
+haben leere Alternativtexte, weil unmittelbar daneben gleichwertiger Text
+steht; die englische Legende trägt `lang="en"`. Bestehende Überschriften-IDs
+bleiben erhalten. Schilde sind historische Prüfnachweise, keine aktuelle
+Sicherheits- oder Härtungszusage. Die früher bestätigte VoiceOver-Beobachtung
+ist keine erneute praktische Abnahme dieser neuen Bilder und Links.
+
+*November 12 addition: six project headings link to public scan evidence using
+local SVG shields. Three full shields indicate documented Deep scans; three
+half-filled shields indicate Standard or limited scans. Shape fill distinguishes
+categories without color perception. Dark outlines and light outer outlines
+preserve the silhouette on light and dark backgrounds. Descriptive German link
+alternatives include known scope limits; legend images are decorative beside
+equivalent text, and the English legend has its own language marker. Stable
+heading IDs remain unchanged. Shields document historical checks, not current
+security or hardening guarantees. The earlier VoiceOver observation is not a
+new practical acceptance of these images and links.*
+
 `UpdateRequired`; Owner Thorsten. Kanonisch sind README, MOTD-Generator und
 Importskript; Leserpfad Profil → Inhaltsverzeichnis → Projekte/Kontakt und
 Statistik → zentrale Methodik. DE/EN stehen gemeinsam in dieser Datei;

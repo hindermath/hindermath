@@ -88,14 +88,19 @@ and checked. This is bounded browser evidence, not a full GitHub zoom assessment
 
 Der initiale Zugriff auf VoiceOver endete im Timeout. Thorsten meldete danach
 ausdrücklich laufendes VoiceOver; es wird nicht durch den Agenten abgeschaltet.
-Eine nicht beobachtete Rotor-/Sprachausgabe wird weiterhin nicht als bestanden
-gewertet. Der bereitgestellte Browser bot unter Appearance nur die
+Auf die gezielte Frage nach verständlichen Überschriften/Linknamen und passenden
+Sprachwechseln antwortete Thorsten: „Ja, werden mir sehr gut über VoiceOver
+vorgelesen.“ Diese menschlich bestätigte Ausgabe ist ein begrenzter praktischer
+Teilnachweis. Nicht beobachtete Rotorfunktionen oder eine vollständige
+Screenreader-Abnahme werden daraus nicht abgeleitet. Der bereitgestellte Browser bot unter Appearance nur die
 Kontrastoption; ein vollständiger Dark-Mode-Test und frei angepasste
 Textabstände sind damit noch nicht praktisch belegt.
 
 *The initial VoiceOver access timed out. Thorsten subsequently reported VoiceOver
-running; the agent leaves it enabled. Unobserved rotor/speech behavior remains
-unverified. The supplied appearance dialog exposed only a contrast option;
+running; the agent leaves it enabled. Thorsten positively confirmed readable
+VoiceOver output in response to the targeted heading/link/language question.
+That bounded human observation does not establish unobserved rotor behavior or
+full screen-reader acceptance. The supplied appearance dialog exposed only a contrast option;
 full dark-mode and custom text-spacing tests remain unproven.*
 
 Nicht als bestanden gewertet: vollständige VoiceOver-/NVDA- und Braille-

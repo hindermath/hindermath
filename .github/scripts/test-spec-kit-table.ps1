@@ -53,7 +53,38 @@ try {
     if ($LASTEXITCODE -ne 0 -or -not ([IO.File]::ReadAllText($readme)).Contains($v3.TrimEnd())) { throw 'V3 export was not imported byte-for-byte.' }
     & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme -CheckOnly
     if ($LASTEXITCODE -ne 0) { throw 'V3 import not idempotent.' }
-    Write-Host 'PASS: v1/v2/v3 profile import, no-write checks, checksum, markers, idempotency and MOTD preservation.'
+    $headings = @($v3.Split("`n")[2].Trim('|').Split('|') | ForEach-Object { $_.Trim() })
+    $columns = ($headings | ForEach-Object { '<th scope="col">' + $_ + '</th>' }) -join ''
+    $html = '<div lang="de"><table aria-label="Spec-Kit-Statistik" lang="de"><caption>Spec-Kit-Statistik</caption><thead><tr>' + $columns + '</tr></thead><tbody><tr><td>0</td><th scope="row"><a href="https://github.com/example/source">source</a></th>' + ('<td>0</td>' * 8) + '<td>nicht berechenbar</td></tr></tbody></table></div>'
+    function Set-AccessibleFixture {
+        param([string]$Content, [string]$Format = 'accessible-html-v1')
+        [IO.File]::WriteAllText((Join-Path $scratch 'table.md'), $Content)
+        $digest = [Convert]::ToHexString([Security.Cryptography.SHA256]::HashData([Text.Encoding]::UTF8.GetBytes($Content))).ToLowerInvariant()
+        [IO.File]::WriteAllText((Join-Path $scratch 'publication.json'), (@{schemaVersion=3;tableFormat=$Format;tableSha256=$digest} | ConvertTo-Json))
+    }
+    Set-AccessibleFixture $html
+    & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme
+    if ($LASTEXITCODE -ne 0 -or -not ([IO.File]::ReadAllText($readme)).Contains($html)) { throw 'Semantic table import failed.' }
+    $safeReadme = [IO.File]::ReadAllText($readme)
+    & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme -CheckOnly
+    if ($LASTEXITCODE -ne 0 -or -not $safeReadme.StartsWith("MOTD unchanged`r`n") -or -not $safeReadme.EndsWith("`r`nFooter unchanged")) { throw 'Semantic table import changed surrounding bytes or is not idempotent.' }
+    foreach ($invalid in @(
+        $html.Replace('scope="row"', 'scope="col"'),
+        $html.Replace('<td>0</td>', '<td onclick="alert(1)">0</td>'),
+        $html.Replace('https://github.com/example/source', 'javascript:alert(1)'),
+        $html.Replace('<caption>', '<iframe>'),
+        $html.Replace('Gestartet', 'Wrong header'),
+        $html.Replace('lang="de"', 'lang="en"'),
+        ('<!DOCTYPE div [<!ENTITY proof SYSTEM "https://example.invalid/secret">]>' + $html)
+    )) {
+        Set-AccessibleFixture $invalid
+        & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme 2>$null
+        if ($LASTEXITCODE -ne 2 -or [IO.File]::ReadAllText($readme) -cne $safeReadme) { throw 'Invalid semantic table was imported or changed README.' }
+    }
+    Set-AccessibleFixture $html 'future-unreviewed-format'
+    & pwsh -NoProfile -File $script -SourceDirectory $scratch -Readme $readme 2>$null
+    if ($LASTEXITCODE -ne 2) { throw 'Unknown presentation accepted.' }
+    Write-Host 'PASS: legacy and semantic table imports, no-write checks, safe HTML, checksum, languages, headers, idempotency and MOTD preservation.'
 } finally { Remove-Item -LiteralPath $scratch -Recurse -Force }
 # GitHub's PowerShell wrapper propagates the last native exit code. Expected
 # negative test calls must not turn a successfully completed test suite red.

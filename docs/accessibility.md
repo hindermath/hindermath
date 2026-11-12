@@ -71,6 +71,33 @@ GitHub-gerenderten Kandidaten und auf der veröffentlichten Profilseite geprüft
 audit is not proof of the new version. Delivery also verifies GitHub-rendered
 candidate content and the published profile.*
 
+Am 12.11.2026 wurde der GitHub-gerenderte Kandidat praktisch geprüft:
+DE/EN-Sprachgrenzen sind im DOM erhalten, alle 15 Ziele werden bei Enter als
+tatsächliche Zielüberschriften erkannt, die Fokusfortsetzung ist sichtbar und
+36 statt 62 Badge-Bilder bleiben. In Safari funktionierte der Kontakt-Sprung;
+der explizit auf 200 % gesetzte Website-Zoom zeigte vergrößerten, umbrechenden
+Text. Die ursprünglichen 100 % wurden anschließend in den Website-Einstellungen
+bestätigt. Das ist ein begrenzter Browsernachweis, keine vollständige
+200-%-Prüfung aller GitHub-Funktionen.
+
+*The November 12 GitHub-rendered candidate retains language boundaries and all
+fifteen targets become actual target headings after Enter; keyboard focus is
+visible. Safari independently reached Contact and showed enlarged wrapping text
+with website zoom explicitly set to 200%; the original 100% setting was restored
+and checked. This is bounded browser evidence, not a full GitHub zoom assessment.*
+
+Der initiale Zugriff auf VoiceOver endete im Timeout. Thorsten meldete danach
+ausdrücklich laufendes VoiceOver; es wird nicht durch den Agenten abgeschaltet.
+Eine nicht beobachtete Rotor-/Sprachausgabe wird weiterhin nicht als bestanden
+gewertet. Der bereitgestellte Browser bot unter Appearance nur die
+Kontrastoption; ein vollständiger Dark-Mode-Test und frei angepasste
+Textabstände sind damit noch nicht praktisch belegt.
+
+*The initial VoiceOver access timed out. Thorsten subsequently reported VoiceOver
+running; the agent leaves it enabled. Unobserved rotor/speech behavior remains
+unverified. The supplied appearance dialog exposed only a contrast option;
+full dark-mode and custom text-spacing tests remain unproven.*
+
 Nicht als bestanden gewertet: vollständige VoiceOver-/NVDA- und Braille-
 Nutzung, nicht tatsächlich ausgeführte Browser-/Zoom-/Textabstandsprüfungen,
 sowie alle GitHub-eigenen Dialoge, Anmelde- und Bearbeitungsabläufe. Praktische

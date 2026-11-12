@@ -8,9 +8,9 @@
 <!-- MOTD:START -->
 > **MOTD / Message of the Day**
 >
-> Wer den Alltag verbessert, verbessert das Produkt.
+> Wer Standards erklärt, erhöht ihre Akzeptanz.
 >
-> Improving everyday work improves the product.
+> Explaining standards increases acceptance.
 <!-- MOTD:END -->
 
 Willkommen auf meinem GitHub-Profil. Ich bin ein erfahrener Softwareentwickler mit über 40-jähriger Berufserfahrung aus Deutschland und arbeite seit mehr als 20 Jahren bei der [GWDG](https://gwdg.de/about-us/organization/departments/organisation-betrieb-und-entwicklung-von-diensten/#thorsten-hindermann). Ich bewege mich gern zwischen dem Einsatz agentischer KI plus spezifikations-gesteuerter Entwicklung, klassischer Anwendungsentwicklung, Terminal- und Tooling-Projekten, Retro-Computing und praktischer Automatisierung.

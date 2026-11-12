@@ -8,6 +8,7 @@ on:
     paths:
       - '.github/scripts/**'
       - '.github/workflows/update-spec-kit-table.yml'
+      - '.github/workflows/update-motd.yml'
       - 'README.md'
 
 permissions:
@@ -27,7 +28,9 @@ jobs:
           persist-credentials: false
       - name: Offline import and preservation tests
         shell: pwsh
-        run: ./.github/scripts/test-spec-kit-table.ps1
+        run: |
+          ./.github/scripts/test-spec-kit-table.ps1
+          ./.github/scripts/test-profile-accessibility.ps1
 
   update:
     needs: test

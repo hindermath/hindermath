@@ -6,6 +6,8 @@ on:
   workflow_dispatch:
   pull_request:
     paths:
+      - 'SECURITY.md'
+      - 'docs/security-baseline-*.md'
       - '.github/scripts/**'
       - '.github/workflows/update-spec-kit-table.yml'
       - '.github/workflows/update-motd.yml'

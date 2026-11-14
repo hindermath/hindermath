@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Ein Architekturentscheid ohne Dokumentation verliert schnell seinen Grund.</p>
-<p lang="en">An architectural decision without documentation quickly loses its reason.</p>
+<p lang="de">Ein hilfreiches Tool ist ein ruhiger Kollege.</p>
+<p lang="en">A helpful tool is a calm colleague.</p>
 </blockquote>
 <!-- MOTD:END -->
 

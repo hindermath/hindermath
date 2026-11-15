@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Ein hilfreiches Tool ist ein ruhiger Kollege.</p>
-<p lang="en">A helpful tool is a calm colleague.</p>
+<p lang="de">Eine gute Aufgabe ist klar geschnitten.</p>
+<p lang="en">A good task is clearly scoped.</p>
 </blockquote>
 <!-- MOTD:END -->
 

@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Eine gute Aufgabe ist klar geschnitten.</p>
-<p lang="en">A good task is clearly scoped.</p>
+<p lang="de">Skripte d&#252;rfen robust sein und trotzdem freundlich bleiben.</p>
+<p lang="en">Scripts can be robust and still stay friendly.</p>
 </blockquote>
 <!-- MOTD:END -->
 

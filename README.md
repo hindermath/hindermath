@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Skripte d&#252;rfen robust sein und trotzdem freundlich bleiben.</p>
-<p lang="en">Scripts can be robust and still stay friendly.</p>
+<p lang="de">Klare Priorit&#228;ten sind gelebte Architektur.</p>
+<p lang="en">Clear priorities are architecture in practice.</p>
 </blockquote>
 <!-- MOTD:END -->
 

@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Klare Priorit&#228;ten sind gelebte Architektur.</p>
-<p lang="en">Clear priorities are architecture in practice.</p>
+<p lang="de">Ein testbarer Entwurf ist meist auch ein klarer Entwurf.</p>
+<p lang="en">A testable design is usually also a clear design.</p>
 </blockquote>
 <!-- MOTD:END -->
 

@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Ein testbarer Entwurf ist meist auch ein klarer Entwurf.</p>
-<p lang="en">A testable design is usually also a clear design.</p>
+<p lang="de">Gute Sicherheitsarbeit ist unspektakul&#228;r.</p>
+<p lang="en">Good security work is unspectacular.</p>
 </blockquote>
 <!-- MOTD:END -->
 

@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Schnittstellen sind Versprechen.</p>
-<p lang="en">Interfaces are promises.</p>
+<p lang="de">Jede Abweichung braucht einen guten Grund.</p>
+<p lang="en">Every deviation needs a good reason.</p>
 </blockquote>
 <!-- MOTD:END -->
 

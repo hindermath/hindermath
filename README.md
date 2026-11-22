@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Jede Abweichung braucht einen guten Grund.</p>
-<p lang="en">Every deviation needs a good reason.</p>
+<p lang="de">Gute Werkzeuge verdienen gute Regeln.</p>
+<p lang="en">Good tools deserve good rules.</p>
 </blockquote>
 <!-- MOTD:END -->
 

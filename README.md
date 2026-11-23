@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Gute Werkzeuge verdienen gute Regeln.</p>
-<p lang="en">Good tools deserve good rules.</p>
+<p lang="de">Gute Dokumentation ist wiederverwendete Denkzeit.</p>
+<p lang="en">Good documentation is reused thinking time.</p>
 </blockquote>
 <!-- MOTD:END -->
 

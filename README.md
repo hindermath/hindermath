@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Gute Dokumentation ist wiederverwendete Denkzeit.</p>
-<p lang="en">Good documentation is reused thinking time.</p>
+<p lang="de">Ein hilfreiches Script respektiert den Exit-Pfad.</p>
+<p lang="en">A helpful script respects the exit path.</p>
 </blockquote>
 <!-- MOTD:END -->
 

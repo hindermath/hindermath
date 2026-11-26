@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Wer reproduzieren kann, kann beheben.</p>
-<p lang="en">Whoever can reproduce can fix.</p>
+<p lang="de">Text-UI braucht dieselbe Sorgfalt wie GUI.</p>
+<p lang="en">Text UI needs the same care as GUI.</p>
 </blockquote>
 <!-- MOTD:END -->
 

@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Text-UI braucht dieselbe Sorgfalt wie GUI.</p>
-<p lang="en">Text UI needs the same care as GUI.</p>
+<p lang="de">Robuste Software respektiert den schlimmsten Tag.</p>
+<p lang="en">Robust software respects the worst day.</p>
 </blockquote>
 <!-- MOTD:END -->
 

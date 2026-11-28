@@ -10,8 +10,8 @@
 <!-- MOTD:START -->
 <blockquote>
 <p><strong>MOTD / <span lang="en">Message of the Day</span></strong></p>
-<p lang="de">Robuste Software respektiert den schlimmsten Tag.</p>
-<p lang="en">Robust software respects the worst day.</p>
+<p lang="de">Ein Toolchain-Wechsel braucht mehr als Befehle.</p>
+<p lang="en">A toolchain change needs more than commands.</p>
 </blockquote>
 <!-- MOTD:END -->
 
